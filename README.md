@@ -4,8 +4,9 @@
 
 This is a lightweight portfolio starterkit built with [Eleventy](https://www.11ty.dev/). It is geared towards designers, illustrators, architects, and any other individuals who are interested in sharing their work and activity.
 
-# ![Portfolio Starter](/projects/TVSet01/Preview.jpg)![Portfolio Starter](/projects/TVSet01/Preview.jpg)
-
+# ![Portfolio Starter](/projects/TVSet01/Preview.jpg)
+<img src="/projects/TVSet01/Preview.jpg" 
+  width="189" height="255" alt="lorem">
 
 
 The intended user may not know how to code but is interested in the tech behind their website, is willing to write in [Markdown](https://daringfireball.net/projects/markdown/), and is happy to follow along with this documentation.
