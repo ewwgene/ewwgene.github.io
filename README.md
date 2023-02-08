@@ -6,17 +6,14 @@ This is a lightweight portfolio starterkit built with [Eleventy](https://www.11t
 
 <table>
   <tr>
-   <td><img src="/projects/TVSet01/Preview.jpg" 
-  width="150" alt="lorem"></td>
-    <td><img src="/projects/TVSet01/Preview.jpg" 
-  width="150" alt="lorem"></td>
+   <td></td>
   </tr>
 </table>
 
 <img src="/projects/TVSet01/Preview.jpg" 
-  width="150" alt="lorem">
+  height="255" alt="lorem">
 <img src="/projects/TVSet01/Preview.jpg" 
-  width="189" height="255" alt="lorem">
+  height="150" alt="lorem">
 
 
 The intended user may not know how to code but is interested in the tech behind their website, is willing to write in [Markdown](https://daringfireball.net/projects/markdown/), and is happy to follow along with this documentation.
