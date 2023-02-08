@@ -8,6 +8,8 @@ This is a lightweight portfolio starterkit built with [Eleventy](https://www.11t
   <tr>
    <td><img src="/projects/TVSet01/Preview.jpg" 
   width="150" alt="lorem"></td>
+    <td><img src="/projects/TVSet01/Preview.jpg" 
+  width="150" alt="lorem"></td>
   </tr>
 </table>
 
