@@ -4,6 +4,10 @@
 
 This is a lightweight portfolio starterkit built with [Eleventy](https://www.11ty.dev/). It is geared towards designers, illustrators, architects, and any other individuals who are interested in sharing their work and activity.
 
+# ![Portfolio Starter](/projects/Preview.jpg)
+
+
+
 The intended user may not know how to code but is interested in the tech behind their website, is willing to write in [Markdown](https://daringfireball.net/projects/markdown/), and is happy to follow along with this documentation.
 
 Visit [portfolio-starter.sb-ph.com](https://portfolio-starter.sb-ph.com/) to check it out. The content and code in this repository drives the demo site.
