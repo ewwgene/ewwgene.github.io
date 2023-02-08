@@ -11,7 +11,9 @@ def getProjectInfo(path):
 def makeProjectFile(path, data):
     fileMakePath= os.path.join(path, bodyFile)
     with open(fileMakePath, 'w') as f:
-        json.dump(data, f, indent=4)
+        f.write(data)
+        f.close()
+        # json.dump(data, f, indent=4)
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
@@ -32,7 +34,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
 
         print(text)
 
-        makeProjectFile(os.path.join(os.path.dirname(__file__), 'projects', project), info)
+        makeProjectFile(os.path.join(os.path.dirname(__file__), 'projects', project), text)
         # print(info['materials'][2])
 
 #os.path.exists(os.path.join(os.path.dirname(__file__), 'projects',))
