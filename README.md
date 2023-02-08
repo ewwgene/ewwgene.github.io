@@ -5,7 +5,7 @@
 This is a lightweight portfolio starterkit built with [Eleventy](https://www.11ty.dev/). It is geared towards designers, illustrators, architects, and any other individuals who are interested in sharing their work and activity.
 
 <img src="/projects/TVSet01/Preview.jpg" 
-  width="189" height="255" alt="lorem">
+  width="150" alt="lorem">
 <img src="/projects/TVSet01/Preview.jpg" 
   width="189" height="255" alt="lorem">
 
