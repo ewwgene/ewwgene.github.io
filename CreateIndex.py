@@ -33,10 +33,15 @@ def imgText(pathProject, project):
     imgTextInsertAll=''
     for file in os.listdir(pathProject):
         if os.path.isfile(os.path.join(pathProject, file)):
-            name, ext= os.path.splitext(os.path.join(pathProject, file))
+            name, ext= os.path.splitext(file)
             if ext=='.jpg':
                 imgPath=os.path.join('projects', project, file)
-                imgHeight='200'
+                imgHeight=''
+                # print(name)
+                if name=='000':
+                    imgHeight = '200'
+                else:
+                    imgHeight = '100'
                 imgAlign = 'top'
                 imgTextInsert='<img src="/' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
                 imgTextInsertAll=imgTextInsertAll+imgTextInsert
