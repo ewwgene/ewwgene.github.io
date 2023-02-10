@@ -68,7 +68,8 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         info= getProjectInfo(pathProject)
         # print(project)
         # print(info['dimensions'])
-        textT = ''' ### %s.         
+        textT = '''
+### %s.  
 _%s._  
 %s. _%s._ [(...)](https://www.google.com)  
 /

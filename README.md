@@ -1,4 +1,5 @@
- ### Buendia.         
+
+### Buendia.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -7,7 +8,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/Buendia/img_buen_01.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Buendia/img_buen_02.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Buendia/img_buen_03.jpg" height="100"></a> 
- ### Cocoon.         
+
+### Cocoon.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -16,7 +18,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/Cocoon/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/Cocoon/001.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Cocoon/002.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Cocoon/003.jpg" height="100"></a> 
- ### Glasses.         
+
+### Glasses.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -25,7 +28,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/Glasses/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/Glasses/001.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Glasses/002.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Glasses/003.jpg" height="100"></a> 
- ### Hexagon.         
+
+### Hexagon.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -34,7 +38,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Hexagon/002.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Hexagon/009.jpg" height="100"></a> 
- ### Pods.         
+
+### Pods.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -43,7 +48,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/Pods/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/Pods/img_pods1_01.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Pods/img_pods1_02.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/Pods/img_pods1_03.jpg" height="100"></a> 
- ### TV_set_02.         
+
+### TV_set_02.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://www.google.com)  
 /
@@ -52,7 +58,8 @@ WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https:
 _`IDRAW`_ 
 
 <a href="https://www.google.com"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://www.google.com"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/TV_set_02/002.jpg" height="100"></a> <a href="https://www.google.com"><img src="/projects/TV_set_02/003.jpg" height="100"></a> 
- ### TV_unit_01.         
+
+### TV_unit_01.  
 _WINTER 02.-03.2016._  
 WOODEN TV cabinet with cable management.. _W100×H100×D100 cm._ [(...)](https://www.google.com)  
 /
