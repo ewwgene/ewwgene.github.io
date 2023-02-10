@@ -46,6 +46,7 @@ def imgText(pathProject, project):
                 imgTextInsert='<img src="/' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
                 imgTextInsertAll=imgTextInsertAll+imgTextInsert
                 imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
+    imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
 
