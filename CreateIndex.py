@@ -38,7 +38,7 @@ def imgText(pathProject, project):
                 imgPath=os.path.join('projects', project, file)
                 imgHeight='200'
                 imgAlign = 'top'
-                imgTextInsert='<img src="' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
+                imgTextInsert='<img src="/' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
                 imgTextInsertAll=imgTextInsertAll+imgTextInsert
                 imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
     return imgTextInsertAll
