@@ -25,13 +25,12 @@ _09.02.2023_
   
   <table frame="hsides">
   <tr align="right" valign="center">
-   <td>### Materials:
+   <td width="20%">### Materials:<br>
 _- PINE WOOD1_<br>
 _- PINE WOOD2_<br>
 - PINE WOOD3</td>
-    <td>234</td>
-    <td>345</td>
-    <td><img src="/projects/TVSet01/Preview.jpg" 
-  height="255" alt="lorem"></td>
+    <td width="20%">234</td>
+    <td width="20%">345</td>
+    <td><img src="/projects/TVSet01/Preview.jpg"</td>
   </tr>
 </table>
