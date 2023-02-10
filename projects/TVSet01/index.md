@@ -31,6 +31,6 @@ _- PINE WOOD2_<br>
 - PINE WOOD3</td>
     <td width="20%">234</td>
     <td width="20%">345</td>
-    <td><img src="/projects/TVSet01/Preview.jpg"</td>
+    <td><img src="/projects/TVSet01/Preview.jpg"></td>
   </tr>
 </table>
