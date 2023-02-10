@@ -1,7 +1,7 @@
 
 ### Buendia.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/Buendia)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/Buendia)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -11,7 +11,7 @@ _`IDRAW`_
 
 ### Cocoon.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/Cocoon)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/Cocoon)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -21,7 +21,7 @@ _`IDRAW`_
 
 ### Glasses.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/Glasses)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/Glasses)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -31,7 +31,7 @@ _`IDRAW`_
 
 ### Hexagon.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/Hexagon)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/Hexagon)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -41,7 +41,7 @@ _`IDRAW`_
 
 ### Pods.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/Pods)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/Pods)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -51,7 +51,7 @@ _`IDRAW`_
 
 ### TV_set_02.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/TV_set_02)  
+WOODEN TV cabinet with cable management.. _W1250×H300×D350 mm._ [(...)](https://ewwgene.github.io/projects/TV_set_02)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -61,7 +61,7 @@ _`IDRAW`_
 
 ### TV_unit_01.  
 _WINTER 02.-03.2016._  
-WOODEN TV cabinet with cable management.. _W100×H100×D100 cm._ [(...)](C:/Users/eugen/OneDrive/Documents/GitHub/ewwgene.github.io/projects/TV_unit_01)  
+WOODEN TV cabinet with cable management.. _W100×H100×D100 cm._ [(...)](https://ewwgene.github.io/projects/TV_unit_01)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /

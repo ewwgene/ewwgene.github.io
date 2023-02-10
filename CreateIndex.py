@@ -31,7 +31,7 @@ def softwareMaterial(data):
     return datan
 
 def imgTextCreate(imgPath, imgHeight):
-    print(imgPath)
+    # print(imgPath)
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
@@ -74,8 +74,8 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
     if os.path.exists(os.path.join(pathProject, projectFile)):
         info= getProjectInfo(pathProject)
-        fullUrlHome=normPath(os.path.join(urlHome, pathProject))
-        # print(info['dimensions'])
+        fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
+        print(fullUrlHome)
         textT = '''
 ### %s.  
 _%s._  
