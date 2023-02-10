@@ -48,9 +48,10 @@ def imgText(pathProject, project):
                     imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
                 else:
                     imgNumInsertAll.append(imgPath)
-    for n in imgNumInsertAll:
-        imgHeight = '100'
-        imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
+    for e, n in enumerate(imgNumInsertAll):
+        if e<2:
+            imgHeight = '100'
+            imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
 
     imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
