@@ -15,6 +15,20 @@ def makeProjectFile(path, data):
         f.close()
         # json.dump(data, f, indent=4)
 
+def hardwareMaterial(data):
+    datan=''
+    for h in data:
+        hn= '`'+h+'`'
+        datan=datan+hn
+    return datan
+
+def softwareMaterial(data):
+    datan=[]
+    for h in data:
+        hn= '`'+h+'`'
+        datan.append(hn)
+    return datan
+
 
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
@@ -30,7 +44,7 @@ _%s._
 %s
 /
 %s
-''' % (info['name'], info['date'], info['comment'], info['dimensions'], info['hardware'], info['software'])
+''' % (info['name'], info['date'], info['comment'], info['dimensions'], hardwareMaterial(info['hardware']), softwareMaterial(info['software']))
 
         print(text)
 
