@@ -40,7 +40,7 @@ def imgText(pathProject, project):
                 imgAlign = 'top'
                 imgTextInsert='<img src="' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
                 imgTextInsertAll=imgTextInsertAll+imgTextInsert
-                # imgTextInsert
+                imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
     return imgTextInsertAll
 
 
