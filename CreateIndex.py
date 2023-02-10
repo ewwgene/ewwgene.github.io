@@ -2,6 +2,7 @@ import os, json
 
 projectFile= '.project'
 bodyFile= 'README.md'
+urlHome= 'https://ewwgene.github.io/'
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -30,8 +31,14 @@ def softwareMaterial(data):
     return datan
 
 def imgTextCreate(imgPath, imgHeight):
-    imgTextInsert = '<a href="https://www.google.com"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    print(imgPath)
+    fullUrlHome=normPath(os.path.join(urlHome, imgPath))
+    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
+
+def normPath(path):
+    nPath = path.replace('\\', '/')
+    return nPath
 
 def imgText(pathProject, project):
     imgTextInsertAll=''
@@ -53,7 +60,8 @@ def imgText(pathProject, project):
             imgHeight = '100'
             imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
 
-    imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
+    imgTextInsertAll=normPath(imgTextInsertAll)
+
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
@@ -66,24 +74,24 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
     if os.path.exists(os.path.join(pathProject, projectFile)):
         info= getProjectInfo(pathProject)
-        # print(project)
+        fullUrlHome=normPath(os.path.join(urlHome, pathProject))
         # print(info['dimensions'])
         textT = '''
 ### %s.  
 _%s._  
-%s. _%s._ [(...)](https://www.google.com)  
+%s. _%s._ [(...)](%s)  
 /
 %s
 /
 %s
 
 %s
-''' % (project, info['date'], info['comment'], info['dimensions'], hardwareMaterial(info['hardware']), softwareMaterial(info['software']), imgText(pathProject, project))
+''' % (project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']), softwareMaterial(info['software']), imgText(pathProject, project))
 
         # imgText(pathProject, project)
         # print(text)
         text=text+textT
-print(text)
+# print(text)
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
         # print(info['materials'][2])
 
