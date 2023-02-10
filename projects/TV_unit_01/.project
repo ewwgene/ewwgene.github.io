@@ -1,5 +1,4 @@
 {
-    "name": "TV_unit_01",
     "hardware": ["PINE_WOOD", "DANISH OIL"],
     "software": ["AUTOCAD", "ARCHICAD", "RHINOCEROUS"],
     "dimensions": "W100×H100×D100 cm",
