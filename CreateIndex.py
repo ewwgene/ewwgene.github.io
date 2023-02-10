@@ -15,22 +15,22 @@ def makeProjectFile(path, data):
         f.close()
         # json.dump(data, f, indent=4)
 
+
+
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     if os.path.exists(os.path.join(os.path.dirname(__file__), 'projects', project, projectFile)):
         info= getProjectInfo(os.path.join(os.path.dirname(__file__), 'projects', project))
-        print(info)
-        print(info['dimensions'])
-        text = '''- Name: %s         
-- Date:
+        # print(info)
+        # print(info['dimensions'])
+        text = ''' ### %s.         
+_%s._
+%s. _%s._ [(...)](https://www.google.com)
+/
 %s
-- Materials:
+/
 %s
-%s
-%s
-- Dimensions:
-%s
-''' % (info['name'], info['date'], info['materials'][0], info['materials'][1], info['materials'][2], info['dimensions'])
+''' % (info['name'], info['date'], info['comment'], info['dimensions'], info['hardware'], info['software'])
 
         print(text)
 

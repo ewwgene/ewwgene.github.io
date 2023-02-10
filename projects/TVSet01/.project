@@ -1,7 +1,8 @@
 {
-    "name": "TVSet #01",
-    "materials": ["PINE WOOD1", "PINE WOOD2", "PINE WOOD3"],
-    "dimensions": "W100 H100 D100 cm",
-    "comment": "",
-    "date": "09.02.2023"
+    "name": "TV_unit_01",
+    "hardware": ["PINE_WOOD", "DANISH OIL"],
+    "software": ["AUTOCAD", "ARCHICAD", "RHINOCEROUS"],
+    "dimensions": "W100×H100×D100 cm",
+    "comment": "WOODEN TV cabinet with cable management.",
+    "date": "WINTER 02.-03.2016"
 }
