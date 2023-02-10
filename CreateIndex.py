@@ -24,8 +24,8 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         # print(info)
         # print(info['dimensions'])
         text = ''' ### %s.         
-_%s._
-%s. _%s._ [(...)](https://www.google.com)
+_%s._  
+%s. _%s._ [(...)](https://www.google.com)  
 /
 %s
 /
