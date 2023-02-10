@@ -32,7 +32,8 @@ def softwareMaterial(data):
 
 def imgTextCreate(imgPath, imgHeight):
     # print(imgPath)
-    fullUrlHome=normPath(os.path.join(urlHome, imgPath))
+    fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
+    print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
@@ -75,7 +76,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     if os.path.exists(os.path.join(pathProject, projectFile)):
         info= getProjectInfo(pathProject)
         fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
-        print(fullUrlHome)
+        ################################################################################################################
         textT = '''
 ### %s.  
 _%s._  
@@ -86,9 +87,25 @@ _%s._
 %s
 
 %s
-''' % (project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']), softwareMaterial(info['software']), imgText(pathProject, project))
+''' % (
+        project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']),
+        softwareMaterial(info['software']), imgText(pathProject, project))
+        ################################################################################################################
 
-        # imgText(pathProject, project)
+#         textIndex = '''
+# ### %s.
+# _%s._
+# %s. _%s._ [(...)](%s)
+# /
+# %s
+# /
+# %s
+#
+# %s
+# ''' % (
+#         project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']),
+#         softwareMaterial(info['software']), imgText(pathProject, project))
+        ################################################################################################################
         # print(text)
         text=text+textT
 # print(text)
@@ -97,3 +114,5 @@ makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
 #os.path.exists(os.path.join(os.path.dirname(__file__), 'projects',))
 # print(os.listdir(os.path.join(os.path.dirname(__file__), 'projects')))
+
+
