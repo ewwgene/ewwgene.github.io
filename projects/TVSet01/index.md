@@ -1,36 +1,30 @@
-# TVSet #01         
-_09.02.2023_
+
+> ## TVSet #01
+> _WOODEN TV cabinet with cable management_
+> WINTER 02.2023
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+```
 ### Dimensions:
 - W100 H100 D100 cm
 ### Materials:
-- PINE WOOD1
-- PINE WOOD2
-- PINE WOOD3
-<table>
-  <tr>
-   <td>
-### Materials:
-- PINE WOOD1
-- PINE WOOD2
-- PINE WOOD3
-    </td>
-   <td<img src="/projects/TVSet01/Preview.jpg" 
-  height="255" alt="lorem">
-    </td>
-  </tr>
-</table>
-
-<img src="/projects/TVSet01/Preview.jpg" 
-  height="255" alt="lorem">
+`PINE WOOD1`
+`PINE WOOD2`
+`PINE WOOD3`
   
-  <table frame="hsides">
-  <tr align="right" valign="center">
-   <td width="20%">### Materials:<br>
-_- PINE WOOD1_<br>
-_- PINE WOOD2_<br>
-- PINE WOOD3</td>
-    <td width="20%">234</td>
-    <td width="20%">345</td>
-    <td><img src="/projects/TVSet01/Preview.jpg"></td>
-  </tr>
-</table>
+<div>
+  <div>
+    <div>
+### Materials:<br>
+- PINE WOOD1 <br>
+- PINE WOOD2 <br>
+- PINE WOOD3 </div>
+    <div width="20%">234</div>
+    <div width="20%">345</div>
+    <img src="/projects/TVSet01/Preview.jpg" height="255">
+    
+ </div>
+</div>
+
