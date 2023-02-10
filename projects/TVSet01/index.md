@@ -1,30 +1,27 @@
+## TVSet #01.  
+WINTER 02.-03.2016.  
+_W100×H100×D100 cm._ WOODEN TV cabinet with cable management. [(...)](https://www.google.com)
 
-> ## TVSet #01
-> _WOODEN TV cabinet with cable management_
-> WINTER 02.2023
+`PINE_WOOD`
+`DANISH OIL`
+/_`AUTOCAD`_
+_`ARCHICAD`_
+_`RHINOCEROUS`_
 
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+<a href="https://www.google.com">
+	<img src="/projects/TVSet01/Preview.jpg" height="200" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top">
+</a>
 
-```
-### Dimensions:
-- W100 H100 D100 cm
-### Materials:
-`PINE WOOD1`
-`PINE WOOD2`
-`PINE WOOD3`
-  
-<div>
-  <div>
-    <div>
-### Materials:<br>
-- PINE WOOD1 <br>
-- PINE WOOD2 <br>
-- PINE WOOD3 </div>
-    <div width="20%">234</div>
-    <div width="20%">345</div>
-    <img src="/projects/TVSet01/Preview.jpg" height="255">
-    
- </div>
-</div>
+## TVSet #01.  
+WINTER 02.-03.2016.  
+_W100×H100×D100 cm._ WOODEN TV cabinet with cable management. [(...)](https://www.google.com)
 
+`PINE_WOOD`
+`DANISH OIL`
+/_`AUTOCAD`_
+_`ARCHICAD`_
+_`RHINOCEROUS`_
+
+<a href="https://www.google.com">
+	<img src="/projects/TVSet01/Preview.jpg" height="200" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top"> <img src="/projects/TVSet01/Preview.jpg" height="100" align="top">
+</a>
