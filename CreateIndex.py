@@ -18,14 +18,14 @@ def makeProjectFile(path, data):
 def hardwareMaterial(data):
     datan=''
     for h in data:
-        hn= '`'+h+'`'
+        hn= '`'+h+'`'+' '
         datan=datan+hn
     return datan
 
 def softwareMaterial(data):
     datan=[]
     for h in data:
-        hn= '`'+h+'`'
+        hn= '_`'+h+'`_'
         datan.append(hn)
     return datan
 
