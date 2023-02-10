@@ -1,7 +1,7 @@
 import os, json
 
 projectFile= '.project'
-bodyFile= 'bodyFile.md'
+bodyFile= 'README.md'
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -72,7 +72,7 @@ _%s._
 
         # imgText(pathProject, project)
         print(text)
-        makeProjectFile(os.path.join(os.path.dirname(__file__), 'projects', project), text)
+        makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
         # print(info['materials'][2])
 
 #os.path.exists(os.path.join(os.path.dirname(__file__), 'projects',))
