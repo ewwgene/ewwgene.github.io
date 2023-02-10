@@ -4,4 +4,4 @@ WOODEN TV cabinet with cable management.. _W100×H100×D100 cm._ [(...)](https:/
 /
 `PINE_WOOD` `DANISH OIL` 
 /
-['_`AUTOCAD`_', '_`ARCHICAD`_', '_`RHINOCEROUS`_']
+_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 

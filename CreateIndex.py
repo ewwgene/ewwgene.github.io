@@ -23,10 +23,10 @@ def hardwareMaterial(data):
     return datan
 
 def softwareMaterial(data):
-    datan=[]
+    datan=''
     for h in data:
-        hn= '_`'+h+'`_'
-        datan.append(hn)
+        hn= '_`'+h+'`_'+' '
+        datan=datan+hn
     return datan
 
 
