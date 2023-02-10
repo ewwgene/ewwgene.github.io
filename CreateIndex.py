@@ -29,8 +29,13 @@ def softwareMaterial(data):
         datan=datan+hn
     return datan
 
+def imgTextCreate(imgPath, imgHeight):
+    imgTextInsert = '<a href="https://www.google.com"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    return imgTextInsert
+
 def imgText(pathProject, project):
     imgTextInsertAll=''
+    imgNumInsertAll = []
     for file in os.listdir(pathProject):
         if os.path.isfile(os.path.join(pathProject, file)):
             name, ext= os.path.splitext(file)
@@ -40,13 +45,15 @@ def imgText(pathProject, project):
                 # print(name)
                 if name=='000':
                     imgHeight = '200'
+                    imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
                 else:
-                    imgHeight = '100'
-                imgAlign = 'top'
-                imgTextInsert='<img src="/' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
-                imgTextInsertAll=imgTextInsertAll+imgTextInsert
-                imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
-    imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
+                    imgNumInsertAll.append(imgPath)
+    for n in imgNumInsertAll:
+        imgHeight = '100'
+        imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
+
+    imgTextInsertAll=imgTextInsertAll.replace('\\', '/')
+    # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
 
