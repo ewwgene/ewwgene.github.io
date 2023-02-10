@@ -49,7 +49,7 @@ def imgText(pathProject, project):
                 else:
                     imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
-        if e<2:
+        if e<3:
             imgHeight = '100'
             imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
 
