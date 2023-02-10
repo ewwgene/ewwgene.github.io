@@ -53,13 +53,14 @@ def imgText(pathProject, project):
 
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
+text=''
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
     if os.path.exists(os.path.join(pathProject, projectFile)):
         info= getProjectInfo(pathProject)
         # print(project)
         # print(info['dimensions'])
-        text = ''' ### %s.         
+        textT = ''' ### %s.         
 _%s._  
 %s. _%s._ [(...)](https://www.google.com)  
 /
@@ -71,8 +72,10 @@ _%s._
 ''' % (project, info['date'], info['comment'], info['dimensions'], hardwareMaterial(info['hardware']), softwareMaterial(info['software']), imgText(pathProject, project))
 
         # imgText(pathProject, project)
-        print(text)
-        makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
+        # print(text)
+        text=text+textT
+print(text)
+makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
         # print(info['materials'][2])
 
 #os.path.exists(os.path.join(os.path.dirname(__file__), 'projects',))
