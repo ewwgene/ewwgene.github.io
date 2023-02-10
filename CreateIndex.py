@@ -29,13 +29,29 @@ def softwareMaterial(data):
         datan=datan+hn
     return datan
 
+def imgText(pathProject, project):
+    imgTextInsertAll=''
+    for file in os.listdir(pathProject):
+        if os.path.isfile(os.path.join(pathProject, file)):
+            name, ext= os.path.splitext(os.path.join(pathProject, file))
+            if ext=='.jpg':
+                imgPath=os.path.join('projects', project, file)
+                imgHeight='200'
+                imgAlign = 'top'
+                imgTextInsert='<img src="' + imgPath + '" height="'+ imgHeight +'" align="' + imgAlign + '"> '
+                imgTextInsertAll=imgTextInsertAll+imgTextInsert
+                # imgTextInsert
+    return imgTextInsertAll
+
+
 
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
-    if os.path.exists(os.path.join(os.path.dirname(__file__), 'projects', project, projectFile)):
-        info= getProjectInfo(os.path.join(os.path.dirname(__file__), 'projects', project))
-        # print(info)
+    pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
+    if os.path.exists(os.path.join(pathProject, projectFile)):
+        info= getProjectInfo(pathProject)
+        # print(project)
         # print(info['dimensions'])
         text = ''' ### %s.         
 _%s._  
@@ -44,10 +60,12 @@ _%s._
 %s
 /
 %s
-''' % (info['name'], info['date'], info['comment'], info['dimensions'], hardwareMaterial(info['hardware']), softwareMaterial(info['software']))
 
+%s
+''' % (project, info['date'], info['comment'], info['dimensions'], hardwareMaterial(info['hardware']), softwareMaterial(info['software']), imgText(pathProject, project))
+
+        # imgText(pathProject, project)
         print(text)
-
         makeProjectFile(os.path.join(os.path.dirname(__file__), 'projects', project), text)
         # print(info['materials'][2])
 
