@@ -80,7 +80,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s[(...)](%s)  
+%s... [(read more...)](%s)  
 /
 %s
 /
