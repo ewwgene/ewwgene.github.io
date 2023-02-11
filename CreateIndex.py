@@ -39,9 +39,9 @@ def imgTextCreate(imgPath, imgHeight):
 
 def imgTextCreateProject(imgPath, imgHeight):
     # print(imgPath)
-    fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
-    print(imgPath)
-    imgTextInsert = '<a href="' + imgPath + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    fullUrlHome=normPath(os.path.join(urlHome, imgPath))
+    print(fullUrlHome)
+    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
 def normPath(path):
@@ -123,7 +123,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s... [[:::]](%s)  
+%s... [[more...]](%s)  
 /
 %s
 /
