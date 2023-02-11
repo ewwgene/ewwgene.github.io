@@ -68,6 +68,7 @@ def imgText(pathProject, project):
 
 def imgTextProject(path, project, over):
     imgTextInsertAll=''
+    # imgNumInsertAll = []
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
@@ -76,7 +77,8 @@ def imgTextProject(path, project, over):
                 imgHeight=''
                 # print(name)
                 imgHeight = '150'
-                imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
+                imgTextInsertAll = imgTextInsertAll + imgTextCreate(imgPath, imgHeight)
+
 
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -93,7 +95,7 @@ def imgTextProjectIntro(path, project):
                 imgHeight = ''
                 # print(name)
                 imgHeight = '150'
-                imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
+                imgTextInsertAll = imgTextInsertAll + imgTextCreate(imgPath, imgHeight)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -114,7 +116,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s... [>>>](%s)  
+%s... [[>>>]](%s)  
 /
 %s
 /
