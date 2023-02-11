@@ -80,7 +80,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s. _%s._ [(...)](%s)  
+%s. [(...)](%s)  
 /
 %s
 /
@@ -88,7 +88,7 @@ _%s._
 
 %s
 ''' % (
-        project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']),
+        project, info['date'], info['overview'], fullUrlHome, hardwareMaterial(info['hardware']),
         softwareMaterial(info['software']), imgText(pathProject, project))
         ################################################################################################################
 
