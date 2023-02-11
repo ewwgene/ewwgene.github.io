@@ -33,8 +33,15 @@ def softwareMaterial(data):
 def imgTextCreate(imgPath, imgHeight):
     # print(imgPath)
     fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
-    print(fullUrlHome)
+    # print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    return imgTextInsert
+
+def imgTextCreateProject(imgPath, imgHeight):
+    # print(imgPath)
+    fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
+    print(imgPath)
+    imgTextInsert = '<a href="' + imgPath + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
 def normPath(path):
@@ -77,7 +84,7 @@ def imgTextProject(path, project, over):
                 imgHeight=''
                 # print(name)
                 imgHeight = '150'
-                imgTextInsertAll = imgTextInsertAll + imgTextCreate(imgPath, imgHeight)
+                imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(imgPath, imgHeight)
 
 
     imgTextInsertAll=normPath(imgTextInsertAll)
@@ -95,7 +102,7 @@ def imgTextProjectIntro(path, project):
                 imgHeight = ''
                 # print(name)
                 imgHeight = '150'
-                imgTextInsertAll = imgTextInsertAll + imgTextCreate(imgPath, imgHeight)
+                imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(imgPath, imgHeight)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -116,7 +123,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s... [[>>>]](%s)  
+%s... [[:::]](%s)  
 /
 %s
 /
