@@ -88,7 +88,7 @@ _%s._
 
 %s
 ''' % (
-        project, info['date'], info['overview'], fullUrlHome, hardwareMaterial(info['hardware']),
+        project, info['date'], info['overview'][0:100], fullUrlHome, hardwareMaterial(info['hardware']),
         softwareMaterial(info['software']), imgText(pathProject, project))
         ################################################################################################################
 
