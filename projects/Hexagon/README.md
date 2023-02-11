@@ -12,4 +12,4 @@ We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “H
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Hexagon/Overview/002.jpg"><img src="/projects/Hexagon/Overview/002.jpg" height="150"></a> 
+

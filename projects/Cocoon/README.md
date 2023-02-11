@@ -12,4 +12,4 @@ We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “H
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Cocoon/Overview/009.jpg"><img src="/projects/Cocoon/Overview/009.jpg" height="150"></a> 
+

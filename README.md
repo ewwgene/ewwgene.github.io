@@ -7,7 +7,7 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_buen_th.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_nut_th.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/002.jpg" height="100"></a> 
 
 ### Cocoon.  
 _02.2016 - WINTER._  
@@ -37,7 +37,7 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/010.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> 
 
 ### Pods.  
 _02.2016 - WINTER._  
@@ -47,7 +47,7 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/img_pods1_01.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/img_pods1_02.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/img_pods1_03.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/000.jpg" height="200"></a> 
 
 ### TV_set_02.  
 _02.2016 - WINTER._  
