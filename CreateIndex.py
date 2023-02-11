@@ -66,11 +66,45 @@ def imgText(pathProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
+def imgTextProject(path, project, over):
+    imgTextInsertAll=''
+    for file in os.listdir(path):
+        if os.path.isfile(os.path.join(path, file)):
+            name, ext= os.path.splitext(file)
+            if ext=='.jpg':
+                imgPath=os.path.join('projects', project, over, file)
+                imgHeight=''
+                # print(name)
+                imgHeight = '150'
+                imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
+
+    imgTextInsertAll=normPath(imgTextInsertAll)
+    # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
+    return imgTextInsertAll
+
+
+def imgTextProjectIntro(path, project):
+    imgTextInsertAll = ''
+    for file in os.listdir(path):
+        if os.path.isfile(os.path.join(path, file)):
+            name, ext = os.path.splitext(file)
+            if ext == '.jpg':
+                imgPath = os.path.join('projects', project, file)
+                imgHeight = ''
+                # print(name)
+                imgHeight = '150'
+                imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
+
+    imgTextInsertAll = normPath(imgTextInsertAll)
+    # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
+    return imgTextInsertAll
+
 
 
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 text=''
+textProject=''
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
     if os.path.exists(os.path.join(pathProject, projectFile)):
@@ -80,7 +114,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         textT = '''
 ### %s.  
 _%s._  
-%s... [(read more...)](%s)  
+%s... [>>>](%s)  
 /
 %s
 /
@@ -92,21 +126,29 @@ _%s._
         softwareMaterial(info['software']), imgText(pathProject, project))
         ################################################################################################################
 
-#         textIndex = '''
-# ### %s.
-# _%s._
-# %s. _%s._ [(...)](%s)
-# /
-# %s
-# /
-# %s
-#
-# %s
-# ''' % (
-#         project, info['date'], info['comment'], info['dimensions'], fullUrlHome, hardwareMaterial(info['hardware']),
-#         softwareMaterial(info['software']), imgText(pathProject, project))
+        textProject = '''
+# %s. _%s._  
+%s  
+
+**Overview**  
+%s  
+<br>
+%s  
+
+**Making**  
+%s  
+/
+%s  
+/
+%s  
+<br>
+%s
+''' % (
+        project, info['date'], imgTextProjectIntro(pathProject, project), info['overview'], imgTextProject(os.path.join(pathProject, 'Making'), project, 'Making'), info['overview'], hardwareMaterial(info['hardware']),
+        softwareMaterial(info['software']), imgTextProject(os.path.join(pathProject, 'Overview'), project, 'Overview'))
         ################################################################################################################
         # print(text)
+        makeProjectFile(pathProject, textProject)
         text=text+textT
 # print(text)
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)

@@ -1,17 +1,17 @@
 
 ### Buendia.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/Buendia)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/Buendia)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_buen_01.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_buen_02.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_buen_03.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_buen_th.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/img_nut_th.jpg" height="100"></a> 
 
 ### Cocoon.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/Cocoon)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/Cocoon)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -21,7 +21,7 @@ _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_
 
 ### Glasses.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/Glasses)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/Glasses)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -31,17 +31,17 @@ _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_
 
 ### Hexagon.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/Hexagon)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/Hexagon)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/010.jpg" height="100"></a> 
 
 ### Pods.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/Pods)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/Pods)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
@@ -51,17 +51,17 @@ _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_
 
 ### TV_set_02.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/TV_set_02)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/TV_set_02)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/003.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/004.jpg" height="100"></a> 
 
 ### TV_unit_01.  
 _02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [(read more...)](https://ewwgene.github.io/projects/TV_unit_01)  
+WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [>>>](https://ewwgene.github.io/projects/TV_unit_01)  
 /
 `PINE_WOOD` `DANISH OIL` 
 /
