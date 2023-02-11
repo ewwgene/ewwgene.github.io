@@ -138,12 +138,10 @@ _%s._
         textProject = '''
 # %s. _%s._  
 %s  
-
 **Overview**  
 %s  
 <br>
 %s  
-
 **Making**  
 %s  
 /
@@ -153,7 +151,7 @@ _%s._
 <br>
 %s
 ''' % (
-        project, info['date'], imgTextProjectIntro(pathProject, project), info['overview'], imgTextProject(os.path.join(pathProject, 'Making'), project, 'Making'), info['overview'], hardwareMaterial(info['hardware']),
+        project, info['date'], imgTextProjectIntro(pathProject, project), info['overview'], imgTextProject(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
         softwareMaterial(info['software']), imgTextProject(os.path.join(pathProject, 'Overview'), project, 'Overview'))
         ################################################################################################################
         # print(text)

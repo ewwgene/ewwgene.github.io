@@ -1,14 +1,12 @@
 
 # TV_unit_01. _02.2016 - WINTER._  
 <a href="https://ewwgene.github.io/projects/TV_unit_01/000.jpg"><img src="/projects/TV_unit_01/000.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/TV_unit_01/002.jpg"><img src="/projects/TV_unit_01/002.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/TV_unit_01/003.jpg"><img src="/projects/TV_unit_01/003.jpg" height="150"></a>   
-
 **Overview**  
 WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
 <br>
 <a href="https://ewwgene.github.io/projects/TV_unit_01/Making/3749280237_00106c45c5_o.jpg"><img src="/projects/TV_unit_01/Making/3749280237_00106c45c5_o.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/TV_unit_01/Making/action-bronson-let-me-breathe-atlantic.jpg"><img src="/projects/TV_unit_01/Making/action-bronson-let-me-breathe-atlantic.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/TV_unit_01/Making/bf90cd4f320c384e0f235abe1af74d53.jpg"><img src="/projects/TV_unit_01/Making/bf90cd4f320c384e0f235abe1af74d53.jpg" height="150"></a>   
-
 **Making**  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
+We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
 /
 `PINE_WOOD` `DANISH OIL`   
 /
