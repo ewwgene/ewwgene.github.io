@@ -133,6 +133,7 @@ def imgTextProjectIntro100(path, project):
             if ext == '.jpg':
                 if name=='100':
                     imgPath = os.path.join('projects', project, file)
+                    normPath(imgPath)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
                     # imgTextInsert = fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
@@ -172,7 +173,7 @@ _%s._
 
         textProject = '''
 ## %s. _%s._  
-# ![%s](%s)%s  
+# ![%s](/%s)%s  
 **Overview**  
 %s  
 <br>
