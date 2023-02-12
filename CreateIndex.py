@@ -131,7 +131,7 @@ def imgTextProjectIntro100(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                if name==100:
+                if name=='100':
                     imgPath = os.path.join('projects', project, file)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
