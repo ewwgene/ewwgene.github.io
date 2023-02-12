@@ -1,6 +1,6 @@
 
 ## Cocoon. _02.2016 - WINTER._  
-# ![Cocoon](/None)<a href="https://ewwgene.github.io/projects/Cocoon/001.jpg"><img src="/projects/Cocoon/001.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Cocoon/002.jpg"><img src="/projects/Cocoon/002.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Cocoon/003.jpg"><img src="/projects/Cocoon/003.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Cocoon/999.jpg"><img src="/projects/Cocoon/999.jpg" height="150"></a>   
+![Cocoon](/None)<a href="https://ewwgene.github.io/projects/Cocoon/001.jpg"><img src="/projects/Cocoon/001.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Cocoon/002.jpg"><img src="/projects/Cocoon/002.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Cocoon/003.jpg"><img src="/projects/Cocoon/003.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Cocoon/999.jpg"><img src="/projects/Cocoon/999.jpg" height="125"></a>   
 **Overview**  
 WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
 <br>

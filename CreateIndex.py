@@ -84,7 +84,7 @@ def imgTextProject(path, project):
                 imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
         if e >= 5:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '150')
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -99,7 +99,7 @@ def imgTextProjectMaking(path, project, over):
                 imgPath=os.path.join('projects', project, over, file)
                 imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '150')
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -118,7 +118,7 @@ def imgTextProjectIntro(path, project):
                     imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
         if e < 5:
-            imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '150')
+            imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '125')
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -173,7 +173,7 @@ _%s._
 
         textProject = '''
 ## %s. _%s._  
-# ![%s](/%s)%s  
+![%s](/%s)%s  
 **Overview**  
 %s  
 <br>

@@ -1,6 +1,6 @@
 
 ## Pods. _02.2016 - WINTER._  
-# ![Pods](/None)<a href="https://ewwgene.github.io/projects/Pods/img_pods1_01.jpg"><img src="/projects/Pods/img_pods1_01.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_02.jpg"><img src="/projects/Pods/img_pods1_02.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_03.jpg"><img src="/projects/Pods/img_pods1_03.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_01.jpg"><img src="/projects/Pods/img_pods2_01.jpg" height="150"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="150"></a>   
+![Pods](/None)<a href="https://ewwgene.github.io/projects/Pods/img_pods1_01.jpg"><img src="/projects/Pods/img_pods1_01.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_02.jpg"><img src="/projects/Pods/img_pods1_02.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_03.jpg"><img src="/projects/Pods/img_pods1_03.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_01.jpg"><img src="/projects/Pods/img_pods2_01.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="125"></a>   
 **Overview**  
 WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
 <br>
@@ -12,4 +12,4 @@ We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “H
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="150"></a> 
+<a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="125"></a> 
