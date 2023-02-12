@@ -60,11 +60,11 @@ _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_
 <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/003.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/004.jpg" height="100"></a> 
 
 ### TV_unit01.  
-_02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [[more...]](https://ewwgene.github.io/projects/TV_unit01)  
+_06.2014 - SUMMER._  
+WOODEN TV cabinet with cable management. Open symmetrical storage area............................................ [[more...]](https://ewwgene.github.io/projects/TV_unit01)  
 /
-`PINE_WOOD` `DANISH OIL` 
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
+_`IDRAW`_ 
 
 <a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/003.jpg" height="100"></a> 
