@@ -112,7 +112,8 @@ def imgTextProjectIntro(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                if file!=000 and file!=100:
+                if name!='000' and name!='100':
+                    print(name)
                     imgPath = os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
@@ -130,7 +131,7 @@ def imgTextProjectIntro100(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                if file==100:
+                if name==100:
                     imgPath = os.path.join('projects', project, file)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
