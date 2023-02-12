@@ -112,8 +112,9 @@ def imgTextProjectIntro(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                imgPath = os.path.join('projects', project, file)
-                imgNumInsertAll.append(imgPath)
+                if file!=000 and file!=100:
+                    imgPath = os.path.join('projects', project, file)
+                    imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
         if e < 5:
             imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '150')
@@ -121,6 +122,25 @@ def imgTextProjectIntro(path, project):
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
+
+def imgTextProjectIntro100(path, project):
+    # imgTextInsertAll = ''
+    # imgNumInsertAll = []
+    for file in os.listdir(path):
+        if os.path.isfile(os.path.join(path, file)):
+            name, ext = os.path.splitext(file)
+            if ext == '.jpg':
+                if file==100:
+                    imgPath = os.path.join('projects', project, file)
+                    return imgPath
+                    # imgNumInsertAll.append(imgPath)
+                    # imgTextInsert = fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    # for e, n in enumerate(imgNumInsertAll):
+    #     if e < 5:
+    #         imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '150')
+    #
+    # imgTextInsertAll = normPath(imgTextInsertAll)
+    # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
 
 
 
@@ -151,7 +171,7 @@ _%s._
 
         textProject = '''
 ## %s. _%s._  
-%s  
+# ![%s](%s)%s  
 **Overview**  
 %s  
 <br>
@@ -165,7 +185,7 @@ _%s._
 <br>
 %s
 ''' % (
-        project, info['date'], imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+        project, info['date'], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
         softwareMaterial(info['software']), imgTextProject(pathProject, project))
         ################################################################################################################
         # print(text)
