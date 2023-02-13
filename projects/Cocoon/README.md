@@ -1,15 +1,15 @@
 
-## Cocoon. _02.2016 - WINTER._  
-![Cocoon](/None)  
+## Cocoon. _04/2015 - 09/2015._  
+![Cocoon](/projects/Cocoon/100.jpg)<a href="https://ewwgene.github.io/projects/Cocoon/101.jpg"><img src="/projects/Cocoon/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Cocoon/102.jpg"><img src="/projects/Cocoon/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Cocoon/110.jpg"><img src="/projects/Cocoon/110.jpg" height="100"></a>   
 **Overview**  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
-<br>
   
+<br>
+<a href="https://ewwgene.github.io/projects/Cocoon/Making/200.jpg"><img src="/projects/Cocoon/Making/200.jpg" height="100"></a>   
 **Making**  
-We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
+  
 /
-`PINE_WOOD` `DANISH OIL`   
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
+_`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_   
 <br>
 
