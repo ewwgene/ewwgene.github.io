@@ -157,7 +157,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
         ################################################################################################################
         textT = '''
-### %s.  
+### [%s.](%s) 
 _%s._  
 %s... [[more...]](%s)  
 /
@@ -167,7 +167,7 @@ _%s._
 
 %s
 ''' % (
-        project, info['date'], info['overview'][0:199], fullUrlHome, hardwareMaterial(info['hardware']),
+        project, fullUrlHome, info['date'], info['overview'][0:199], fullUrlHome, hardwareMaterial(info['hardware']),
         softwareMaterial(info['software']), imgText(pathProject, project))
         ################################################################################################################
 
