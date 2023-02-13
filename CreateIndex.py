@@ -40,7 +40,7 @@ def imgTextCreate(imgPath, imgHeight):
 def imgTextCreateProject(imgPath, imgHeight):
     # print(imgPath)
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
-    print(fullUrlHome)
+    # print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
@@ -95,12 +95,15 @@ def imgTextProjectMaking(path, project, over):
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
+
             if ext=='.jpg':
+
                 imgPath=os.path.join('projects', project, over, file)
                 imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
     imgTextInsertAll=normPath(imgTextInsertAll)
+    print(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
@@ -113,7 +116,7 @@ def imgTextProjectIntro(path, project):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
                 if name!='000' and name!='100':
-                    print(name)
+                    # print(name)
                     imgPath = os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
