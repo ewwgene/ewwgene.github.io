@@ -8,8 +8,8 @@
 **Making**  
   
 /
-`SOLID_PINE_WOOD` `KUTZALL` `NATURAL OIL` `WAX`   
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
-_`IDRAW`_   
+_`KUTZALL WHEELS`_ _`IDRAW`_   
 <br>
 <a href="https://ewwgene.github.io/projects/Hexagon/300.jpg"><img src="/projects/Hexagon/300.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/301.jpg"><img src="/projects/Hexagon/301.jpg" height="125"></a> 

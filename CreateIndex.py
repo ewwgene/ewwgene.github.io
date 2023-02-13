@@ -55,7 +55,7 @@ def imgText(pathProject, project):
         if os.path.isfile(os.path.join(pathProject, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                if name.startswith('0') or name.startswith('1'):
+                if name.startswith('0') or name.startswith('10'):
                     imgPath=os.path.join('projects', project, file)
                     imgHeight=''
                     # print(name)

@@ -20,22 +20,22 @@ _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_
 <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/003.jpg" height="100"></a> 
 
 ### [Glasses.](https://ewwgene.github.io/projects/Glasses) 
-_02.2016 - WINTER._  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desire... [[more...]](https://ewwgene.github.io/projects/Glasses)  
+_10/2012 - 04/2015._  
+... [[more...]](https://ewwgene.github.io/projects/Glasses)  
 /
-`PINE_WOOD` `DANISH OIL` 
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
+_`KUTZALL WHEELS`_ _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/102.jpg" height="100"></a> 
 
 ### [Hexagon.](https://ewwgene.github.io/projects/Hexagon) 
 _11/2015 - WINTER._  
 ... [[more...]](https://ewwgene.github.io/projects/Hexagon)  
 /
-`SOLID_PINE_WOOD` `KUTZALL` `NATURAL OIL` `WAX` 
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
-_`IDRAW`_ 
+_`KUTZALL WHEELS`_ _`IDRAW`_ 
 
 <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/102.jpg" height="100"></a> 
 

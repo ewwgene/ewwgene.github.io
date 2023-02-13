@@ -1,15 +1,15 @@
 
-## Glasses. _02.2016 - WINTER._  
-![Glasses](/None)  
+## Glasses. _10/2012 - 04/2015._  
+![Glasses](/projects/Glasses/100.jpg)<a href="https://ewwgene.github.io/projects/Glasses/101.jpg"><img src="/projects/Glasses/101.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/102.jpg"><img src="/projects/Glasses/102.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/111.jpg"><img src="/projects/Glasses/111.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/112.jpg"><img src="/projects/Glasses/112.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/114.jpg"><img src="/projects/Glasses/114.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/115.jpg"><img src="/projects/Glasses/115.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/118.jpg"><img src="/projects/Glasses/118.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/119.jpg"><img src="/projects/Glasses/119.jpg" height="125"></a>   
 **Overview**  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
-<br>
   
+<br>
+<a href="https://ewwgene.github.io/projects/Glasses/Making/209.jpg"><img src="/projects/Glasses/Making/209.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/210.jpg"><img src="/projects/Glasses/Making/210.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/211.jpg"><img src="/projects/Glasses/Making/211.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/220.jpg"><img src="/projects/Glasses/Making/220.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/222.jpg"><img src="/projects/Glasses/Making/222.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/223.jpg"><img src="/projects/Glasses/Making/223.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/225.jpg"><img src="/projects/Glasses/Making/225.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/227.jpg"><img src="/projects/Glasses/Making/227.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/228.jpg"><img src="/projects/Glasses/Making/228.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/233.jpg"><img src="/projects/Glasses/Making/233.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/234.jpg"><img src="/projects/Glasses/Making/234.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/235.jpg"><img src="/projects/Glasses/Making/235.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/244.jpg"><img src="/projects/Glasses/Making/244.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/245.jpg"><img src="/projects/Glasses/Making/245.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/246.jpg"><img src="/projects/Glasses/Making/246.jpg" height="125"></a>   
 **Making**  
-We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
+  
 /
-`PINE_WOOD` `DANISH OIL`   
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
+_`KUTZALL WHEELS`_ _`IDRAW`_   
 <br>
 
