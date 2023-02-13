@@ -1,10 +1,10 @@
 
 ## Pods. _02.2016 - WINTER._  
-![Pods](/None)<a href="https://ewwgene.github.io/projects/Pods/img_pods1_01.jpg"><img src="/projects/Pods/img_pods1_01.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_02.jpg"><img src="/projects/Pods/img_pods1_02.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods1_03.jpg"><img src="/projects/Pods/img_pods1_03.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_01.jpg"><img src="/projects/Pods/img_pods2_01.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="125"></a>   
+![Pods](/projects/Pods/100.jpg)  
 **Overview**  
 WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
 <br>
-  
+<a href="https://ewwgene.github.io/projects/Pods/Making/img_pods1_02.jpg"><img src="/projects/Pods/Making/img_pods1_02.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/img_pods1_03.jpg"><img src="/projects/Pods/Making/img_pods1_03.jpg" height="125"></a>   
 **Making**  
 We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
 /
@@ -12,4 +12,4 @@ We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “H
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Pods/img_pods2_02.jpg"><img src="/projects/Pods/img_pods2_02.jpg" height="125"></a> 
+

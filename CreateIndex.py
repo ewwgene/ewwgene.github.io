@@ -55,7 +55,7 @@ def imgText(pathProject, project):
         if os.path.isfile(os.path.join(pathProject, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                if name.startswith('00'):
+                if name.startswith('0') or name.startswith('1'):
                     imgPath=os.path.join('projects', project, file)
                     imgHeight=''
                     # print(name)
@@ -63,7 +63,8 @@ def imgText(pathProject, project):
                         imgHeight = '200'
                         imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
                     else:
-                        imgNumInsertAll.append(imgPath)
+                        if name!='100':
+                            imgNumInsertAll.append(imgPath)
     for n in imgNumInsertAll:
         imgHeight = '100'
         imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
@@ -80,11 +81,11 @@ def imgTextProject(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                imgPath=os.path.join('projects', project, file)
-                imgNumInsertAll.append(imgPath)
-    for e, n in enumerate(imgNumInsertAll):
-        if e >= 5:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
+                if name.startswith('3'):
+                    imgPath=os.path.join('projects', project, file)
+                    imgNumInsertAll.append(imgPath)
+    for n in imgNumInsertAll:
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -115,13 +116,12 @@ def imgTextProjectIntro(path, project):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                if name!='000' and name!='100':
+                if name.startswith('1') and name!='100':
                     # print(name)
                     imgPath = os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
-    for e, n in enumerate(imgNumInsertAll):
-        if e < 5:
-            imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '125')
+    for n in imgNumInsertAll:
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '125')
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'

@@ -37,7 +37,7 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/009.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon"><img src="/projects/Hexagon/010.jpg" height="100"></a> 
 
 ### [Pods.](https://ewwgene.github.io/projects/Pods) 
 _02.2016 - WINTER._  
@@ -47,7 +47,7 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/000.jpg" height="200"></a> 
+<a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Pods"><img src="/projects/Pods/002.jpg" height="100"></a> 
 
 ### [TV_set_02.](https://ewwgene.github.io/projects/TV_set_02) 
 _05/2014 - SUMMER._  
@@ -57,7 +57,7 @@ _05/2014 - SUMMER._
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/103.jpg" height="100"></a> 
 
 ### [TV_unit01.](https://ewwgene.github.io/projects/TV_unit01) 
 _06/2014 - SUMMER._  
@@ -67,4 +67,4 @@ WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[mor
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/006.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_unit01"><img src="/projects/TV_unit01/101.jpg" height="100"></a> 

@@ -1,6 +1,6 @@
 
 ## Hexagon. _02.2016 - WINTER._  
-![Hexagon](/None)<a href="https://ewwgene.github.io/projects/Hexagon/001.jpg"><img src="/projects/Hexagon/001.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/009.jpg"><img src="/projects/Hexagon/009.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/010.jpg"><img src="/projects/Hexagon/010.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/999.jpg"><img src="/projects/Hexagon/999.jpg" height="125"></a>   
+![Hexagon](/None)  
 **Overview**  
 WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
 <br>
