@@ -1,15 +1,15 @@
 
-## Hexagon. _02.2016 - WINTER._  
-![Hexagon](/None)  
+## Hexagon. _11/2015 - WINTER._  
+![Hexagon](/projects/Hexagon/100.jpg)<a href="https://ewwgene.github.io/projects/Hexagon/101.jpg"><img src="/projects/Hexagon/101.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/102.jpg"><img src="/projects/Hexagon/102.jpg" height="125"></a>   
 **Overview**  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
-<br>
   
-**Making**  
-We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
-/
-`PINE_WOOD` `DANISH OIL`   
-/
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
 <br>
-
+<a href="https://ewwgene.github.io/projects/Hexagon/Making/IMG_1898.jpg"><img src="/projects/Hexagon/Making/IMG_1898.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/Making/IMG_1901.jpg"><img src="/projects/Hexagon/Making/IMG_1901.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/Making/IMG_1915.jpg"><img src="/projects/Hexagon/Making/IMG_1915.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/Making/IMG_1916.jpg"><img src="/projects/Hexagon/Making/IMG_1916.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/Making/IMG_1977.jpg"><img src="/projects/Hexagon/Making/IMG_1977.jpg" height="125"></a>   
+**Making**  
+  
+/
+`SOLID_PINE_WOOD` `KUTZALL` `NATURAL OIL` `WAX`   
+/
+_`IDRAW`_   
+<br>
+<a href="https://ewwgene.github.io/projects/Hexagon/300.jpg"><img src="/projects/Hexagon/300.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Hexagon/301.jpg"><img src="/projects/Hexagon/301.jpg" height="125"></a> 

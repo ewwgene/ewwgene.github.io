@@ -82,6 +82,7 @@ def imgTextProject(path, project):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
                 if name.startswith('3'):
+                    print(file)
                     imgPath=os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for n in imgNumInsertAll:
