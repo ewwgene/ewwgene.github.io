@@ -1,15 +1,15 @@
 
-## Pods. _02.2016 - WINTER._  
-![Pods](/projects/Pods/100.jpg)  
+## Pods. _07/2015 - SUMMER._  
+![Pods](/projects/Pods/100.jpg)<a href="https://ewwgene.github.io/projects/Pods/101.jpg"><img src="/projects/Pods/101.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/102.jpg"><img src="/projects/Pods/102.jpg" height="125"></a>   
 **Overview**  
-WOODEN TV cabinet with cable management. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height. It is characterized by wall-mounted and floor-to-ceiling, onto which shelves and storage units with leaf doors, drawers or flap doors are hooked at the desired height.  
+  
 <br>
-<a href="https://ewwgene.github.io/projects/Pods/Making/img_pods1_02.jpg"><img src="/projects/Pods/Making/img_pods1_02.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/img_pods1_03.jpg"><img src="/projects/Pods/Making/img_pods1_03.jpg" height="125"></a>   
+<a href="https://ewwgene.github.io/projects/Pods/Making/200.jpg"><img src="/projects/Pods/Making/200.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/205.jpg"><img src="/projects/Pods/Making/205.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/206.jpg"><img src="/projects/Pods/Making/206.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/207.jpg"><img src="/projects/Pods/Making/207.jpg" height="125"></a> <a href="https://ewwgene.github.io/projects/Pods/Making/208.jpg"><img src="/projects/Pods/Making/208.jpg" height="125"></a>   
 **Making**  
-We were greatly inspired by Jacek Markusiewicz’s “adrift”, lunarean's “Heat Death”, and Monotau’s “Cradle” collections on fxhash, both by their approach to code as well as aesthetic synthesis of elements of their work. They motivated us to leave our code open (unminified and unobfuscated), available on public repositories (GitHub), and well documented through writing and talks so they can serve as inspiration to others. We see our support for open generative tools as a mission every generative artist should partake in.  
+  
 /
-`PINE_WOOD` `DANISH OIL`   
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
-_`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_   
+_`IDRAW`_   
 <br>
-
+<a href="https://ewwgene.github.io/projects/Pods/300.jpg"><img src="/projects/Pods/300.jpg" height="125"></a> 
