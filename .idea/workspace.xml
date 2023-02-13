@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d8d6f7-2aad-47c2-9863-d3759fbe7be8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreateIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Glasses/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Glasses/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Glasses/000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Glasses/000.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Glasses/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Glasses/002.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Glasses/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Glasses/101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Glasses/101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Glasses/102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Glasses/102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Glasses/112.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Glasses/118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Glasses/119.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/Glasses/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Glasses/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Hexagon/.project" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

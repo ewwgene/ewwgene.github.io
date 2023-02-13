@@ -86,7 +86,7 @@ def imgTextProject(path, project):
                     imgPath=os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for n in imgNumInsertAll:
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -103,7 +103,7 @@ def imgTextProjectMaking(path, project, over):
                 imgPath=os.path.join('projects', project, over, file)
                 imgNumInsertAll.append(imgPath)
     for e, n in enumerate(imgNumInsertAll):
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '125')
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
     print(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -122,7 +122,7 @@ def imgTextProjectIntro(path, project):
                     imgPath = os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for n in imgNumInsertAll:
-        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '125')
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '100')
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
