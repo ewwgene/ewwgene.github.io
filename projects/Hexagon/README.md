@@ -1,5 +1,5 @@
 
-## Hexagon. _11/2015 - WINTER._  
+## Hexagon. _WINTER-2015.11._  
 ![Hexagon](/projects/Hexagon/100.jpg)<a href="https://ewwgene.github.io/projects/Hexagon/101.jpg"><img src="/projects/Hexagon/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Hexagon/102.jpg"><img src="/projects/Hexagon/102.jpg" height="100"></a>   
 **Overview**  
   

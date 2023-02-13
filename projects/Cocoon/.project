@@ -1,5 +1,5 @@
 {
-    "date": "04/2015 - 09/2015",
+    "date": ["2015.04", "2015.09"],
     "hardware": ["SOLID_PINE_WOOD", "NATURAL OIL", "WAX"],
     "software": ["KUTZALL WHEELS", "IDRAW", "SILO3D"],
     "overview": "",
