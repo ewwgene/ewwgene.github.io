@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d8d6f7-2aad-47c2-9863-d3759fbe7be8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CreateIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateIndex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/000.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_set_02/000.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_set_02/001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/004.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_set_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_set_02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/TV_unit01/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_unit01/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/TV_unit01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_unit01/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

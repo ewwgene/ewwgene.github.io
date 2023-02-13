@@ -57,11 +57,11 @@ WOODEN TV cabinet with cable management. It is characterized by wall-mounted and
 /
 _`AUTOCAD`_ _`ARCHICAD`_ _`RHINOCEROUS`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/003.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/004.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_02"><img src="/projects/TV_set_02/001.jpg" height="100"></a> 
 
 ### [TV_unit01.](https://ewwgene.github.io/projects/TV_unit01) 
 _06.2014 - SUMMER._  
-WOODEN TV cabinet with cable management. Open symmetrical storage area............................................ [[more...]](https://ewwgene.github.io/projects/TV_unit01)  
+WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_unit01)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
