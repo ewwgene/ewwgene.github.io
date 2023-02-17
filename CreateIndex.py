@@ -209,7 +209,7 @@ _%s-%s._
 ![%s](/%s)%s
 <br>  
 **Overview**  
-%s  
+%s 
 <br>
 %s  
 **Making**  
