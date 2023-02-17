@@ -172,13 +172,23 @@ def imgTextProjectIntro100(path, project):
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 text=''
 textProject=''
+dateIndex=[]
 for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
     pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
     if os.path.exists(os.path.join(pathProject, projectFile)):
         info= getProjectInfo(pathProject)
-        fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
-        ################################################################################################################
-        textT = '''
+        dateIndex.append(info['date'][1])
+
+dateIndex.sort()
+for dI in dateIndex:
+    for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
+        pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
+        if os.path.exists(os.path.join(pathProject, projectFile)):
+            info= getProjectInfo(pathProject)
+            if info['date'][1] == dI:
+                fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
+                ################################################################################################################
+                textT = '''
 ### [%s.](%s) 
 _%s-%s._  
 %s... [[more...]](%s)  
@@ -189,11 +199,11 @@ _%s-%s._
 
 %s
 ''' % (
-        project, fullUrlHome, info['date'][0], info['date'][1], info['overview'][0:199], fullUrlHome, hardwareMaterial(info['hardware']),
-        softwareMaterial(info['software']), imgText(pathProject, project))
-        ################################################################################################################
+                project, fullUrlHome, info['date'][0], info['date'][1], info['overview'][0:199], fullUrlHome, hardwareMaterial(info['hardware']),
+                softwareMaterial(info['software']), imgText(pathProject, project))
+                ################################################################################################################
 
-        textProject = '''
+                textProject = '''
 ## %s. _%s-%s._  
 ![%s](/%s)%s  
 **Overview**  
@@ -209,12 +219,12 @@ _%s-%s._
 <br>
 %s
 ''' % (
-        project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-        softwareMaterial(info['software']), imgTextProject(pathProject, project))
-        ################################################################################################################
-        # print(text)
-        makeProjectFile(pathProject, textProject)
-        text=text+textT
+                project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+                softwareMaterial(info['software']), imgTextProject(pathProject, project))
+                ################################################################################################################
+                # print(text)
+                makeProjectFile(pathProject, textProject)
+                text=text+textT
 # print(text)
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
         # print(info['materials'][2])

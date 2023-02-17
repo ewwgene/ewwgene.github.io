@@ -12,4 +12,4 @@
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/315.jpg"><img src="/projects/Fireplaces_01&02/315.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/316.jpg"><img src="/projects/Fireplaces_01&02/316.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/319.jpg"><img src="/projects/Fireplaces_01&02/319.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/320.jpg"><img src="/projects/Fireplaces_01&02/320.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/300.jpg"><img src="/projects/Fireplaces_01&02/300.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/315.jpg"><img src="/projects/Fireplaces_01&02/315.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/316.jpg"><img src="/projects/Fireplaces_01&02/316.jpg" height="100"></a> 
