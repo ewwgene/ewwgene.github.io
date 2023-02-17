@@ -7,7 +7,7 @@ _WINTER-2016.04._
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/104.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/104.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/105.jpg" height="100"></a> 
 
 ### [Buendia.](https://ewwgene.github.io/projects/Buendia) 
 _WINTER-2016.01._  
