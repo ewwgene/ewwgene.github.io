@@ -1,6 +1,6 @@
 
 ## Fireplaces_01&02. _2012.10-2015.04._  
-![Fireplaces_01&02](/None)<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/101.jpg"><img src="/projects/Fireplaces_01&02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/107.jpg"><img src="/projects/Fireplaces_01&02/107.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/108.jpg"><img src="/projects/Fireplaces_01&02/108.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/110.jpg"><img src="/projects/Fireplaces_01&02/110.jpg" height="100"></a>   
+![Fireplaces_01&02](/projects/Fireplaces_01&02/100.jpg)<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/101.jpg"><img src="/projects/Fireplaces_01&02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/102.jpg"><img src="/projects/Fireplaces_01&02/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/107.jpg"><img src="/projects/Fireplaces_01&02/107.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/108.jpg"><img src="/projects/Fireplaces_01&02/108.jpg" height="100"></a>   
 **Overview**  
   
 <br>
