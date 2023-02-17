@@ -82,7 +82,7 @@ def imgTextProject(path, project):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
                 if name.startswith('3'):
-                    print(file)
+                    # print(file)
                     imgPath=os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
     for n in imgNumInsertAll:
@@ -92,6 +92,7 @@ def imgTextProject(path, project):
     return imgTextInsertAll
 
 def imgTextProjectMaking(path, project, over):
+    print('making - ', project)
     imgTextInsertAll=''
     imgNumInsertAll = []
     imgIndex=[]
@@ -99,7 +100,8 @@ def imgTextProjectMaking(path, project, over):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                iInx=name[1:]
+                iInx=name[0]
+
                 if not iInx in imgIndex:
                     imgIndex.append(iInx)
 
@@ -110,12 +112,14 @@ def imgTextProjectMaking(path, project, over):
                 if ext == '.jpg':
                     if name.startswith(i):
                         imgPath = os.path.join('projects', project, over, file)
+                        # print('projects', project, over, file)
+                        # print(imgPath)
                         imgNumInsertAll.append(imgPath)
-                        
+    # print(imgNumInsertAll)
     for e, n in enumerate(imgNumInsertAll):
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
-    print(imgTextInsertAll)
+    # print(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
