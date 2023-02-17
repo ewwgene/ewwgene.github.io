@@ -94,14 +94,24 @@ def imgTextProject(path, project):
 def imgTextProjectMaking(path, project, over):
     imgTextInsertAll=''
     imgNumInsertAll = []
+    imgIndex=[]
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
-
             if ext=='.jpg':
+                iInx=name[1:]
+                if not iInx in imgIndex:
+                    imgIndex.append(iInx)
 
-                imgPath=os.path.join('projects', project, over, file)
-                imgNumInsertAll.append(imgPath)
+    for i in imgIndex:
+        for file in os.listdir(path):
+            if os.path.isfile(os.path.join(path, file)):
+                name, ext = os.path.splitext(file)
+                if ext == '.jpg':
+                    if name.startswith(i):
+                        imgPath = os.path.join('projects', project, over, file)
+                        imgNumInsertAll.append(imgPath)
+                        
     for e, n in enumerate(imgNumInsertAll):
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
