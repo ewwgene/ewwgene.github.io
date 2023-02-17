@@ -4,7 +4,7 @@
 **Overview**  
   
 <br>
-<a href="https://ewwgene.github.io/projects/Cocoon/Making/200.jpg"><img src="/projects/Cocoon/Making/200.jpg" height="100"></a>   
+<a href="https://ewwgene.github.io/projects/Cocoon/Making/200.jpg"><img src="/projects/Cocoon/Making/200.jpg" height="100"></a> <br>  
 **Making**  
   
 /

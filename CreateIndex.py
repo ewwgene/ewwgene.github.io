@@ -115,9 +115,12 @@ def imgTextProjectMaking(path, project, over):
                         # print('projects', project, over, file)
                         # print(imgPath)
                         imgNumInsertAll.append(imgPath)
+        for n in imgNumInsertAll:
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
+        imgTextInsertAll = imgTextInsertAll + '<br>'
     # print(imgNumInsertAll)
-    for e, n in enumerate(imgNumInsertAll):
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
+    # for e, n in enumerate(imgNumInsertAll):
+    #     imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # print(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
