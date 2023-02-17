@@ -1,6 +1,6 @@
 
 ## Fireplaces_01&02. _2012.10-2015.04._  
-![Fireplaces_01&02](/projects/Fireplaces_01&02/100.jpg)<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/102.jpg"><img src="/projects/Fireplaces_01&02/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/103.jpg"><img src="/projects/Fireplaces_01&02/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/111.jpg"><img src="/projects/Fireplaces_01&02/111.jpg" height="100"></a>   
+![Fireplaces_01&02](/projects/Fireplaces_01&02/100.jpg)<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/103.jpg"><img src="/projects/Fireplaces_01&02/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/104.jpg"><img src="/projects/Fireplaces_01&02/104.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/111.jpg"><img src="/projects/Fireplaces_01&02/111.jpg" height="100"></a>   
 **Overview**  
   
 <br>
@@ -12,4 +12,4 @@
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/315.jpg"><img src="/projects/Fireplaces_01&02/315.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/317.jpg"><img src="/projects/Fireplaces_01&02/317.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/318.jpg"><img src="/projects/Fireplaces_01&02/318.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/319.jpg"><img src="/projects/Fireplaces_01&02/319.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_01&02/315.jpg"><img src="/projects/Fireplaces_01&02/315.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/316.jpg"><img src="/projects/Fireplaces_01&02/316.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/317.jpg"><img src="/projects/Fireplaces_01&02/317.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02/319.jpg"><img src="/projects/Fireplaces_01&02/319.jpg" height="100"></a> 
