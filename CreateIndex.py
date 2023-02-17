@@ -104,7 +104,7 @@ def imgTextProjectMaking(path, project, over):
 
                 if not iInx in imgIndex:
                     imgIndex.append(iInx)
-
+    print(imgIndex)
     for i in imgIndex:
         for file in os.listdir(path):
             if os.path.isfile(os.path.join(path, file)):
@@ -118,6 +118,7 @@ def imgTextProjectMaking(path, project, over):
         for n in imgNumInsertAll:
             imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
         imgTextInsertAll = imgTextInsertAll + '<br>'
+        imgNumInsertAll.clear()
     # print(imgNumInsertAll)
     # for e, n in enumerate(imgNumInsertAll):
     #     imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
