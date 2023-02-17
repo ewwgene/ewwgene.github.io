@@ -19,6 +19,16 @@ _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_
 
 <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Cocoon"><img src="/projects/Cocoon/102.jpg" height="100"></a> 
 
+### [Fireplaces_01&02.](https://ewwgene.github.io/projects/Fireplaces_01&02) 
+_2012.10-2015.04._  
+... [[more...]](https://ewwgene.github.io/projects/Fireplaces_01&02)  
+/
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
+/
+_`KUTZALL WHEELS`_ _`IDRAW`_ 
+
+<a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/107.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/108.jpg" height="100"></a> 
+
 ### [Glasses.](https://ewwgene.github.io/projects/Glasses) 
 _2012.10-2015.04._  
 ... [[more...]](https://ewwgene.github.io/projects/Glasses)  
