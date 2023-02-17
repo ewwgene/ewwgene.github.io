@@ -180,6 +180,7 @@ for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         dateIndex.append(info['date'][1])
 
 dateIndex.sort()
+dateIndex.reverse()
 for dI in dateIndex:
     for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
         pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
