@@ -27,7 +27,7 @@ _2012.10-2015.04._
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/107.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/108.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&02"><img src="/projects/Fireplaces_01&02/108.jpg" height="100"></a> 
 
 ### [Glasses.](https://ewwgene.github.io/projects/Glasses) 
 _2012.10-2015.04._  
