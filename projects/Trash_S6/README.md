@@ -5,7 +5,7 @@
 **Overview**  
  
 <br>
-<a href="https://ewwgene.github.io/projects/Trash_S6/Making/301.jpg"><img src="/projects/Trash_S6/Making/301.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/303.jpg"><img src="/projects/Trash_S6/Making/303.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/305.jpg"><img src="/projects/Trash_S6/Making/305.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/307.jpg"><img src="/projects/Trash_S6/Making/307.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/311.jpg"><img src="/projects/Trash_S6/Making/311.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/313.jpg"><img src="/projects/Trash_S6/Making/313.jpg" height="100"></a> <br>  
+<a href="https://ewwgene.github.io/projects/Trash_S6/Making/311.jpg"><img src="/projects/Trash_S6/Making/311.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/313.jpg"><img src="/projects/Trash_S6/Making/313.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/315.jpg"><img src="/projects/Trash_S6/Making/315.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/317.jpg"><img src="/projects/Trash_S6/Making/317.jpg" height="100"></a> <br><a href="https://ewwgene.github.io/projects/Trash_S6/Making/401.jpg"><img src="/projects/Trash_S6/Making/401.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6/Making/403.jpg"><img src="/projects/Trash_S6/Making/403.jpg" height="100"></a> <br>  
 **Making**  
   
 /
