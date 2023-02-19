@@ -1,23 +1,53 @@
 
+### [Coffee_Tables_Set_05.](https://ewwgene.github.io/projects/Coffee_Tables_Set_05) 
+_2017.07-2018.07._  
+... [[more...]](https://ewwgene.github.io/projects/Coffee_Tables_Set_05)  
+/
+`CNC MILLING` `SCAN` `PLASTER` 
+/
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
+
+<a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/107.jpg" height="100"></a> 
+
 ### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
 _2017.07-2018.07._  
 ... [[more...]](https://ewwgene.github.io/projects/Trash_S6_CONCEPT)  
 /
 `CNC MILLING` `SCAN` `PLASTER` 
 /
-_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`GRUMBLAU GH.GENERATOR`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
 
 <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
 
-### [Fireplaces_01&_02.](https://ewwgene.github.io/projects/Fireplaces_01&_02) 
+### [Coffee_Tables_Set_05.](https://ewwgene.github.io/projects/Coffee_Tables_Set_05) 
+_2017.07-2018.07._  
+... [[more...]](https://ewwgene.github.io/projects/Coffee_Tables_Set_05)  
+/
+`CNC MILLING` `SCAN` `PLASTER` 
+/
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
+
+<a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/107.jpg" height="100"></a> 
+
+### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
+_2017.07-2018.07._  
+... [[more...]](https://ewwgene.github.io/projects/Trash_S6_CONCEPT)  
+/
+`CNC MILLING` `SCAN` `PLASTER` 
+/
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
+
+<a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
+
+### [Fireplaces_03&_04.](https://ewwgene.github.io/projects/Fireplaces_03&_04) 
 _WINTER-2016.04._  
-... [[more...]](https://ewwgene.github.io/projects/Fireplaces_01&_02)  
+... [[more...]](https://ewwgene.github.io/projects/Fireplaces_03&_04)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/Fireplaces_01&_02"><img src="/projects/Fireplaces_01&_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&_02"><img src="/projects/Fireplaces_01&_02/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&_02"><img src="/projects/Fireplaces_01&_02/104.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_01&_02"><img src="/projects/Fireplaces_01&_02/105.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/104.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/105.jpg" height="100"></a> 
 
 ### [Buendia.](https://ewwgene.github.io/projects/Buendia) 
 _WINTER-2016.01._  
@@ -69,22 +99,22 @@ _`KUTZALL WHEELS`_ _`IDRAW`_
 
 <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/102.jpg" height="100"></a> 
 
-### [TV_unit_02.](https://ewwgene.github.io/projects/TV_unit_02) 
+### [TV_Unit_02.](https://ewwgene.github.io/projects/TV_Unit_02) 
 _SUMMER-2014.06._  
-WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_unit_02)  
+WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_Unit_02)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_unit_02"><img src="/projects/TV_unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_unit_02"><img src="/projects/TV_unit_02/101.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_Unit_02"><img src="/projects/TV_Unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Unit_02"><img src="/projects/TV_Unit_02/101.jpg" height="100"></a> 
 
-### [TV_set_01.](https://ewwgene.github.io/projects/TV_set_01) 
+### [TV_Set_01.](https://ewwgene.github.io/projects/TV_Set_01) 
 _SUMMER-2014.05._  
-... [[more...]](https://ewwgene.github.io/projects/TV_set_01)  
+... [[more...]](https://ewwgene.github.io/projects/TV_Set_01)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/103.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 

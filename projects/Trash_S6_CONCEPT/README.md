@@ -11,7 +11,7 @@
 /
 `CNC MILLING` `SCAN` `PLASTER`   
 /
-_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`GRUMBLAU GH.GENERATOR`_ _`CIMCO EDIT`_ _`INKSCAPE`_   
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_   
 <br>
 <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT/301.jpg"><img src="/projects/Trash_S6_CONCEPT/301.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT/303.jpg"><img src="/projects/Trash_S6_CONCEPT/303.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT/305.jpg"><img src="/projects/Trash_S6_CONCEPT/305.jpg" height="100"></a> 
 <br>
