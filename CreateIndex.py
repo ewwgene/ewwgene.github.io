@@ -74,14 +74,14 @@ def imgText(pathProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProject(path, project):
+def imgTextProject(path, project, nu):
     imgTextInsertAll=''
     imgNumInsertAll = []
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                if name.startswith('3'):
+                if name.startswith(nu):
                     # print(file)
                     imgPath=os.path.join('projects', project, file)
                     imgNumInsertAll.append(imgPath)
@@ -220,9 +220,11 @@ _%s-%s._
 %s  
 <br>
 %s
+<br>
+%s
 ''' % (
                 project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgTextProject(pathProject, project))
+                softwareMaterial(info['software']), imgTextProject(pathProject, project, '3'), imgTextProject(pathProject, project, '4'))
                 ################################################################################################################
                 # print(text)
                 makeProjectFile(pathProject, textProject)

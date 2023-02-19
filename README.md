@@ -69,6 +69,36 @@ _`IDRAW`_
 
 <a href="https://ewwgene.github.io/projects/TV_unit_02"><img src="/projects/TV_unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_unit_02"><img src="/projects/TV_unit_02/101.jpg" height="100"></a> 
 
+### [Trash_S6.](https://ewwgene.github.io/projects/Trash_S6) 
+_SUMMER-2014.05._  
+... [[more...]](https://ewwgene.github.io/projects/Trash_S6)  
+/
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
+/
+_`IDRAW`_ 
+
+<a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/102.jpg" height="100"></a> 
+
+### [TV_set_01.](https://ewwgene.github.io/projects/TV_set_01) 
+_SUMMER-2014.05._  
+... [[more...]](https://ewwgene.github.io/projects/TV_set_01)  
+/
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
+/
+_`IDRAW`_ 
+
+<a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_set_01"><img src="/projects/TV_set_01/103.jpg" height="100"></a> 
+
+### [Trash_S6.](https://ewwgene.github.io/projects/Trash_S6) 
+_SUMMER-2014.05._  
+... [[more...]](https://ewwgene.github.io/projects/Trash_S6)  
+/
+`SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
+/
+_`IDRAW`_ 
+
+<a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/102.jpg" height="100"></a> 
+
 ### [TV_set_01.](https://ewwgene.github.io/projects/TV_set_01) 
 _SUMMER-2014.05._  
 ... [[more...]](https://ewwgene.github.io/projects/TV_set_01)  
