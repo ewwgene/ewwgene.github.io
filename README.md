@@ -5,9 +5,9 @@ _2017.07-2018.07._
 /
 `CNC MILLING` `SCAN` `PLASTER` 
 /
-_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`GRUMBLAU GH GEENERATOR`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`GRUMBLAU GH.GENERATOR`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
 
-<a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/102.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6"><img src="/projects/Trash_S6/103.jpg" height="100"></a> 
 
 ### [Fireplaces_01&02.](https://ewwgene.github.io/projects/Fireplaces_01&02) 
 _WINTER-2016.04._  
