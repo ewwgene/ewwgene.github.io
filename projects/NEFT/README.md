@@ -1,6 +1,6 @@
 
 ## NEFT. _WINTER-2018.03._  
-![NEFT](/projects/NEFT/100.jpg)<a href="https://ewwgene.github.io/projects/NEFT/101.jpg"><img src="/projects/NEFT/101.jpg" height="100"></a> 
+![NEFT](/projects/NEFT/100.jpg)<a href="https://ewwgene.github.io/projects/NEFT/111.jpg"><img src="/projects/NEFT/111.jpg" height="100"></a> 
 <br>  
 **Overview**  
  
@@ -9,7 +9,7 @@
 **Making**  
   
 /
-`SOLID_PINE_WOOD` `CNC MILLING` `LIQUID BITUME`   
+`SOLID_PINE_WOOD` `CNC MILLING` `GOLD LEAF` `LIQUID BITUME`   
 /
 _`RHINOCEROS 3D + GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO EDIT`_   
 <br>
