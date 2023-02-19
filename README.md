@@ -17,7 +17,7 @@ _WINTER-2018.03._
 /
 _`RHINOCEROS 3D + GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
 
-<a href="https://ewwgene.github.io/projects/NEFT"><img src="/projects/NEFT/000.jpg" height="200"></a> 
+<a href="https://ewwgene.github.io/projects/NEFT"><img src="/projects/NEFT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/NEFT"><img src="/projects/NEFT/101.jpg" height="100"></a> 
 
 ### [Coffee_Tables_Set_05.](https://ewwgene.github.io/projects/Coffee_Tables_Set_05) 
 _SPRING-2017.06._  
