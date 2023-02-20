@@ -7,7 +7,7 @@ _SUMMER-2018.07._
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
 
-<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
 
 ### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
 _2017.07-2018.07._  
@@ -27,7 +27,7 @@ _SUMMER-2018.07._
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
 
-<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
 
 ### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
 _2017.07-2018.07._  
