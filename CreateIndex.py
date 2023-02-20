@@ -41,7 +41,7 @@ def imgTextCreateProject(imgPath, imgHeight):
     # print(os.path.basename(imgPath)[4])
     hH, ext= os.path.splitext(os.path.basename(imgPath))
     if len(hH)>=6:
-        imgPath = hH[-3:]
+        imgHeight = hH[-3:]
 
     # if hhH == hhhH:
     #     print(os.path.basename(imgPath)[4])
