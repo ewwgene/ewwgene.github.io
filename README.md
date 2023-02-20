@@ -140,3 +140,7 @@ _`IDRAW`_
 <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 
 
 ![image](https://user-images.githubusercontent.com/33371607/220201101-9ebb7915-802e-4cd1-a160-251122862014.png)
+
+![image](https://github.com/ewwgene/Slit-Scan/blob/45a119eb76f7c4ca9949e2e01cb9834277a39b88/000.jpg)
+
+![image](https://github.com/ewwgene/Slit-Scan/blob/main/000.jpg)
