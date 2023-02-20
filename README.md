@@ -1,13 +1,13 @@
 
-### [Slit-Scan_01_CONCEPT.](https://ewwgene.github.io/projects/Slit-Scan_01_CONCEPT) 
+### [Slit-Scan_01_ALGORITHM.](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM) 
 _SUMMER-2019.01._  
-Проверка... [[more...]](https://ewwgene.github.io/projects/Slit-Scan_01_CONCEPT)  
+Проверка... [[more...]](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM)  
 /
 `SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
 
-<a href="https://ewwgene.github.io/projects/Slit-Scan_01_CONCEPT"><img src="/projects/Slit-Scan_01_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_CONCEPT"><img src="/projects/Slit-Scan_01_CONCEPT/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_CONCEPT"><img src="/projects/Slit-Scan_01_CONCEPT/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM"><img src="/projects/Slit-Scan_01_ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM"><img src="/projects/Slit-Scan_01_ALGORITHM/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM"><img src="/projects/Slit-Scan_01_ALGORITHM/003.jpg" height="100"></a> 
 
 ### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
 _SUMMER-2018.08._  

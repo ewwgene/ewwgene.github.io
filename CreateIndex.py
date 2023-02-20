@@ -38,7 +38,16 @@ def imgTextCreate(imgPath, imgHeight):
     return imgTextInsert
 
 def imgTextCreateProject(imgPath, imgHeight):
-    # print(imgPath)
+    # print(os.path.basename(imgPath)[4])
+    hH, ext= os.path.splitext(os.path.basename(imgPath))
+    if len(hH)>=6:
+        imgPath = hH[-3:]
+
+    # if hhH == hhhH:
+    #     print(os.path.basename(imgPath)[4])
+    #     imgHeight=os.path.basename(imgPath)[5:7]
+    #     print(imgHeight)
+
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     # print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
@@ -92,7 +101,7 @@ def imgTextProject(path, project, nu):
     return imgTextInsertAll
 
 def imgTextProjectMaking(path, project, over):
-    print('making - ', project)
+    # print('making - ', project)
     imgTextInsertAll=''
     imgNumInsertAll = []
     imgIndex=[]
@@ -104,7 +113,7 @@ def imgTextProjectMaking(path, project, over):
 
                 if not iInx in imgIndex:
                     imgIndex.append(iInx)
-    print(imgIndex)
+    # print(imgIndex)
     for i in imgIndex:
         for file in os.listdir(path):
             if os.path.isfile(os.path.join(path, file)):
