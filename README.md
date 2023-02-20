@@ -139,4 +139,4 @@ _`IDRAW`_
 
 <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 
 
-![Slit-Scan_01_ALGORITHM.](https://github.com/ewwgene/Slit-Scan/blob/main/000.jpg)
+![Slit-Scan_01_ALGORITHM.](https://github.com/ewwgene/Slit-Scan/000.jpg)
