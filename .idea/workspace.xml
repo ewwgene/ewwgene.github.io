@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d8d6f7-2aad-47c2-9863-d3759fbe7be8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreateIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateIndex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/Making/IMG_1898.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/Making/IMG_1901.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/Making/IMG_1915.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/Making/IMG_1916.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/Making/IMG_1977.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Hexagon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Hexagon/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/000.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/001.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/003.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/110.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/301.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/303.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/200.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/201.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/203.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/205.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/303.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/Making/401.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_CONCEPT/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/TV_Unit_02/Making/IMG_1516.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/TV_Unit_02/Making/IMG_1518.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/TV_Unit_02/Making/IMG_1520.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/TV_Unit_02/Making/IMG_1527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/TV_Unit_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/TV_Unit_02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/Making/200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/Making/401h300.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Slit-Scan_01_ALGORITHM/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
