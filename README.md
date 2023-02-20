@@ -89,22 +89,22 @@ _`KUTZALL WHEELS`_ _`IDRAW`_
 
 <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses"><img src="/projects/Glasses/102.jpg" height="100"></a> 
 
-### [TV_Unit_02.](https://ewwgene.github.io/projects/TV_Unit_02) 
+### [TV_Uunit_02.](https://ewwgene.github.io/projects/TV_Uunit_02) 
 _SUMMER-2014.06._  
-WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_Unit_02)  
+WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_Uunit_02)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_Unit_02"><img src="/projects/TV_Unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Unit_02"><img src="/projects/TV_Unit_02/101.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_Uunit_02"><img src="/projects/TV_Uunit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Uunit_02"><img src="/projects/TV_Uunit_02/101.jpg" height="100"></a> 
 
-### [TV_Set_01.](https://ewwgene.github.io/projects/TV_Set_01) 
+### [TV_Suet_01.](https://ewwgene.github.io/projects/TV_Suet_01) 
 _SUMMER-2014.05._  
-... [[more...]](https://ewwgene.github.io/projects/TV_Set_01)  
+... [[more...]](https://ewwgene.github.io/projects/TV_Suet_01)  
 /
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_Suet_01"><img src="/projects/TV_Suet_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Suet_01"><img src="/projects/TV_Suet_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Suet_01"><img src="/projects/TV_Suet_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Suet_01"><img src="/projects/TV_Suet_01/103.jpg" height="100"></a> 

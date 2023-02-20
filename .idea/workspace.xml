@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d8d6f7-2aad-47c2-9863-d3759fbe7be8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Coffee_Tables_Set_05/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Coffee_Tables_Set_05/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Coffee_Tables_Set_05/Making/405.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Coffee_Tables_Set_05/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/Coffee_Tables_Set_05/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/NEFT/.project" beforeDir="false" afterPath="$PROJECT_DIR$/projects/NEFT/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/NEFT/101.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/NEFT/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/NEFT/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
