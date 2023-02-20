@@ -1,4 +1,14 @@
 
+### [Новая папка.](https://ewwgene.github.io/projects/Новая папка) 
+_SUMMER-2019.01._  
+... [[more...]](https://ewwgene.github.io/projects/Новая папка)  
+/
+`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
+/
+_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
+
+<a href="https://ewwgene.github.io/projects/Новая папка"><img src="/projects/Новая папка/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Новая папка"><img src="/projects/Новая папка/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка"><img src="/projects/Новая папка/003.jpg" height="100"></a> 
+
 ### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
 _SUMMER-2018.08._  
 ... [[more...]](https://ewwgene.github.io/projects/Art_Is_Hard)  

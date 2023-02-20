@@ -1,0 +1,18 @@
+
+## Новая папка. _SUMMER-2019.01._  
+![Новая папка](/projects/Новая папка/100.jpg)<a href="https://ewwgene.github.io/projects/Новая папка/110.jpg"><img src="/projects/Новая папка/110.jpg" height="100"></a> 
+<br>  
+**Overview**  
+ 
+<br>
+<a href="https://ewwgene.github.io/projects/Новая папка/Making/100.jpg"><img src="/projects/Новая папка/Making/100.jpg" height="100"></a> <br><a href="https://ewwgene.github.io/projects/Новая папка/Making/201.jpg"><img src="/projects/Новая папка/Making/201.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка/Making/203.jpg"><img src="/projects/Новая папка/Making/203.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка/Making/205.jpg"><img src="/projects/Новая папка/Making/205.jpg" height="100"></a> <br><a href="https://ewwgene.github.io/projects/Новая папка/Making/301.jpg"><img src="/projects/Новая папка/Making/301.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка/Making/303.jpg"><img src="/projects/Новая папка/Making/303.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка/Making/305.jpg"><img src="/projects/Новая папка/Making/305.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Новая папка/Making/307.jpg"><img src="/projects/Новая папка/Making/307.jpg" height="100"></a> <br><a href="https://ewwgene.github.io/projects/Новая папка/Making/62.jpg"><img src="/projects/Новая папка/Making/62.jpg" height="100"></a> <br>  
+**Making**  
+  
+/
+`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF`   
+/
+_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_   
+<br>
+
+<br>
+
