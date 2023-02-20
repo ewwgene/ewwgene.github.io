@@ -9,9 +9,9 @@
 **Making**  
   
 /
-`SOLID_PINE_WOOD` `CNC MILLING` `GOLD LEAF`   
+`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF`   
 /
-_`AUTODESK MAYA`_ _`ARTCAM`_ _`CIMCO EDIT`_   
+_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_   
 <br>
 <a href="https://ewwgene.github.io/projects/Threesome/303.jpg"><img src="/projects/Threesome/303.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Threesome/304.jpg"><img src="/projects/Threesome/304.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Threesome/305.jpg"><img src="/projects/Threesome/305.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Threesome/307.jpg"><img src="/projects/Threesome/307.jpg" height="100"></a> 
 <br>
