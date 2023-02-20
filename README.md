@@ -1,9 +1,9 @@
 
 ### [Slit-Scan_01_ALGORITHM.](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM) 
 _WINTER-2019.12._  
-Проверка... [[more...]](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM)  
+ проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM)  
 |
-`[SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)` 
+`SLIT-SCAN_PHOTOGRAPHY` 
 /
 _`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_ 
 
