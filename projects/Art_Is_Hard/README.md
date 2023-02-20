@@ -13,6 +13,6 @@
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_   
 <br>
-<a href="https://ewwgene.github.io/projects/Art_Is_Hard/300.jpg"><img src="/projects/Art_Is_Hard/300.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Art_Is_Hard/301.jpg"><img src="/projects/Art_Is_Hard/301.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/303.jpg"><img src="/projects/Art_Is_Hard/303.jpg" height="100"></a> 
 <br>
 
