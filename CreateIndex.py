@@ -219,7 +219,7 @@ _%s-%s._
 <br>  
 **Overview**  
 %s 
-<br>
+<br><br>
 %s  
 **Making**  
 %s  
