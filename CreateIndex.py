@@ -99,7 +99,7 @@ def imgTextProjectMaking(path, project, over):
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
-            if ext=='.jpg':
+            if ext=='.jpg' or ext=='.gif':
                 iInx=name[0]
 
                 if not iInx in imgIndex:
@@ -109,7 +109,7 @@ def imgTextProjectMaking(path, project, over):
         for file in os.listdir(path):
             if os.path.isfile(os.path.join(path, file)):
                 name, ext = os.path.splitext(file)
-                if ext == '.jpg':
+                if ext == '.jpg' or ext=='.gif':
                     if name.startswith(i):
                         imgPath = os.path.join('projects', project, over, file)
                         # print('projects', project, over, file)
