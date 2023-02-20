@@ -37,7 +37,7 @@ _WINTER-2016.04._
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/104.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/105.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Fireplaces_03&_04"><img src="/projects/Fireplaces_03&_04/105.jpg" height="100"></a> 
 
 ### [Buendia.](https://ewwgene.github.io/projects/Buendia) 
 _WINTER-2016.01._  
@@ -47,7 +47,7 @@ _WINTER-2016.01._
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ 
 
-<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/002.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/104.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Buendia"><img src="/projects/Buendia/002.jpg" height="100"></a> 
 
 ### [Hexagon.](https://ewwgene.github.io/projects/Hexagon) 
 _WINTER-2015.11._  
@@ -107,4 +107,4 @@ _SUMMER-2014.05._
 /
 _`IDRAW`_ 
 
-<a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/TV_Set_01"><img src="/projects/TV_Set_01/103.jpg" height="100"></a> 
