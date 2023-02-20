@@ -9,6 +9,16 @@ _`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_
 
 <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
 
+### [Threesome.](https://ewwgene.github.io/projects/Threesome) 
+_2018.02-2018.05._  
+... [[more...]](https://ewwgene.github.io/projects/Threesome)  
+/
+`SOLID_PINE_WOOD` `CNC MILLING` `GOLD LEAF` 
+/
+_`AUTODESK MAYA`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
+
+<a href="https://ewwgene.github.io/projects/Threesome"><img src="/projects/Threesome/000.jpg" height="200"></a> 
+
 ### [NEFT.](https://ewwgene.github.io/projects/NEFT) 
 _WINTER-2018.03._  
 ... [[more...]](https://ewwgene.github.io/projects/NEFT)  
@@ -27,7 +37,7 @@ _SPRING-2017.06._
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ _`STUDIO ARTIST`_ 
 
-<a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/107.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Coffee_Tables_Set_05"><img src="/projects/Coffee_Tables_Set_05/107.jpg" height="100"></a> 
 
 ### [Fireplaces_03&_04.](https://ewwgene.github.io/projects/Fireplaces_03&_04) 
 _WINTER-2016.04._  
