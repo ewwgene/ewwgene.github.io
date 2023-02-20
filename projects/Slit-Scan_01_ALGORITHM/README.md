@@ -8,7 +8,7 @@
 <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/303.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/303.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/305.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/305.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/306.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/306.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/307.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/307.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/309.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/309.jpg" height="100"></a> <br><a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/Making/400h250.gif"><img src="/projects/Slit-Scan_01_ALGORITHM/Making/400h250.gif" height="250"></a> <br>  
 **Making**  
   
-/
+|
 `SLIT-SCAN_PHOTOGRAPHY`   
 /
 _`HOUDINI_+_VOP&VEX`_ _`AUTODESK_MAYA_+_RIGGING`_ _`ARTCAM`_ _`CIMCO_EDIT`_   

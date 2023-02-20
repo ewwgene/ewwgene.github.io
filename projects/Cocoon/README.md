@@ -8,7 +8,7 @@
 <a href="https://ewwgene.github.io/projects/Cocoon/Making/200.jpg"><img src="/projects/Cocoon/Making/200.jpg" height="100"></a> <br>  
 **Making**  
   
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_   

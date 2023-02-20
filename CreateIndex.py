@@ -202,7 +202,7 @@ for dI in dateIndex:
 ### [%s.](%s) 
 _%s-%s._  
 %s... [[more...]](%s)  
-/
+|
 %s
 /
 %s
@@ -223,7 +223,7 @@ _%s-%s._
 %s  
 **Making**  
 %s  
-/
+|
 %s  
 /
 %s  

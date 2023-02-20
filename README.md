@@ -2,7 +2,7 @@
 ### [Slit-Scan_01_ALGORITHM.](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM) 
 _WINTER-2019.12._  
 Проверка... [[more...]](https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM)  
-/
+|
 `SLIT-SCAN_PHOTOGRAPHY` 
 /
 _`HOUDINI_+_VOP&VEX`_ _`AUTODESK_MAYA_+_RIGGING`_ _`ARTCAM`_ _`CIMCO_EDIT`_ 
@@ -12,7 +12,7 @@ _`HOUDINI_+_VOP&VEX`_ _`AUTODESK_MAYA_+_RIGGING`_ _`ARTCAM`_ _`CIMCO_EDIT`_
 ### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
 _SUMMER-2018.08._  
 ... [[more...]](https://ewwgene.github.io/projects/Art_Is_Hard)  
-/
+|
 `SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
@@ -22,7 +22,7 @@ _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_
 ### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
 _2017.07-2018.07._  
 ... [[more...]](https://ewwgene.github.io/projects/Trash_S6_CONCEPT)  
-/
+|
 `CNC MILLING` `SCAN` `PLASTER` 
 /
 _`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
@@ -32,7 +32,7 @@ _`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_
 ### [Threesome.](https://ewwgene.github.io/projects/Threesome) 
 _2018.02-2018.05._  
 ... [[more...]](https://ewwgene.github.io/projects/Threesome)  
-/
+|
 `SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
 /
 _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
@@ -42,7 +42,7 @@ _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_
 ### [NEFT.](https://ewwgene.github.io/projects/NEFT) 
 _WINTER-2018.03._  
 ... [[more...]](https://ewwgene.github.io/projects/NEFT)  
-/
+|
 `SOLID_PINE_WOOD` `CNC MILLING` `GOLD LEAF` `LIQUID BITUME` 
 /
 _`RHINOCEROS 3D + GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
@@ -52,7 +52,7 @@ _`RHINOCEROS 3D + GRASSHOPPER`_ _`ARTCAM`_ _`CIMCO EDIT`_
 ### [Coffee_Tables_Set_05.](https://ewwgene.github.io/projects/Coffee_Tables_Set_05) 
 _SPRING-2017.06._  
 ... [[more...]](https://ewwgene.github.io/projects/Coffee_Tables_Set_05)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ _`STUDIO ARTIST`_ 
@@ -62,7 +62,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ _`STUDIO ARTIST`_
 ### [Fireplaces_03&_04.](https://ewwgene.github.io/projects/Fireplaces_03&_04) 
 _WINTER-2016.04._  
 ... [[more...]](https://ewwgene.github.io/projects/Fireplaces_03&_04)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
@@ -72,7 +72,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_
 ### [Buendia.](https://ewwgene.github.io/projects/Buendia) 
 _WINTER-2016.01._  
 ... [[more...]](https://ewwgene.github.io/projects/Buendia)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ 
@@ -82,7 +82,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_
 ### [Hexagon.](https://ewwgene.github.io/projects/Hexagon) 
 _WINTER-2015.11._  
 ... [[more...]](https://ewwgene.github.io/projects/Hexagon)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
@@ -92,7 +92,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_
 ### [Cocoon.](https://ewwgene.github.io/projects/Cocoon) 
 _2015.04-2015.09._  
 ... [[more...]](https://ewwgene.github.io/projects/Cocoon)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_ 
@@ -102,7 +102,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_ _`SILO3D`_
 ### [Pods.](https://ewwgene.github.io/projects/Pods) 
 _SUMMER-2015.07._  
 ... [[more...]](https://ewwgene.github.io/projects/Pods)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
@@ -112,7 +112,7 @@ _`IDRAW`_
 ### [Glasses.](https://ewwgene.github.io/projects/Glasses) 
 _2012.10-2015.04._  
 ... [[more...]](https://ewwgene.github.io/projects/Glasses)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_ 
@@ -122,7 +122,7 @@ _`KUTZALL WHEELS`_ _`IDRAW`_
 ### [TV_Unit_02.](https://ewwgene.github.io/projects/TV_Unit_02) 
 _SUMMER-2014.06._  
 WOODEN TV cabinet with cable management. Open symmetrical storage area.... [[more...]](https://ewwgene.github.io/projects/TV_Unit_02)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 
@@ -132,7 +132,7 @@ _`IDRAW`_
 ### [TV_Set_01.](https://ewwgene.github.io/projects/TV_Set_01) 
 _SUMMER-2014.05._  
 ... [[more...]](https://ewwgene.github.io/projects/TV_Set_01)  
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX` 
 /
 _`IDRAW`_ 

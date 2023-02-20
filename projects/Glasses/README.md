@@ -8,7 +8,7 @@
 <a href="https://ewwgene.github.io/projects/Glasses/Making/309.jpg"><img src="/projects/Glasses/Making/309.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/310.jpg"><img src="/projects/Glasses/Making/310.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/311.jpg"><img src="/projects/Glasses/Making/311.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/320.jpg"><img src="/projects/Glasses/Making/320.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/322.jpg"><img src="/projects/Glasses/Making/322.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/323.jpg"><img src="/projects/Glasses/Making/323.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/325.jpg"><img src="/projects/Glasses/Making/325.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/327.jpg"><img src="/projects/Glasses/Making/327.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Glasses/Making/328.jpg"><img src="/projects/Glasses/Making/328.jpg" height="100"></a> <br>  
 **Making**  
   
-/
+|
 `SOLID_PINE_WOOD` `NATURAL OIL` `WAX`   
 /
 _`KUTZALL WHEELS`_ _`IDRAW`_   
