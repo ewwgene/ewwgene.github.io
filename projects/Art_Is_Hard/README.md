@@ -1,6 +1,6 @@
 
-## Art_Is_Hard. _2018.02-2018.05._  
-![Art_Is_Hard](/projects/Art_Is_Hard/100.jpg)<a href="https://ewwgene.github.io/projects/Art_Is_Hard/101.jpg"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/103.jpg"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/105.jpg"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/110.jpg"><img src="/projects/Art_Is_Hard/110.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/111.jpg"><img src="/projects/Art_Is_Hard/111.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/113.jpg"><img src="/projects/Art_Is_Hard/113.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/115.jpg"><img src="/projects/Art_Is_Hard/115.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/117.jpg"><img src="/projects/Art_Is_Hard/117.jpg" height="100"></a> 
+## Art_Is_Hard. _SUMMER-2018.07._  
+![Art_Is_Hard](/projects/Art_Is_Hard/100.jpg)<a href="https://ewwgene.github.io/projects/Art_Is_Hard/101.jpg"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/103.jpg"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/105.jpg"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/110.jpg"><img src="/projects/Art_Is_Hard/110.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/111.jpg"><img src="/projects/Art_Is_Hard/111.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/117.jpg"><img src="/projects/Art_Is_Hard/117.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/119.jpg"><img src="/projects/Art_Is_Hard/119.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/120.jpg"><img src="/projects/Art_Is_Hard/120.jpg" height="100"></a> 
 <br>  
 **Overview**  
  
@@ -15,4 +15,4 @@ _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_
 <br>
 <a href="https://ewwgene.github.io/projects/Art_Is_Hard/300.jpg"><img src="/projects/Art_Is_Hard/300.jpg" height="100"></a> 
 <br>
-<a href="https://ewwgene.github.io/projects/Art_Is_Hard/401.jpg"><img src="/projects/Art_Is_Hard/401.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/402.jpg"><img src="/projects/Art_Is_Hard/402.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard/403.jpg"><img src="/projects/Art_Is_Hard/403.jpg" height="100"></a> 
+

@@ -1,4 +1,14 @@
 
+### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
+_SUMMER-2018.07._  
+... [[more...]](https://ewwgene.github.io/projects/Art_Is_Hard)  
+/
+`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
+/
+_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
+
+<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
+
 ### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
 _2017.07-2018.07._  
 ... [[more...]](https://ewwgene.github.io/projects/Trash_S6_CONCEPT)  
@@ -10,7 +20,7 @@ _`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_
 <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
 
 ### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
-_2018.02-2018.05._  
+_SUMMER-2018.07._  
 ... [[more...]](https://ewwgene.github.io/projects/Art_Is_Hard)  
 /
 `SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
@@ -19,25 +29,15 @@ _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_
 
 <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
 
-### [Threesome.](https://ewwgene.github.io/projects/Threesome) 
-_2018.02-2018.05._  
-... [[more...]](https://ewwgene.github.io/projects/Threesome)  
+### [Trash_S6_CONCEPT.](https://ewwgene.github.io/projects/Trash_S6_CONCEPT) 
+_2017.07-2018.07._  
+... [[more...]](https://ewwgene.github.io/projects/Trash_S6_CONCEPT)  
 /
-`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
+`CNC MILLING` `SCAN` `PLASTER` 
 /
-_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
+_`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
 
-<a href="https://ewwgene.github.io/projects/Threesome"><img src="/projects/Threesome/000.jpg" height="200"></a> 
-
-### [Art_Is_Hard.](https://ewwgene.github.io/projects/Art_Is_Hard) 
-_2018.02-2018.05._  
-... [[more...]](https://ewwgene.github.io/projects/Art_Is_Hard)  
-/
-`SOLID_PINE_WOOD` `CNC MILLING` `PLASTER` `GOLD LEAF` 
-/
-_`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_ 
-
-<a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Art_Is_Hard"><img src="/projects/Art_Is_Hard/105.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Trash_S6_CONCEPT"><img src="/projects/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
 
 ### [Threesome.](https://ewwgene.github.io/projects/Threesome) 
 _2018.02-2018.05._  
