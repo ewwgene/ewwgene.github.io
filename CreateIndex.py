@@ -2,7 +2,9 @@ import os, json
 
 projectFile= '.project'
 README= 'README.md'
+Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
+smallHeight= '75'
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -77,7 +79,7 @@ def imgMain(projectFolder, urlProject, project):
                         if name!='100':
                             imgLittle.append(urlImg)
     for img in imgLittle:
-        imgHeight = '100'
+        imgHeight = smallHeight
         imgTextInsertAll=imgTextInsertAll+imgCreateHTML(img, imgHeight)
 
     imgTextInsertAll=normPath(imgTextInsertAll)
@@ -97,7 +99,7 @@ def imgTextProject(path, urlProject, nu):
                     urlImg=os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
     for img in imgNumInsertAll:
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, '100')
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -127,7 +129,7 @@ def imgTextProjectMaking(path, urlProject, over):
                         # print(imgPath)
                         imgNumInsertAll.append(urlImg)
         for img in imgNumInsertAll:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, '100')
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
         imgTextInsertAll = imgTextInsertAll + '<br>'
         imgNumInsertAll.clear()
     # print(imgNumInsertAll)
@@ -151,7 +153,7 @@ def imgProjectIntro(projectFolder, urlProject):
                     urlImg = os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
     for img in imgNumInsertAll:
-        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, '100')
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -219,10 +221,9 @@ _%s-%s._
                 ################################################################################################################
 
                 textProject = '''
+# [%s](%s)
 ## %s. _%s-%s._
-<br>
-
-![%s](/%s) %s
+![%s](/%s)%s
 <br>
 **Overview**
 %s
@@ -240,7 +241,7 @@ _%s-%s._
 <br>
 %s
 ''' % (
-                project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
                 softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'), imgTextProject(projectFolder, urlProject, '4'))
                 ################################################################################################################
                 # print(text)
