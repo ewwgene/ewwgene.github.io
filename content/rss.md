@@ -1,4 +1,0 @@
----
-layout: feed
-title: "Blog"
----
