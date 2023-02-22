@@ -71,7 +71,7 @@ def imgMain(projectFolder, urlProject, project):
                     # print(name)
                     if name=='000':
                         imgHeight = '200'
-                        imgHTML = imgCreateHTML(urlImg, imgHeight)
+                        imgTextInsertAll = imgCreateHTML(urlImg, imgHeight)
                     else:
                         if name!='100':
                             imgLittle.append(urlImg)
