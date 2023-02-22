@@ -51,7 +51,7 @@ def imgTextCreateProject(imgPath, imgHeight):
 
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     # print(fullUrlHome)
-    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="' + imgPath + '" height="' + imgHeight + '"></a> '
+    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
 def normPath(path):
@@ -165,6 +165,7 @@ def imgProjectIntro100(path, project):
             if ext == '.jpg':
                 if name=='100':
                     imgPath = os.path.join(project, file)
+                    imgPath = '/' + file
                     imgPath=normPath(imgPath)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
