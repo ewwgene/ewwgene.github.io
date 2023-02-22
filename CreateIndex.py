@@ -167,6 +167,7 @@ def imgProjectIntro100(path, project):
                     imgPath = os.path.join(project, file)
                     imgPath = '/' + file
                     imgPath=normPath(imgPath)
+                    # print(imgPath)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
                     # imgTextInsert = fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
