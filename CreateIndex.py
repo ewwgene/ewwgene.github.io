@@ -35,7 +35,7 @@ def imgCreateHTML(urlImg, imgHeight):
     # print(imgPath)
     # fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
     # print(fullUrlHome)
-    imgHTML = '<a href="' + urlImg + '"><img src="/' + urlImg + '" height="' + imgHeight + '"></a> '
+    imgHTML = '<a href="' + urlImg + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
 
 def imgTextCreateProject(imgPath, imgHeight):
