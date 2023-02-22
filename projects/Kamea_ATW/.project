@@ -1,0 +1,7 @@
+{
+    "date": ["WINTER", "2019.12"],
+    "hardware": ["SLIT-SCAN_PHOTOGRAPHY"],
+    "software": ["HOUDINI_+_VOP&VEX", "MESHLAB" ,"AUTODESK_MAYA_+_RIGGING", "PROCESSING"],
+    "overview": " проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)",
+    "making": ""
+}

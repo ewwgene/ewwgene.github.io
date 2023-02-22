@@ -1,7 +1,7 @@
 import os, json
 
 projectFile= '.project'
-bodyFile= 'README.md'
+README= 'README.md'
 urlHome= 'https://ewwgene.github.io/'
 
 def getProjectInfo(path):
@@ -10,9 +10,10 @@ def getProjectInfo(path):
         return json.load(f)
 
 def makeProjectFile(path, data):
-    fileMakePath= os.path.join(path, bodyFile)
-    with open(fileMakePath, 'w') as f:
+    pathREADME= os.path.join(path, README)
+    with open(pathREADME, 'w') as f:
         f.write(data)
+        print('create ', pathREADME)
         f.close()
         # json.dump(data, f, indent=4)
 
@@ -30,12 +31,12 @@ def softwareMaterial(data):
         datan=datan+hn
     return datan
 
-def imgTextCreate(imgPath, imgHeight):
+def imgCreateHTML(urlImg, imgHeight):
     # print(imgPath)
-    fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
+    # fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
     # print(fullUrlHome)
-    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
-    return imgTextInsert
+    imgHTML = '<a href="' + urlImg + '"><img src="/' + urlImg + '" height="' + imgHeight + '"></a> '
+    return imgHTML
 
 def imgTextCreateProject(imgPath, imgHeight):
     # print(os.path.basename(imgPath)[4])
@@ -57,26 +58,26 @@ def normPath(path):
     nPath = path.replace('\\', '/')
     return nPath
 
-def imgText(pathProject, project):
+def imgMain(projectFolder, urlProject, project):
     imgTextInsertAll=''
-    imgNumInsertAll = []
-    for file in os.listdir(pathProject):
-        if os.path.isfile(os.path.join(pathProject, file)):
+    imgLittle = []
+    for file in os.listdir(projectFolder):
+        if os.path.isfile(os.path.join(projectFolder, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
                 if name.startswith('0') or name.startswith('10'):
-                    imgPath=os.path.join('projects', project, file)
+                    urlImg=os.path.join(urlProject, file)
                     imgHeight=''
                     # print(name)
                     if name=='000':
                         imgHeight = '200'
-                        imgTextInsertAll = imgTextCreate(imgPath, imgHeight)
+                        imgHTML = imgCreateHTML(urlImg, imgHeight)
                     else:
                         if name!='100':
-                            imgNumInsertAll.append(imgPath)
-    for n in imgNumInsertAll:
+                            imgLittle.append(urlImg)
+    for img in imgLittle:
         imgHeight = '100'
-        imgTextInsertAll=imgTextInsertAll+imgTextCreate(n, imgHeight)
+        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(img, imgHeight)
 
     imgTextInsertAll=normPath(imgTextInsertAll)
 
@@ -182,26 +183,27 @@ def imgTextProjectIntro100(path, project):
 text=''
 textProject=''
 dateIndex=[]
-for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
-    pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
-    if os.path.exists(os.path.join(pathProject, projectFile)):
-        info= getProjectInfo(pathProject)
+mainFolder=os.path.dirname(os.path.dirname(__file__))
+for project in os.listdir(mainFolder):
+    projectFolder=os.path.join(mainFolder, project)
+    if os.path.exists(os.path.join(projectFolder, projectFile)):
+        info= getProjectInfo(projectFolder)
         dateIndex.append(info['date'][1])
 
 dateIndex.sort()
 dateIndex.reverse()
 for dI in dateIndex:
-    for project in os.listdir(os.path.join(os.path.dirname(__file__), 'projects')):
-        pathProject=os.path.join(os.path.dirname(__file__), 'projects', project)
-        if os.path.exists(os.path.join(pathProject, projectFile)):
-            info= getProjectInfo(pathProject)
+    for project in os.listdir(mainFolder):
+        projectFolder=os.path.join(mainFolder, project)
+        if os.path.exists(os.path.join(projectFolder, projectFile)):
+            info= getProjectInfo(projectFolder)
             if info['date'][1] == dI:
-                fullUrlHome=normPath(os.path.join(urlHome, 'projects', project))
+                urlProject=normPath(os.path.join(urlHome, project))
                 ################################################################################################################
-                textT = '''
-### [%s.](%s) 
-_%s-%s._  
-%s... [[more...]](%s)  
+                textMain = '''
+### [%s.](%s)
+_%s-%s._
+%s... [[more...]](%s)
 |
 %s
 /
@@ -209,40 +211,37 @@ _%s-%s._
 
 %s
 ''' % (
-                project, fullUrlHome, info['date'][0], info['date'][1], info['overview'][0:199], fullUrlHome, hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgText(pathProject, project))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:199], urlProject, hardwareMaterial(info['hardware']),
+                softwareMaterial(info['software']), imgMain(projectFolder, urlProject, project))
                 ################################################################################################################
 
-                textProject = '''
-## %s. _%s-%s._  
-![%s](/%s)%s
-<br>  
-**Overview**  
-%s 
-<br><br>
-%s  
-**Making**  
-%s  
-|
-%s  
-/
-%s  
-<br>
-%s
-<br>
-%s
-''' % (
-                project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgTextProject(pathProject, project, '3'), imgTextProject(pathProject, project, '4'))
-                ################################################################################################################
-                # print(text)
-                makeProjectFile(pathProject, textProject)
-                text=text+textT
-# print(text)
+#                 textProject = '''
+# ## %s. _%s-%s._
+# ![%s](/%s)%s
+# <br>
+# **Overview**
+# %s
+# <br><br>
+# %s
+# **Making**
+# %s
+# |
+# %s
+# /
+# %s
+# <br>
+# %s
+# <br>
+# %s
+# ''' % (
+#                 project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+#                 softwareMaterial(info['software']), imgTextProject(pathProject, project, '3'), imgTextProject(pathProject, project, '4'))
+#                 ################################################################################################################
+#                 # print(text)
+#                 makeProjectFile(pathProject, textProject)
+                text=text+textMain
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
-        # print(info['materials'][2])
 
-#os.path.exists(os.path.join(os.path.dirname(__file__), 'projects',))
-# print(os.listdir(os.path.join(os.path.dirname(__file__), 'projects')))
+
 
 
