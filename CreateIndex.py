@@ -165,7 +165,7 @@ def imgProjectIntro100(path, project):
             if ext == '.jpg':
                 if name=='100':
                     imgPath = os.path.join(project, file)
-                    imgPath = '/' + file
+                    imgPath = file
                     imgPath=normPath(imgPath)
                     # print(imgPath)
                     return imgPath
