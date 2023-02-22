@@ -9,15 +9,15 @@ _`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_
 
 
 
-### [Slit-Scan_01_ALGORITHM.](https://ewwgene.github.io/Slit-Scan_01_ALGORITHM)
+### [Slit-Scan_01-ALGORITHM.](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
 _WINTER-2019.12._
- проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Slit-Scan_01_ALGORITHM)
+ проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
 |
 `SLIT-SCAN_PHOTOGRAPHY` 
 /
 _`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_ 
 
-<a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/000.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/001.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/003.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/001.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/003.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/003.jpg" height="100"></a> 
 
 ### [Kamea_ATW.](https://ewwgene.github.io/Kamea_ATW)
 _WINTER-2019.12._
@@ -29,15 +29,15 @@ _`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_
 
 
 
-### [Slit-Scan_01_ALGORITHM.](https://ewwgene.github.io/Slit-Scan_01_ALGORITHM)
+### [Slit-Scan_01-ALGORITHM.](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
 _WINTER-2019.12._
- проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Slit-Scan_01_ALGORITHM)
+ проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
 |
 `SLIT-SCAN_PHOTOGRAPHY` 
 /
 _`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_ 
 
-<a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/000.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/001.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/003.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01_ALGORITHM/003.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/001.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/003.jpg"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/003.jpg" height="100"></a> 
 
 ### [Art_Is_Hard.](https://ewwgene.github.io/Art_Is_Hard)
 _SUMMER-2018.08._
@@ -49,15 +49,15 @@ _`AUTODESK MAYA + RIGGING`_ _`ARTCAM`_ _`CIMCO EDIT`_
 
 <a href="https://ewwgene.github.io/Art_Is_Hard/000.jpg"><img src="https://ewwgene.github.io/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/001.jpg"><img src="https://ewwgene.github.io/Art_Is_Hard/001.jpg" height="100"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/103.jpg"><img src="https://ewwgene.github.io/Art_Is_Hard/103.jpg" height="100"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/105.jpg"><img src="https://ewwgene.github.io/Art_Is_Hard/105.jpg" height="100"></a> 
 
-### [Trash_S6_CONCEPT.](https://ewwgene.github.io/Trash_S6_CONCEPT)
+### [Trash_S6-CONCEPT.](https://ewwgene.github.io/Trash_S6-CONCEPT)
 _2017.07-2018.07._
-... [[more...]](https://ewwgene.github.io/Trash_S6_CONCEPT)
+... [[more...]](https://ewwgene.github.io/Trash_S6-CONCEPT)
 |
 `CNC MILLING` `SCAN` `PLASTER` 
 /
 _`STUDIO ARTIST`_ _`RHINOCEROS 3D + GRASSHOPPER`_ _`CIMCO EDIT`_ _`INKSCAPE`_ 
 
-<a href="https://ewwgene.github.io/Trash_S6_CONCEPT/000.jpg"><img src="https://ewwgene.github.io/Trash_S6_CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6_CONCEPT/101.jpg"><img src="https://ewwgene.github.io/Trash_S6_CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/Trash_S6_CONCEPT/102.jpg"><img src="https://ewwgene.github.io/Trash_S6_CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/Trash_S6_CONCEPT/103.jpg"><img src="https://ewwgene.github.io/Trash_S6_CONCEPT/103.jpg" height="100"></a> 
+<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/101.jpg"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/101.jpg" height="100"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg" height="100"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg" height="100"></a> 
 
 ### [Threesome.](https://ewwgene.github.io/Threesome)
 _2018.02-2018.05._

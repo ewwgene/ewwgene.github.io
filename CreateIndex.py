@@ -220,6 +220,7 @@ _%s-%s._
 
                 textProject = '''
 ## %s. _%s-%s._
+
 ![%s](/%s)%s
 <br>
 **Overview**
