@@ -1,4 +1,14 @@
 
+### [Fusion_Techno-CONCEPT.](https://ewwgene.github.io/Fusion_Techno-CONCEPT)
+_2020.05-2020.09._
+ проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Fusion_Techno-CONCEPT)
+|
+`SLIT-SCAN_PHOTOGRAPHY` 
+/
+_`HOUDINI_+_VOP&VEX`_ _`MESHLAB`_ _`AUTODESK_MAYA_+_RIGGING`_ _`PROCESSING`_ 
+
+<a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/000.jpg"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg" height="75"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg" height="75"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="75"></a> 
+
 ### [Kamea_ATW.](https://ewwgene.github.io/Kamea_ATW)
 _WINTER-2020.02._
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)... [[more...]](https://ewwgene.github.io/Kamea_ATW)
