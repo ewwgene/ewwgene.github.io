@@ -51,7 +51,7 @@ def imgTextCreateProject(imgPath, imgHeight):
 
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     # print(fullUrlHome)
-    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="/' + imgPath + '" height="' + imgHeight + '"></a> '
+    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="' + imgPath + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
 def normPath(path):
@@ -84,7 +84,7 @@ def imgMain(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProject(path, project, nu):
+def imgTextProject(path, urlProject, nu):
     imgTextInsertAll=''
     imgNumInsertAll = []
     for file in os.listdir(path):
@@ -93,15 +93,15 @@ def imgTextProject(path, project, nu):
             if ext=='.jpg':
                 if name.startswith(nu):
                     # print(file)
-                    imgPath=os.path.join('projects', project, file)
-                    imgNumInsertAll.append(imgPath)
-    for n in imgNumInsertAll:
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
+                    urlImg=os.path.join(urlProject, file)
+                    imgNumInsertAll.append(urlImg)
+    for img in imgNumInsertAll:
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, '100')
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProjectMaking(path, project, over):
+def imgTextProjectMaking(path, urlProject, over):
     # print('making - ', project)
     imgTextInsertAll=''
     imgNumInsertAll = []
@@ -121,12 +121,12 @@ def imgTextProjectMaking(path, project, over):
                 name, ext = os.path.splitext(file)
                 if ext == '.jpg' or ext=='.gif':
                     if name.startswith(i):
-                        imgPath = os.path.join('projects', project, over, file)
+                        urlImg = os.path.join(urlProject, over, file)
                         # print('projects', project, over, file)
                         # print(imgPath)
-                        imgNumInsertAll.append(imgPath)
-        for n in imgNumInsertAll:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(n, '100')
+                        imgNumInsertAll.append(urlImg)
+        for img in imgNumInsertAll:
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, '100')
         imgTextInsertAll = imgTextInsertAll + '<br>'
         imgNumInsertAll.clear()
     # print(imgNumInsertAll)
@@ -138,25 +138,25 @@ def imgTextProjectMaking(path, project, over):
     return imgTextInsertAll
 
 
-def imgTextProjectIntro(path, project):
+def imgProjectIntro(projectFolder, urlProject):
     imgTextInsertAll = ''
     imgNumInsertAll = []
-    for file in os.listdir(path):
-        if os.path.isfile(os.path.join(path, file)):
+    for file in os.listdir(projectFolder):
+        if os.path.isfile(os.path.join(projectFolder, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
                 if name.startswith('1') and name!='100':
                     # print(name)
-                    imgPath = os.path.join('projects', project, file)
-                    imgNumInsertAll.append(imgPath)
-    for n in imgNumInsertAll:
-        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(n, '100')
+                    urlImg = os.path.join(urlProject, file)
+                    imgNumInsertAll.append(urlImg)
+    for img in imgNumInsertAll:
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, '100')
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProjectIntro100(path, project):
+def imgProjectIntro100(path, project):
     # imgTextInsertAll = ''
     # imgNumInsertAll = []
     for file in os.listdir(path):
@@ -164,7 +164,7 @@ def imgTextProjectIntro100(path, project):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
                 if name=='100':
-                    imgPath = os.path.join('projects', project, file)
+                    imgPath = os.path.join(project, file)
                     imgPath=normPath(imgPath)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
@@ -215,30 +215,31 @@ _%s-%s._
                 softwareMaterial(info['software']), imgMain(projectFolder, urlProject, project))
                 ################################################################################################################
 
-#                 textProject = '''
-# ## %s. _%s-%s._
-# ![%s](/%s)%s
-# <br>
-# **Overview**
-# %s
-# <br><br>
-# %s
-# **Making**
-# %s
-# |
-# %s
-# /
-# %s
-# <br>
-# %s
-# <br>
-# %s
-# ''' % (
-#                 project, info['date'][0], info['date'][1], project, imgTextProjectIntro100(pathProject, project), imgTextProjectIntro(pathProject, project), info['overview'], imgTextProjectMaking(os.path.join(pathProject, 'Making'), project, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-#                 softwareMaterial(info['software']), imgTextProject(pathProject, project, '3'), imgTextProject(pathProject, project, '4'))
-#                 ################################################################################################################
-#                 # print(text)
-#                 makeProjectFile(pathProject, textProject)
+                textProject = '''
+## %s. _%s-%s._
+![%s](/%s)%s
+<br>
+**Overview**
+%s
+<br><br>
+%s
+**Making**
+%s
+|
+%s
+/
+%s
+<br>
+%s
+<br>
+%s
+''' % (
+                project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'), imgTextProject(projectFolder, urlProject, '4'))
+                ################################################################################################################
+                # print(text)
+                makeProjectFile(projectFolder, textProject)
+
                 text=text+textMain
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
