@@ -50,6 +50,7 @@ def imgTextCreateProject(imgPath, imgHeight):
     #     print(imgHeight)
 
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
+    fullUrlHome = normPath(imgPath)
     # print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHome + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
