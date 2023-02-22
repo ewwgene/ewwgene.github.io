@@ -1,0 +1,10 @@
+{
+  "title": "Portfolio Starter",
+  "lang": "en-gb",
+  "footer": "Built with [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
+  "url": "https://ewwgene.github.io/",
+  "author": {
+    "name": "Portfolio Starter",
+    "email": "r0cam@me.com"
+  }
+}

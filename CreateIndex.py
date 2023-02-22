@@ -221,7 +221,8 @@ _%s-%s._
                 textProject = '''
 ## %s. _%s-%s._
 <br>
-![%s](/%s)%s
+
+![%s](/%s) %s
 <br>
 **Overview**
 %s
@@ -234,6 +235,7 @@ _%s-%s._
 /
 %s
 <br>
+
 %s
 <br>
 %s
