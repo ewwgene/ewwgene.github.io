@@ -314,14 +314,17 @@ _%s-%s._
                     iText='### !['+ os.path.basename(i) + '](' + i + ')\n'
                     allImageText= allImageText + iText
 
-                makeProjectFile(os.path.join(projectFolder, 'Carousel'), allImageText)
 
 
-#                 textImage = '''
-# %s
-# ''' % (
-#                 textImageInsert(projectFolder))
-#                 print(allImageText)
+
+                textImage = '''
+# [%s](%s)
+## [%s.](%s)
+%s
+''' % (
+                Name, urlHome,project, urlProject, allImageText)
+                # print(allImageText)
+                makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
                 allImageText=''
 
