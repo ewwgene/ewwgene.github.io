@@ -7,7 +7,7 @@ _2020.09-2021.03._
 /
 _`STUDIO_ARTIST`_ _`RHINOCEROS_3D_+_GRASSHOPPER`_ _`CIMCO_EDIT`_ _`INKSCAPE`_ 
 
-<a href="https://ewwgene.github.io/Follio/000.jpg"><img src="https://ewwgene.github.io/Follio/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Follio/001.jpg"><img src="https://ewwgene.github.io/Follio/001.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/101.jpg"><img src="https://ewwgene.github.io/Follio/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/102.jpg"><img src="https://ewwgene.github.io/Follio/102.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/103.jpg"><img src="https://ewwgene.github.io/Follio/103.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/104.jpg"><img src="https://ewwgene.github.io/Follio/104.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/105.jpg"><img src="https://ewwgene.github.io/Follio/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/107.jpg"><img src="https://ewwgene.github.io/Follio/107.jpg" height="66"></a> <a href="https://ewwgene.github.io/Follio/109.jpg"><img src="https://ewwgene.github.io/Follio/109.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Follio/000.jpg"><img src="https://ewwgene.github.io/Follio/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Follio/001.jpg"><img src="https://ewwgene.github.io/Follio/001.jpg" height="66"></a> 
 
 ### [Fusion_Techno-CONCEPT.](https://ewwgene.github.io/Fusion_Techno-CONCEPT)
 _2020.05-2020.09._
