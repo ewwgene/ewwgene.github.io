@@ -4,7 +4,7 @@ projectFile= '.project'
 README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
-smallHeight= '75'
+smallHeight= '66'
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
