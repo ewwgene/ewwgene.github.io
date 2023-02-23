@@ -5,6 +5,8 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
+allImage=[]
+allImageText=''
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -15,7 +17,7 @@ def makeProjectFile(path, data):
     pathREADME= os.path.join(path, README)
     with open(pathREADME, 'w') as f:
         f.write(data)
-        print('create ', pathREADME)
+        # print('create ', pathREADME)
         f.close()
         # json.dump(data, f, indent=4)
 
@@ -40,7 +42,7 @@ def imgCreateHTML(urlImg, imgHeight):
     imgHTML = '<a href="' + os.path.dirname(urlImg) + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
 
-def imgTextCreateProject(imgPath, imgHeight):
+def imgTextCreateProject(imgPath, imgHeight, project):
     # print(os.path.basename(imgPath)[4])
     hH, ext= os.path.splitext(os.path.basename(imgPath))
     if len(hH)>=6:
@@ -50,11 +52,14 @@ def imgTextCreateProject(imgPath, imgHeight):
     #     print(os.path.basename(imgPath)[4])
     #     imgHeight=os.path.basename(imgPath)[5:7]
     #     print(imgHeight)
+    # ind=str(allImage.index(imgPath))
 
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     fullUrlHome = normPath(imgPath)
+    fullUrlHomeCarousel = os.path.join(urlHome, project, 'Carousel') + '#-' + str(allImage.index(imgPath))
+    print(fullUrlHome)
     # print(fullUrlHome)
-    imgTextInsert = '<a href="' + fullUrlHome + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
+    imgTextInsert = '<a href="' + fullUrlHomeCarousel + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
     return imgTextInsert
 
 def normPath(path):
@@ -107,9 +112,10 @@ def imgMain2(projectFolder, urlProject, project):
     # print(volRand)
     random.shuffle(imgLittle)
     # print(imgLittle)
+    print(len(imgLittle))
     for i in range(volRand):
     #     if i!=0:
-        print('range', i)
+    #     print('range', i)
         imgHeight = smallHeight
         imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight)
 
@@ -118,7 +124,7 @@ def imgMain2(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProject(path, urlProject, nu):
+def imgTextProject(path, urlProject, nu, project):
     imgTextInsertAll=''
     imgNumInsertAll = []
     for file in os.listdir(path):
@@ -130,12 +136,13 @@ def imgTextProject(path, urlProject, nu):
                     urlImg=os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
     for img in imgNumInsertAll:
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
+        allImage.append(img)
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProjectMaking(path, urlProject, over):
+def imgTextProjectMaking(path, urlProject, over, project):
     # print('making - ', project)
     imgTextInsertAll=''
     imgNumInsertAll = []
@@ -160,7 +167,7 @@ def imgTextProjectMaking(path, urlProject, over):
                         # print(imgPath)
                         imgNumInsertAll.append(urlImg)
         for img in imgNumInsertAll:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
         imgTextInsertAll = imgTextInsertAll + '<br>'
         imgNumInsertAll.clear()
     # print(imgNumInsertAll)
@@ -171,7 +178,7 @@ def imgTextProjectMaking(path, urlProject, over):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgTextProjectMaking2(path, urlProject, over):
+def imgTextProjectMaking2(path, urlProject, over, project):
     # print('making - ', project)
     imgTextInsertAll=''
     imgNumInsertAll = []
@@ -186,13 +193,14 @@ def imgTextProjectMaking2(path, urlProject, over):
                 imgNumInsertAll.append(urlImg)
 
     for img in imgNumInsertAll:
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
+        allImage.append(img)
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
     imgTextInsertAll = imgTextInsertAll + '<br>'
     imgTextInsertAll=normPath(imgTextInsertAll)
     return imgTextInsertAll
 
 
-def imgProjectIntro(projectFolder, urlProject):
+def imgProjectIntro(projectFolder, urlProject, project):
     imgTextInsertAll = ''
     imgNumInsertAll = []
     for file in os.listdir(projectFolder):
@@ -204,7 +212,8 @@ def imgProjectIntro(projectFolder, urlProject):
                     urlImg = os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
     for img in imgNumInsertAll:
-        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight)
+        allImage.append(img)
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight, project)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -221,6 +230,9 @@ def imgProjectIntro100(path, project):
                     imgPath = os.path.join(project, file)
                     imgPath = file
                     imgPath=normPath(imgPath)
+                    urlImg = os.path.join(urlProject, file)
+                    allImage.append(urlImg)
+
                     # print(imgPath)
                     return imgPath
                     # imgNumInsertAll.append(imgPath)
@@ -231,7 +243,8 @@ def imgProjectIntro100(path, project):
     #
     # imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
-
+def textImageInsert(projectFolder):
+    pass
 
 
 
@@ -290,11 +303,27 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'))
+                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
+                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3', project))
                 ################################################################################################################
                 # print(text)
                 makeProjectFile(projectFolder, textProject)
+
+                for i in allImage:
+                    i=normPath(i)
+                    iText='### !['+ os.path.basename(i) + '](' + i + ')\n'
+                    allImageText= allImageText + iText
+
+                makeProjectFile(os.path.join(projectFolder, 'Carousel'), allImageText)
+
+
+#                 textImage = '''
+# %s
+# ''' % (
+#                 textImageInsert(projectFolder))
+#                 print(allImageText)
+                allImage.clear()
+                allImageText=''
 
                 text=text+textMain
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
