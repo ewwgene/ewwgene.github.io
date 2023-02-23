@@ -140,6 +140,26 @@ def imgTextProjectMaking(path, urlProject, over):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
+def imgTextProjectMaking2(path, urlProject, over):
+    # print('making - ', project)
+    imgTextInsertAll=''
+    imgNumInsertAll = []
+    imgIndex=[]
+    for file in os.listdir(path):
+        if os.path.isfile(os.path.join(path, file)):
+            name, ext= os.path.splitext(file)
+            if ext=='.jpg' or ext=='.gif':
+                urlImg = os.path.join(urlProject, over, file)
+                # print('projects', project, over, file)
+                # print(imgPath)
+                imgNumInsertAll.append(urlImg)
+
+    for img in imgNumInsertAll:
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
+
+    imgTextInsertAll=normPath(imgTextInsertAll)
+    return imgTextInsertAll
+
 
 def imgProjectIntro(projectFolder, urlProject):
     imgTextInsertAll = ''
@@ -241,7 +261,7 @@ _%s-%s._
 <br>
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
+                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
                 softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'), imgTextProject(projectFolder, urlProject, '4'))
                 ################################################################################################################
                 # print(text)
