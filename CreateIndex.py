@@ -1,4 +1,4 @@
-import os, json
+import os, json, random
 
 projectFile= '.project'
 README= 'README.md'
@@ -87,6 +87,37 @@ def imgMain(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
+def imgMain2(projectFolder, urlProject, project):
+    imgTextInsertAll=''
+    imgLittle = []
+    for file in os.listdir(projectFolder):
+        if os.path.isfile(os.path.join(projectFolder, file)):
+            name, ext= os.path.splitext(file)
+            if ext=='.jpg':
+                urlImg=os.path.join(urlProject, file)
+                imgHeight=''
+                # print(name)
+                if name=='000':
+                    imgHeight = '200'
+                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight)
+                else:
+                    if name!='100':
+                        imgLittle.append(urlImg)
+    volRand= random.randint(0, 3)
+    # print(volRand)
+    random.shuffle(imgLittle)
+    # print(imgLittle)
+    for i in range(volRand):
+    #     if i!=0:
+        print('range', i)
+        imgHeight = smallHeight
+        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight)
+
+    imgTextInsertAll=normPath(imgTextInsertAll)
+
+    # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
+    return imgTextInsertAll
+
 def imgTextProject(path, urlProject, nu):
     imgTextInsertAll=''
     imgNumInsertAll = []
@@ -94,7 +125,7 @@ def imgTextProject(path, urlProject, nu):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
             if ext=='.jpg':
-                if name.startswith(nu):
+                if name.startswith(nu) or name.startswith('4'):
                     # print(file)
                     urlImg=os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
@@ -156,7 +187,7 @@ def imgTextProjectMaking2(path, urlProject, over):
 
     for img in imgNumInsertAll:
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight)
-
+    imgTextInsertAll = imgTextInsertAll + '<br>'
     imgTextInsertAll=normPath(imgTextInsertAll)
     return imgTextInsertAll
 
@@ -237,7 +268,7 @@ _%s-%s._
 %s
 ''' % (
                 project, urlProject, info['date'][0], info['date'][1], info['overview'][0:199], urlProject, hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgMain(projectFolder, urlProject, project))
+                softwareMaterial(info['software']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
                 textProject = '''
@@ -258,11 +289,9 @@ _%s-%s._
 <br>
 
 %s
-<br>
-%s
 ''' % (
                 Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making'), info['making'], hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'), imgTextProject(projectFolder, urlProject, '4'))
+                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3'))
                 ################################################################################################################
                 # print(text)
                 makeProjectFile(projectFolder, textProject)
