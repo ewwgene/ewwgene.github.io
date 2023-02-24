@@ -42,9 +42,13 @@ def imgCreateHTML(urlImg, imgHeight):
     imgHTML = '<a href="' + os.path.dirname(urlImg) + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
 
-def imgTextCreateProject(imgPath, imgHeight, project):
+def imgTextCreateProject(imgPath, imgHeight, project, over=None):
     # print(os.path.basename(imgPath)[4])
     hH, ext= os.path.splitext(os.path.basename(imgPath))
+    if over:
+        hM=hH+'m'
+    else:
+        hM = hH
     if len(hH)>=6:
         imgHeight = hH[-3:]
 
@@ -56,10 +60,12 @@ def imgTextCreateProject(imgPath, imgHeight, project):
 
     fullUrlHome=normPath(os.path.join(urlHome, imgPath))
     fullUrlHome = normPath(imgPath)
-    fullUrlHomeCarousel = os.path.join(urlHome, project, 'Carousel') + '#-' + str(allImage.index(imgPath))
-    print(fullUrlHome)
+
+    fullUrlHomeCarousel = normPath(os.path.join(urlHome, project, 'Carousel', '#' + hM))
+
     # print(fullUrlHome)
     imgTextInsert = '<a href="' + fullUrlHomeCarousel + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
+    # print(imgTextInsert)
     return imgTextInsert
 
 def normPath(path):
@@ -112,7 +118,7 @@ def imgMain2(projectFolder, urlProject, project):
     # print(volRand)
     random.shuffle(imgLittle)
     # print(imgLittle)
-    print(len(imgLittle))
+    # print(len(imgLittle))
     for i in range(volRand):
     #     if i!=0:
     #     print('range', i)
@@ -194,7 +200,7 @@ def imgTextProjectMaking2(path, urlProject, over, project):
 
     for img in imgNumInsertAll:
         allImage.append(img)
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project, over)
     imgTextInsertAll = imgTextInsertAll + '<br>'
     imgTextInsertAll=normPath(imgTextInsertAll)
     return imgTextInsertAll
@@ -284,6 +290,7 @@ _%s-%s._
                 softwareMaterial(info['software']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
+
                 textProject = '''
 # [%s](%s)
 ## %s. _%s-%s._
@@ -303,15 +310,23 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
+                Name, urlHome, project, info['date'][0], info['date'][1], normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
                 softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3', project))
                 ################################################################################################################
+                # print(textProject)
                 # print(text)
                 makeProjectFile(projectFolder, textProject)
 
                 for i in allImage:
                     i=normPath(i)
-                    iText='### !['+ os.path.basename(i) + '](' + i + ')\n'
+
+
+                    nnN, extN= os.path.splitext(os.path.basename(i))
+                    if os.path.dirname(i).endswith('Making'):
+                        nnM=nnN + 'm'
+                    else:
+                        nnM = nnN
+                    iText='### <a id="' + nnM + '"></a> !['+ os.path.basename(i) + '](' + i + ')\n'
                     allImageText= allImageText + iText
 
 
@@ -319,14 +334,15 @@ _%s-%s._
 
                 textImage = '''
 # [%s](%s)
-## [%s.](%s)
+## [%s. _%s-%s._](%s)
 %s
 ''' % (
-                Name, urlHome,project, urlProject, allImageText)
-                # print(allImageText)
+                Name, urlHome, project, info['date'][0], info['date'][1], urlProject, allImageText)
+                print(textImage)
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
                 allImageText=''
+
 
                 text=text+textMain
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
