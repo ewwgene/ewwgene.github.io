@@ -294,7 +294,7 @@ _%s-%s._
                 textProject = '''
 # [%s](%s)
 ## %s. _%s-%s._
-![%s](/%s)%s
+![[%s](/%s)](%s)%s
 <br>
 **Overview**
 %s
@@ -310,10 +310,10 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro100(projectFolder, project), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
+                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
                 softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3', project))
                 ################################################################################################################
-                # print(textProject)
+                print(textProject)
                 # print(text)
                 makeProjectFile(projectFolder, textProject)
 
@@ -326,7 +326,7 @@ _%s-%s._
                         nnM=nnN + 'm'
                     else:
                         nnM = nnN
-                    iText='### <a id="' + nnM + '"></a> !['+ os.path.basename(i) + '](' + i + ')\n'
+                    iText='<a id="' + nnM + '"></a> !['+ os.path.basename(i) + '](' + i + ')\n'
                     allImageText= allImageText + iText
 
 
@@ -338,7 +338,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome, project, info['date'][0], info['date'][1], urlProject, allImageText)
-                print(textImage)
+                # print(textImage)
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
                 allImageText=''
