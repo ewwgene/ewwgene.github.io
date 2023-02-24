@@ -294,7 +294,7 @@ _%s-%s._
                 textProject = '''
 # [%s](%s)
 ## %s. _%s-%s._
-![[%s](/%s)](%s)%s
+[![%s](/%s)](%s)%s
 <br>
 **Overview**
 %s
