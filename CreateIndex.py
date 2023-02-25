@@ -28,7 +28,7 @@ def imgCreateHTML(urlImg, imgHeight, project, m1, d1, d2):
     if m1:
         pref= '/#' + project.lower() + '--' + m1.replace(' ', '-').lower()
     else:
-        pref = '/#making' + d1.replace('.', '').lower() + d2.replace('.', '').lower()
+        pref = '/#making' + '--' + d1.replace('.', '').lower() + '-' + d2.replace('.', '').lower()
 
     imgHTML = '<a href="' + os.path.dirname(urlImg) + pref + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
