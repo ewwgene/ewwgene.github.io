@@ -312,9 +312,9 @@ _%s-%s._
                 textProject = '''
 # [%s](%s)
 ### %s. — _%s._
-[![%s](/%s)](%s)%s
+[![%s](/%s)](%s)%s<a id="text"></a>
 
-<a id="text"></a>%s
+%s
 
 %s
 
@@ -362,7 +362,7 @@ _%s-%s._
 
                 textImage = '''
 # [%s](%s)
-## [%s. — _%s._](%s)
+### [%s. — _%s._](%s)
 %s
 ''' % (
                 Name, urlHome, project, info['medium'][0], urlProject, allImageText)
