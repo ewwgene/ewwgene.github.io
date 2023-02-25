@@ -21,20 +21,6 @@ def makeProjectFile(path, data):
         f.close()
         # json.dump(data, f, indent=4)
 
-def hardwareMaterial(data):
-    datan=''
-    for h in data:
-        hn= '`'+h+'`'+' '
-        datan=datan+hn
-    return datan
-
-def softwareMaterial(data):
-    datan=''
-    for h in data:
-        hn= '_`'+h+'`_'+' '
-        datan=datan+hn
-    return datan
-
 def imgCreateHTML(urlImg, imgHeight):
     # print(imgPath)
     # fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
@@ -252,7 +238,25 @@ def imgProjectIntro100(path, project):
 def textImageInsert(projectFolder):
     pass
 
+def infoMaterials(materials):
+    materialText=''
+    for m in materials:
+        materialText= materialText + '_' + m + '_ '
+    return materialText
 
+def infoHardware(data):
+    datan=''
+    for h in data:
+        hn= '`'+h+'`'+' '
+        datan=datan+hn
+    return datan
+
+def infoSoftware(data):
+    datan=''
+    for h in data:
+        hn= '_`'+h+'`_'+' '
+        datan=datan+hn
+    return datan
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 text=''
@@ -286,32 +290,41 @@ _%s-%s._
 
 %s
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:199], urlProject, hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgMain2(projectFolder, urlProject, project))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:199], urlProject, infoHardware(info['hardware']),
+                infoSoftware(info['software']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
 
                 textProject = '''
 # [%s](%s)
-## %s. _%s-%s._
+### %s. _%s._
 [![%s](/%s)](%s)%s
 <br>
-**Overview**
 %s
-<br><br>
+
 %s
-**Making**
-%s
-|
-%s
-/
+
+### Making — _%s-%s._
 %s
 <br>
+%s
+%s
+
+%s
 
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project), info['overview'], imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project), info['making'], hardwareMaterial(info['hardware']),
-                softwareMaterial(info['software']), imgTextProject(projectFolder, urlProject, '3', project))
+                Name, urlHome,
+                project, info['medium'][0],
+                project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
+                infoMaterials(info['material']),
+                info['overview'],
+                info['date'][0], info['date'][1],
+                imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project),
+                infoSoftware(info['software']),
+                infoHardware(info['hardware']),
+                info['making'],
+                imgTextProject(projectFolder, urlProject, '3', project))
                 ################################################################################################################
                 print(textProject)
                 # print(text)
