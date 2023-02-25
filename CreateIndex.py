@@ -21,11 +21,16 @@ def makeProjectFile(path, data):
         f.close()
         # json.dump(data, f, indent=4)
 
-def imgCreateHTML(urlImg, imgHeight):
+def imgCreateHTML(urlImg, imgHeight, project, m1, d1, d2):
     # print(imgPath)
     # fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
     # print(fullUrlHome)
-    imgHTML = '<a href="' + os.path.dirname(urlImg) + '/#Making"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
+    if m1:
+        pref= '/#' + project.lower() + '--' + m1.replace(' ', '-').lower()
+    else:
+        pref = '/#making' + d1.replace('.', '').lower() + d2.replace('.', '').lower()
+
+    imgHTML = '<a href="' + os.path.dirname(urlImg) + pref + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
 
 def imgTextCreateProject(imgPath, imgHeight, project, over=None):
@@ -84,7 +89,7 @@ def imgMain(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgMain2(projectFolder, urlProject, project):
+def imgMain2(projectFolder, urlProject, project, m1, d1, d2):
     imgTextInsertAll=''
     imgLittle = []
     for file in os.listdir(projectFolder):
@@ -96,7 +101,7 @@ def imgMain2(projectFolder, urlProject, project):
                 # print(name)
                 if name=='000':
                     imgHeight = '200'
-                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight)
+                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight, project, m1, None, None)
                 else:
                     if name!='100':
                         imgLittle.append(urlImg)
@@ -109,7 +114,7 @@ def imgMain2(projectFolder, urlProject, project):
     #     if i!=0:
     #     print('range', i)
         imgHeight = smallHeight
-        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight)
+        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight, project, None, d1, d2)
 
     imgTextInsertAll=normPath(imgTextInsertAll)
 
@@ -296,7 +301,7 @@ _%s-%s._
 
 %s
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0], info['date'][0], info['date'][1]))
                 ################################################################################################################
 
 
@@ -308,7 +313,7 @@ _%s-%s._
 %s
 
 %s
-<a id="Making"></a>
+
 ### Making — _%s-%s._
 %s 
 
