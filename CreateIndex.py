@@ -134,9 +134,13 @@ def imgTextProject(path, urlProject, nu, project):
                     # print(file)
                     urlImg=os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
-    for img in imgNumInsertAll:
+    for nImg, img in enumerate(imgNumInsertAll):
+        print( nImg, ' of ', len(imgNumInsertAll))
         allImage.append(img)
-        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
+        if nImg==len(imgNumInsertAll)-1:
+            imgTextInsertAll = imgTextInsertAll + '<a id="text"></a>' + imgTextCreateProject(img, smallHeight, project)
+        else:
+            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -312,7 +316,7 @@ _%s-%s._
                 textProject = '''
 # [%s](%s)
 ### %s. — _%s._
-[![%s](/%s)](%s)%s<a id="text"></a>
+[![%s](/%s)](%s)%s
 
 %s
 
@@ -341,7 +345,7 @@ _%s-%s._
                 imgTextProject(projectFolder, urlProject, '3', project),
                 infoMedium(info['medium']))
                 ################################################################################################################
-                print(textProject)
+                # print(textProject)
                 # print(text)
                 makeProjectFile(projectFolder, textProject)
 
