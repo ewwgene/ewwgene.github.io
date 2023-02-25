@@ -213,10 +213,10 @@ def imgProjectIntro(projectFolder, urlProject, project):
                     imgNumInsertAll.append(urlImg)
     for nImg, img in enumerate(imgNumInsertAll):
         allImage.append(img)
-        if nImg==len(imgNumInsertAll)-1:
-            imgTextInsertAll = imgTextInsertAll + '<a id="text"></a>' + imgTextCreateProject(img, smallHeight, project)
-        else:
-            imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight, project)
+        # if nImg==len(imgNumInsertAll)-1:
+        #     imgTextInsertAll = imgTextInsertAll + '<a id="text"></a>' + imgTextCreateProject(img, smallHeight, project)
+        # else:
+        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight, project)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
@@ -316,7 +316,7 @@ _%s-%s._
                 textProject = '''
 # [%s](%s)
 ### %s. — _%s._
-[![%s](/%s)](%s)%s
+[![%s](/%s)](%s)%s<a id="text"></a> /
 
 %s
 
