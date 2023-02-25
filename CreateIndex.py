@@ -21,14 +21,15 @@ def makeProjectFile(path, data):
         f.close()
         # json.dump(data, f, indent=4)
 
-def imgCreateHTML(urlImg, imgHeight, project, m1, d1, d2):
+def imgCreateHTML(urlImg, imgHeight, project, m1=None):
     # print(imgPath)
     # fullUrlHome=normPath(os.path.join(urlHome, os.path.dirname(imgPath)))
     # print(fullUrlHome)
+    dee, fee= os.path.splitext(os.path.basename(urlImg))
     if m1:
         pref= '/#' + project.lower() + '--' + m1.replace(' ', '-').lower()
     else:
-        pref = '/#making' + '--' + d1.replace('.', '').lower() + '-' + d2.replace('.', '').lower()
+        pref = '/#' + '--' + dee
 
     imgHTML = '<a href="' + os.path.dirname(urlImg) + pref + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
@@ -55,7 +56,7 @@ def imgTextCreateProject(imgPath, imgHeight, project, over=None):
     fullUrlHomeCarousel = normPath(os.path.join(urlHome, project, 'Carousel', '#' + hM))
 
     # print(fullUrlHome)
-    imgTextInsert = '<a href="' + fullUrlHomeCarousel + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
+    imgTextInsert = '<a id="' + hM + '" href="' + fullUrlHomeCarousel + '"><img src="' + fullUrlHome + '" height="' + imgHeight + '"></a> '
     # print(imgTextInsert)
     return imgTextInsert
 
@@ -89,7 +90,7 @@ def imgMain(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgMain2(projectFolder, urlProject, project, m1, d1, d2):
+def imgMain2(projectFolder, urlProject, project, m1):
     imgTextInsertAll=''
     imgLittle = []
     for file in os.listdir(projectFolder):
@@ -101,7 +102,7 @@ def imgMain2(projectFolder, urlProject, project, m1, d1, d2):
                 # print(name)
                 if name=='000':
                     imgHeight = '200'
-                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight, project, m1, None, None)
+                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight, project, m1)
                 else:
                     if name!='100':
                         imgLittle.append(urlImg)
@@ -114,7 +115,7 @@ def imgMain2(projectFolder, urlProject, project, m1, d1, d2):
     #     if i!=0:
     #     print('range', i)
         imgHeight = smallHeight
-        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight, project, None, d1, d2)
+        imgTextInsertAll=imgTextInsertAll+imgCreateHTML(imgLittle[i], imgHeight, project)
 
     imgTextInsertAll=normPath(imgTextInsertAll)
 
@@ -296,12 +297,12 @@ for dI in dateIndex:
                 textMain = '''
 ### [%s.](%s)
 _%s-%s._
-%s... [[more...]](%s) <br>
+%s... [[more...]](%s/#text) <br>
 %s
 
 %s
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0], info['date'][0], info['date'][1]))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0]))
                 ################################################################################################################
 
 
@@ -309,7 +310,7 @@ _%s-%s._
 # [%s](%s)
 ### %s. — _%s._
 [![%s](/%s)](%s)%s
-
+<a id="text">
 %s
 
 %s
