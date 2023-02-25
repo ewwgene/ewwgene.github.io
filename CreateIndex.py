@@ -241,20 +241,20 @@ def textImageInsert(projectFolder):
 def infoMaterials(materials):
     materialText=''
     for m in materials:
-        materialText= materialText + '_`' + m + '`_ '
+        materialText= materialText + '[_`' + m + '`_]' + '(https://ewwgene.github.io) '
     return materialText
 
 def infoHardware(data):
     datan=''
     for h in data:
-        hn= '_**`'+h+'`**_'+' '
+        hn= '[_**`'+h+'`**_]' + '(https://ewwgene.github.io) '
         datan=datan+hn
     return datan
 
 def infoSoftware(data):
     datan=''
     for h in data:
-        hn= '_`'+h+'`_'+' '
+        hn= '[_`'+h+'`_]'+'(https://ewwgene.github.io) '
         datan=datan+hn
     # datan= datan+ '<br>'
     return datan
@@ -262,7 +262,7 @@ def infoSoftware(data):
 def infoMedium(data):
     datan=''
     for h in data:
-        hn= '_**`'+h+'`**_'+' '
+        hn= '[_`'+h+'`_]'+'(https://ewwgene.github.io) '
         datan=datan+hn
     # datan= datan+ '<br>'
     return datan
@@ -292,12 +292,11 @@ for dI in dateIndex:
 ### [%s.](%s)
 _%s-%s._
 %s... [[more...]](%s) <br>
-%s %s
+%s
 
 %s
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoHardware(info['hardware']),
-                infoSoftware(info['software']), imgMain2(projectFolder, urlProject, project))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
 
