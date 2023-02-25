@@ -301,6 +301,7 @@ _%s-%s._
 %s
 
 %s
+
 ''' % (
                 project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0]))
                 ################################################################################################################
