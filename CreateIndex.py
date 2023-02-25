@@ -137,10 +137,7 @@ def imgTextProject(path, urlProject, nu, project):
     for nImg, img in enumerate(imgNumInsertAll):
         print( nImg, ' of ', len(imgNumInsertAll))
         allImage.append(img)
-        if nImg==len(imgNumInsertAll)-1:
-            imgTextInsertAll = imgTextInsertAll + '<a id="text"></a>' + imgTextCreateProject(img, smallHeight, project)
-        else:
-            imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
+        imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
     imgTextInsertAll=normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
@@ -214,9 +211,12 @@ def imgProjectIntro(projectFolder, urlProject, project):
                     # print(name)
                     urlImg = os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
-    for img in imgNumInsertAll:
+    for nImg, img in enumerate(imgNumInsertAll):
         allImage.append(img)
-        imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight, project)
+        if nImg==len(imgNumInsertAll)-1:
+            imgTextInsertAll = imgTextInsertAll + '<a id="text"></a>' + imgTextCreateProject(img, smallHeight, project)
+        else:
+            imgTextInsertAll=imgTextInsertAll+imgTextCreateProject(img, smallHeight, project)
 
     imgTextInsertAll = normPath(imgTextInsertAll)
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
