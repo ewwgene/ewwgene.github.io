@@ -5,7 +5,7 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
-about= '## [/ABOUT](https://ewwgene.github.io/) \n'
+about= '\n ## [/ABOUT](https://ewwgene.github.io/) \n'
 allImage=[]
 allImageText=''
 
@@ -377,7 +377,7 @@ _%s-%s._
 # footer= '[_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io)'
 
 
-text=about + text + about 
+text=about + text + about
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
 

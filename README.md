@@ -1,11 +1,12 @@
-## [/ABOUT](https://ewwgene.github.io/) 
+
+ ## [/ABOUT](https://ewwgene.github.io/) 
 
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
 _2021.06-2022.12._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/AutoCAD_Projects/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/AutoCAD_Projects/#autocad_projects--design-series"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#305"><img src="https://ewwgene.github.io/AutoCAD_Projects/305.jpg" height="66"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#303"><img src="https://ewwgene.github.io/AutoCAD_Projects/303.jpg" height="66"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#301"><img src="https://ewwgene.github.io/AutoCAD_Projects/301.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/AutoCAD_Projects/#autocad_projects--design-series"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> 
 
 <br>
 
@@ -14,7 +15,7 @@ _2022.06-2022.08._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Project_Manager_2.0/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Project_Manager_2.0/#project_manager_2.0--design-series"><img src="https://ewwgene.github.io/Project_Manager_2.0/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Project_Manager_2.0/#111"><img src="https://ewwgene.github.io/Project_Manager_2.0/111.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Project_Manager_2.0/#project_manager_2.0--design-series"><img src="https://ewwgene.github.io/Project_Manager_2.0/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Project_Manager_2.0/#133"><img src="https://ewwgene.github.io/Project_Manager_2.0/133.jpg" height="66"></a> <a href="https://ewwgene.github.io/Project_Manager_2.0/#117"><img src="https://ewwgene.github.io/Project_Manager_2.0/117.jpg" height="66"></a> <a href="https://ewwgene.github.io/Project_Manager_2.0/#118"><img src="https://ewwgene.github.io/Project_Manager_2.0/118.jpg" height="66"></a> 
 
 <br>
 
@@ -23,7 +24,7 @@ _2020.09-2021.03._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Folias-Follio/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Folias-Follio/#folias-follio--design-series"><img src="https://ewwgene.github.io/Folias-Follio/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Folias-Follio/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/#001"><img src="https://ewwgene.github.io/Folias-Follio/001.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Folias-Follio/#folias-follio--design-series"><img src="https://ewwgene.github.io/Folias-Follio/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Folias-Follio/#301"><img src="https://ewwgene.github.io/Folias-Follio/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/#303"><img src="https://ewwgene.github.io/Folias-Follio/303.jpg" height="66"></a> <a href="https://ewwgene.github.io/Folias-Follio/#113"><img src="https://ewwgene.github.io/Folias-Follio/113.jpg" height="66"></a> 
 
 <br>
 
@@ -32,7 +33,7 @@ _2020.05-2020.09._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Fusion_Techno-CONCEPT/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#fusion_techno-concept--design-series"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#fusion_techno-concept--design-series"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/000.jpg" height="200"></a> 
 
 <br>
 
@@ -41,7 +42,7 @@ _WINTER-2020.02._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Kamea_ATW/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Kamea_ATW/#kamea_atw--design-series"><img src="https://ewwgene.github.io/Kamea_ATW/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Kamea_ATW/#116"><img src="https://ewwgene.github.io/Kamea_ATW/116.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Kamea_ATW/#kamea_atw--design-series"><img src="https://ewwgene.github.io/Kamea_ATW/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Kamea_ATW/#116"><img src="https://ewwgene.github.io/Kamea_ATW/116.jpg" height="66"></a> <a href="https://ewwgene.github.io/Kamea_ATW/#117"><img src="https://ewwgene.github.io/Kamea_ATW/117.jpg" height="66"></a> 
 
 <br>
 
@@ -50,7 +51,7 @@ _WINTER-2019.12._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#slit-scan_01-algorithm--design-series"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#305"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/305.jpg" height="66"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#115"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#304"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/304.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#slit-scan_01-algorithm--design-series"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#304"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/304.jpg" height="66"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#113"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/#001"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/001.jpg" height="66"></a> 
 
 <br>
 
@@ -59,7 +60,7 @@ _SUMMER-2018.08._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Art_Is_Hard/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Art_Is_Hard/#art_is_hard--design-series"><img src="https://ewwgene.github.io/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/#115"><img src="https://ewwgene.github.io/Art_Is_Hard/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/#105"><img src="https://ewwgene.github.io/Art_Is_Hard/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/#303"><img src="https://ewwgene.github.io/Art_Is_Hard/303.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Art_Is_Hard/#art_is_hard--design-series"><img src="https://ewwgene.github.io/Art_Is_Hard/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Art_Is_Hard/#105"><img src="https://ewwgene.github.io/Art_Is_Hard/105.jpg" height="66"></a> 
 
 <br>
 
@@ -68,7 +69,7 @@ _2017.07-2018.07._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Trash_S6-CONCEPT/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#trash_s6-concept--design-series"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#407"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/407.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#401"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/401.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#303"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/303.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#trash_s6-concept--design-series"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#401"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/401.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#102"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/102.jpg" height="66"></a> 
 
 <br>
 
@@ -77,7 +78,7 @@ _2018.02-2018.05._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Threesome/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Threesome/#threesome--design-series"><img src="https://ewwgene.github.io/Threesome/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Threesome/#113"><img src="https://ewwgene.github.io/Threesome/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/#303"><img src="https://ewwgene.github.io/Threesome/303.jpg" height="66"></a> <a href="https://ewwgene.github.io/Threesome/#305"><img src="https://ewwgene.github.io/Threesome/305.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Threesome/#threesome--design-series"><img src="https://ewwgene.github.io/Threesome/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Threesome/#304"><img src="https://ewwgene.github.io/Threesome/304.jpg" height="66"></a> 
 
 <br>
 
@@ -95,7 +96,7 @@ _SPRING-2017.06._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Coffee_Tables_Set_05/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Coffee_Tables_Set_05/#coffee_tables_set_05--design-series"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Coffee_Tables_Set_05/#107"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/107.jpg" height="66"></a> <a href="https://ewwgene.github.io/Coffee_Tables_Set_05/#115"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/115.jpg" height="66"></a> <a href="https://ewwgene.github.io/Coffee_Tables_Set_05/#114"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/114.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Coffee_Tables_Set_05/#coffee_tables_set_05--design-series"><img src="https://ewwgene.github.io/Coffee_Tables_Set_05/000.jpg" height="200"></a> 
 
 <br>
 
@@ -104,7 +105,7 @@ _WINTER-2016.04._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Fireplaces_03-04/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Fireplaces_03-04/#fireplaces_03-04--design-series"><img src="https://ewwgene.github.io/Fireplaces_03-04/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#316"><img src="https://ewwgene.github.io/Fireplaces_03-04/316.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Fireplaces_03-04/#fireplaces_03-04--design-series"><img src="https://ewwgene.github.io/Fireplaces_03-04/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#113"><img src="https://ewwgene.github.io/Fireplaces_03-04/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#111"><img src="https://ewwgene.github.io/Fireplaces_03-04/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fireplaces_03-04/#105"><img src="https://ewwgene.github.io/Fireplaces_03-04/105.jpg" height="66"></a> 
 
 <br>
 
@@ -113,7 +114,7 @@ _WINTER-2016.01._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Buendia/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Buendia/#buendia--design-series"><img src="https://ewwgene.github.io/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Buendia/#312"><img src="https://ewwgene.github.io/Buendia/312.jpg" height="66"></a> <a href="https://ewwgene.github.io/Buendia/#112"><img src="https://ewwgene.github.io/Buendia/112.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Buendia/#buendia--design-series"><img src="https://ewwgene.github.io/Buendia/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Buendia/#312"><img src="https://ewwgene.github.io/Buendia/312.jpg" height="66"></a> 
 
 <br>
 
@@ -131,7 +132,7 @@ _2015.04-2015.09._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Cocoon/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Cocoon/#cocoon--design-series"><img src="https://ewwgene.github.io/Cocoon/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Cocoon/#101"><img src="https://ewwgene.github.io/Cocoon/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Cocoon/#102"><img src="https://ewwgene.github.io/Cocoon/102.jpg" height="66"></a> <a href="https://ewwgene.github.io/Cocoon/#111"><img src="https://ewwgene.github.io/Cocoon/111.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Cocoon/#cocoon--design-series"><img src="https://ewwgene.github.io/Cocoon/000.jpg" height="200"></a> 
 
 <br>
 
@@ -140,7 +141,7 @@ _SUMMER-2015.07._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Pods/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Pods/#pods--design-series"><img src="https://ewwgene.github.io/Pods/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Pods/#301"><img src="https://ewwgene.github.io/Pods/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Pods/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Pods/#pods--design-series"><img src="https://ewwgene.github.io/Pods/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Pods/#301"><img src="https://ewwgene.github.io/Pods/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Pods/#300"><img src="https://ewwgene.github.io/Pods/300.jpg" height="66"></a> <a href="https://ewwgene.github.io/Pods/#101"><img src="https://ewwgene.github.io/Pods/101.jpg" height="66"></a> 
 
 <br>
 
@@ -149,7 +150,7 @@ _2014.10-2015.04._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/Glasses/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/Glasses/#glasses--design-series"><img src="https://ewwgene.github.io/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Glasses/#346"><img src="https://ewwgene.github.io/Glasses/346.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Glasses/#glasses--design-series"><img src="https://ewwgene.github.io/Glasses/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Glasses/#111"><img src="https://ewwgene.github.io/Glasses/111.jpg" height="66"></a> 
 
 <br>
 
@@ -158,7 +159,7 @@ _SUMMER-2014.06._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/TV_Unit_02/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/TV_Unit_02/#tv_unit_02--design-series"><img src="https://ewwgene.github.io/TV_Unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#300"><img src="https://ewwgene.github.io/TV_Unit_02/300.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#301"><img src="https://ewwgene.github.io/TV_Unit_02/301.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/TV_Unit_02/#tv_unit_02--design-series"><img src="https://ewwgene.github.io/TV_Unit_02/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#101"><img src="https://ewwgene.github.io/TV_Unit_02/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#301"><img src="https://ewwgene.github.io/TV_Unit_02/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Unit_02/#300"><img src="https://ewwgene.github.io/TV_Unit_02/300.jpg" height="66"></a> 
 
 <br>
 
@@ -167,7 +168,8 @@ _SUMMER-2014.05._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/TV_Set_01/#text) <br>
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
-<a href="https://ewwgene.github.io/TV_Set_01/#tv_set_01--design-series"><img src="https://ewwgene.github.io/TV_Set_01/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/TV_Set_01/#102"><img src="https://ewwgene.github.io/TV_Set_01/102.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Set_01/#103"><img src="https://ewwgene.github.io/TV_Set_01/103.jpg" height="66"></a> <a href="https://ewwgene.github.io/TV_Set_01/#300"><img src="https://ewwgene.github.io/TV_Set_01/300.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/TV_Set_01/#tv_set_01--design-series"><img src="https://ewwgene.github.io/TV_Set_01/000.jpg" height="200"></a> 
 
 <br>
-## [/ABOUT](https://ewwgene.github.io/) 
+
+ ## [/ABOUT](https://ewwgene.github.io/) 
