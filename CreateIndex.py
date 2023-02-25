@@ -29,7 +29,7 @@ def imgCreateHTML(urlImg, imgHeight, project, m1=None):
     if m1:
         pref= '/#' + project.lower() + '--' + m1.replace(' ', '-').lower()
     else:
-        pref = '/#' + '--' + dee
+        pref = '/#' + dee
 
     imgHTML = '<a href="' + os.path.dirname(urlImg) + pref + '"><img src="' + urlImg + '" height="' + imgHeight + '"></a> '
     return imgHTML
