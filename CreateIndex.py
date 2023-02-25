@@ -187,7 +187,7 @@ def imgTextProjectMaking2(path, urlProject, over, project):
     for img in imgNumInsertAll:
         allImage.append(img)
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project, over)
-    imgTextInsertAll = imgTextInsertAll + '<br>'
+    imgTextInsertAll = imgTextInsertAll
     imgTextInsertAll=normPath(imgTextInsertAll)
     return imgTextInsertAll
 
@@ -241,13 +241,13 @@ def textImageInsert(projectFolder):
 def infoMaterials(materials):
     materialText=''
     for m in materials:
-        materialText= materialText + '_' + m + '_ '
+        materialText= materialText + '_`' + m + '`_ '
     return materialText
 
 def infoHardware(data):
     datan=''
     for h in data:
-        hn= '`'+h+'`'+' '
+        hn= '**`'+h+'`**'+' '
         datan=datan+hn
     return datan
 
@@ -256,6 +256,7 @@ def infoSoftware(data):
     for h in data:
         hn= '_`'+h+'`_'+' '
         datan=datan+hn
+    datan= datan+ '<br>'
     return datan
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
@@ -297,7 +298,7 @@ _%s-%s._
 
                 textProject = '''
 # [%s](%s)
-### %s. _%s._
+### %s. — _%s._
 [![%s](/%s)](%s)%s
 <br>
 %s
@@ -306,7 +307,6 @@ _%s-%s._
 
 ### Making — _%s-%s._
 %s
-<br>
 %s
 %s
 
