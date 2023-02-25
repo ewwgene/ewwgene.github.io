@@ -247,7 +247,7 @@ def infoMaterials(materials):
 def infoHardware(data):
     datan=''
     for h in data:
-        hn= '**`'+h+'`**'+' '
+        hn= '_**`'+h+'`**_'+' '
         datan=datan+hn
     return datan
 
@@ -256,7 +256,15 @@ def infoSoftware(data):
     for h in data:
         hn= '_`'+h+'`_'+' '
         datan=datan+hn
-    datan= datan+ '<br>'
+    # datan= datan+ '<br>'
+    return datan
+
+def infoMedium(data):
+    datan=''
+    for h in data:
+        hn= '_**`'+h+'`**_'+' '
+        datan=datan+hn
+    # datan= datan+ '<br>'
     return datan
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
@@ -283,15 +291,12 @@ for dI in dateIndex:
                 textMain = '''
 ### [%s.](%s)
 _%s-%s._
-%s... [[more...]](%s)
-|
-%s
-/
-%s
+%s... [[more...]](%s) <br>
+%s %s
 
 %s
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:199], urlProject, infoHardware(info['hardware']),
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoHardware(info['hardware']),
                 infoSoftware(info['software']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
@@ -300,14 +305,16 @@ _%s-%s._
 # [%s](%s)
 ### %s. — _%s._
 [![%s](/%s)](%s)%s
-<br>
+
 %s
 
 %s
 
 ### Making — _%s-%s._
-%s
-%s
+%s 
+
+%s %s
+
 %s
 
 %s
@@ -321,10 +328,10 @@ _%s-%s._
                 info['overview'],
                 info['date'][0], info['date'][1],
                 imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project),
-                infoSoftware(info['software']),
-                infoHardware(info['hardware']),
+                infoSoftware(info['software']), infoHardware(info['hardware']),
                 info['making'],
-                imgTextProject(projectFolder, urlProject, '3', project))
+                imgTextProject(projectFolder, urlProject, '3', project),
+                infoMedium(info['medium']))
                 ################################################################################################################
                 print(textProject)
                 # print(text)
