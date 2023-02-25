@@ -364,7 +364,8 @@ _%s-%s._
 
 
                 text=text+textMain
-text='## [ABOUT](https://ewwgene.github.io/) \n' + text
+about= '## [ABOUT](https://ewwgene.github.io/) \n'
+text=about + text + about
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
 
