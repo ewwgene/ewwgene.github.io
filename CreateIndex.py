@@ -295,7 +295,7 @@ for dI in dateIndex:
                 urlProject=normPath(os.path.join(urlHome, project))
                 ################################################################################################################
                 textMain = '''
-### /[%s.](%s)
+### [/%s.](%s)
 _%s-%s._
 %s... [[more...]](%s/#text) <br>
 %s
@@ -359,7 +359,7 @@ _%s-%s._
 
                 textImage = '''
 # [%s](%s)
-## /[%s. _%s-%s._](%s)
+## [/%s. _%s-%s._](%s)
 %s
 ''' % (
                 Name, urlHome, project, info['date'][0], info['date'][1], urlProject, allImageText)
