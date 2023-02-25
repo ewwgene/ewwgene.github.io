@@ -5,6 +5,7 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
+about= '## [/ABOUT](https://ewwgene.github.io/) \n'
 allImage=[]
 allImageText=''
 
@@ -295,7 +296,7 @@ for dI in dateIndex:
                 urlProject=normPath(os.path.join(urlHome, project))
                 ################################################################################################################
                 textMain = '''
-### [/%s.](%s)
+### [%s.](%s)
 _%s-%s._
 %s... [[more...]](%s/#text) <br>
 %s
@@ -310,7 +311,7 @@ _%s-%s._
 
                 textProject = '''
 # [%s](%s)
-### /%s. — _%s._
+### %s. — _%s._
 [![%s](/%s)](%s)%s
 
 <a id="text"></a>%s
@@ -361,10 +362,10 @@ _%s-%s._
 
                 textImage = '''
 # [%s](%s)
-## [/%s. _%s-%s._](%s)
+## [%s. — _%s._](%s)
 %s
 ''' % (
-                Name, urlHome, project, info['date'][0], info['date'][1], urlProject, allImageText)
+                Name, urlHome, project, info['medium'][0], urlProject, allImageText)
                 # print(textImage)
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
@@ -372,7 +373,7 @@ _%s-%s._
 
 
                 text=text+textMain
-about= '## [/ABOUT](https://ewwgene.github.io/) \n'
+
 text=about + text + about
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
