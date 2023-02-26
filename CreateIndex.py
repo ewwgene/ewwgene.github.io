@@ -254,26 +254,6 @@ def imgProjectIntro100(path, project):
 def textImageInsert(projectFolder):
     pass
 
-def infoMaterials(materials):
-    materialText=''
-    for m in materials:
-        materialText= materialText + '[_`' + m + '`_]' + '(https://ewwgene.github.io) '
-    return materialText
-
-def infoHardware(data):
-    datan=''
-    for h in data:
-        hn= '[_**`'+h+'`**_]' + '(https://ewwgene.github.io) '
-        datan=datan+hn
-    return datan
-
-def infoSoftware(data):
-    datan=''
-    for h in data:
-        hn= '[_`'+h+'`_]'+'(https://ewwgene.github.io) '
-        datan=datan+hn
-    # datan= datan+ '<br>'
-    return datan
 
 def mediumMain(medium):
     return medium.split()[0]
@@ -284,6 +264,27 @@ def mediumBubbles(mediums):
         bubble = '[_`' + medium + '`_]' + '(https://ewwgene.github.io) '
         bubbles = bubbles + bubble
     # datan= datan+ '<br>'
+    return bubbles
+
+def materialBubbles(materials):
+    bubbles=''
+    for material in materials:
+        bubble= '[_`' + material + '`_]'
+        bubbles= bubbles + bubble
+    return bubbles
+
+def hardwareBubbles(hardwares):
+    bubbles=''
+    for hardware in hardwares:
+        bubble = '[_**`' + hardware + '`**_]'
+        bubbles = bubbles + bubble
+    return bubbles
+
+def softwareBubbles(softwares):
+    bubbles = ''
+    for software in softwares:
+        bubble = '[_`' + software + '`_]'
+        bubbles = bubbles + bubble
     return bubbles
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
@@ -342,18 +343,18 @@ _%s-%s._
 ''' % (
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
-                infoMaterials(info['material']),
+                materialBubbles(info['material']),
                 info['overview'],
                 info['date'][0], info['date'][1],
                 imgTextProjectMaking2(os.path.join(projectFolder, 'Making'), urlProject, 'Making', project),
-                infoSoftware(info['software']), infoHardware(info['hardware']),
+                softwareBubbles(info['software']), hardwareBubbles(info['hardware']),
                 info['making'],
                 imgTextProject(projectFolder, urlProject, '3', project),
                 mediumBubbles(info['medium']))
                 ################################################################################################################
                 # print(textProject)
                 # print(text)
-                textProject = textProject + about
+                textProject = textProject + footer
 
                 makeProjectFile(projectFolder, textProject)
 
@@ -378,7 +379,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
-                textImage = textImage
+                # textImage = textImage
                 # textImage=textImage + about + preFoot + footer + footer + footer
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
