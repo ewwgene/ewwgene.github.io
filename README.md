@@ -1,7 +1,5 @@
 ## _[DESIGN/](https://ewwgene.github.io/DESIGN)<br>[ART/](https://ewwgene.github.io/ART)<br>[PROGRAMMING/](https://ewwgene.github.io/PROGRAMMING)_
 
-<br>
-
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
 _2021.06-2022.12._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore... [[more...]](https://ewwgene.github.io/AutoCAD_Projects/#text) <br>
