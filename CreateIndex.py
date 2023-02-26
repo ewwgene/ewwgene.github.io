@@ -6,10 +6,14 @@ Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
 about= '\n### [ABOUT/](https://ewwgene.github.io/) \n'
-footer= ' [_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io) '
 preFoot= '\n '
 allImage=[]
 allImageText=''
+
+header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
+
+footer= '[_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io) '
+
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -309,7 +313,6 @@ _%s-%s._
 
 %s
 
-<br>
 ''' % (
                 project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0]))
                 ################################################################################################################
@@ -384,7 +387,7 @@ _%s-%s._
 
 
 
-text=text + about
+text = header + text + about
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
 
