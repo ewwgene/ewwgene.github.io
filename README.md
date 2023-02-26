@@ -1,5 +1,5 @@
 ## [DESIGN/](https://ewwgene.github.io/DESIGN)<br>[ART/](https://ewwgene.github.io/ART)<br>[PROGRAMMING/](https://ewwgene.github.io/PROGRAMMING)
-### [ABOUT/](https://ewwgene.github.io/ABOUT)
+
 <br>
 
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
