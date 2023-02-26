@@ -5,8 +5,8 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
-about= '### [ABOUT/](https://ewwgene.github.io/)<br>'
-mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)<br>'
+about= '### [ABOUT/](https://ewwgene.github.io/) <br>'
+mailTo= '### [MAIL_TO:](mailto:r0cam@me.com) <br>'
 preFoot= '\n '
 allImage=[]
 allImageText=''
@@ -401,7 +401,7 @@ _%s-%s._
 
 
 
-                
+
                 textImage = '''
 # [%s /](%s) [_%s_ /](%s) [%s /](%s)
 
