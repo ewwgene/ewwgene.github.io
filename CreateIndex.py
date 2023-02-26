@@ -314,8 +314,8 @@ _%s-%s._
 
 
                 textProject = '''
-# [%s/](%s)
-### %s. — _%s_
+# [%s /](%s) %s
+
 [![%s](/%s)](%s)%s<a id="text">&#160;</a>
 
 %s
@@ -334,7 +334,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome,
-                project, info['medium'][0],
+                project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
                 infoMaterials(info['material']),
                 info['overview'],
@@ -365,11 +365,11 @@ _%s-%s._
 
 
                 textImage = '''
-# [%s/](%s)
-### [%s. — _%s_/](%s)
+# [%s /](%s) [%s /](%s)
+
 %s
 ''' % (
-                Name, urlHome, project, info['medium'][0], urlProject, allImageText)
+                Name, urlHome, project, urlProject, allImageText)
                 # print(textImage)
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
