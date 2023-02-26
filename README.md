@@ -6,7 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
 <a href="https://ewwgene.github.io/AutoCAD_Projects/#autocad_projects--design-series"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> 
-
 <br>
 
 ### [Project_Manager_2.0.](https://ewwgene.github.io/Project_Manager_2.0)
@@ -15,7 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
 <a href="https://ewwgene.github.io/Project_Manager_2.0/#project_manager_2.0--design-series"><img src="https://ewwgene.github.io/Project_Manager_2.0/000.jpg" height="200"></a> 
-
 <br>
 
 ### [Folias-Follio.](https://ewwgene.github.io/Folias-Follio)
@@ -24,7 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
 <a href="https://ewwgene.github.io/Folias-Follio/#folias-follio--design-series"><img src="https://ewwgene.github.io/Folias-Follio/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Folias-Follio/#111"><img src="https://ewwgene.github.io/Folias-Follio/111.jpg" height="66"></a> 
-
 <br>
 
 ### [Fusion_Techno-CONCEPT.](https://ewwgene.github.io/Fusion_Techno-CONCEPT)
@@ -33,7 +30,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
 <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#fusion_techno-concept--design-series"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#111"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/111.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/#105"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="66"></a> 
-
 <br>
 
 ### [Kamea_ATW.](https://ewwgene.github.io/Kamea_ATW)
