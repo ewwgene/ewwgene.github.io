@@ -12,8 +12,7 @@ allImageText=''
 
 header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
 
-footer= '[_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io) '
-
+footer= about
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -97,7 +96,7 @@ def imgMain(projectFolder, urlProject, project):
     # imgTextInsertAll='<a href="https://www.google.com">' + imgTextInsertAll + '</a>'
     return imgTextInsertAll
 
-def imgMain2(projectFolder, urlProject, project, m1):
+def imgMain2(projectFolder, urlProject, project):
     imgTextInsertAll=''
     imgLittle = []
     for file in os.listdir(projectFolder):
@@ -109,7 +108,7 @@ def imgMain2(projectFolder, urlProject, project, m1):
                 # print(name)
                 if name=='000':
                     imgHeight = '200'
-                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight, project, m1)
+                    imgTextInsertAll = imgCreateHTML(urlImg, imgHeight, project)
                 else:
                     if name!='100':
                         imgLittle.append(urlImg)
@@ -276,13 +275,16 @@ def infoSoftware(data):
     # datan= datan+ '<br>'
     return datan
 
-def infoMedium(data):
-    datan=''
-    for h in data:
-        hn= '[_`'+h+'`_]'+'(https://ewwgene.github.io) '
-        datan=datan+hn
+def mediumMain(medium):
+    return medium.split()[0]
+
+def mediumBubbles(mediums):
+    bubbles = ''
+    for medium in mediums:
+        bubble = '[_`' + medium + '`_]' + '(https://ewwgene.github.io) '
+        bubbles = bubbles + bubble
     # datan= datan+ '<br>'
-    return datan
+    return bubbles
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 text=''
@@ -314,7 +316,7 @@ _%s-%s._
 %s
 
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, infoMedium(info['medium']), imgMain2(projectFolder, urlProject, project, info['medium'][0]))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
 
@@ -338,7 +340,7 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]), project,
+                Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
                 infoMaterials(info['material']),
                 info['overview'],
@@ -347,7 +349,7 @@ _%s-%s._
                 infoSoftware(info['software']), infoHardware(info['hardware']),
                 info['making'],
                 imgTextProject(projectFolder, urlProject, '3', project),
-                infoMedium(info['medium']))
+                mediumBubbles(info['medium']))
                 ################################################################################################################
                 # print(textProject)
                 # print(text)
@@ -375,7 +377,7 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]), project, urlProject, allImageText)
+                Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
                 textImage = textImage
                 # textImage=textImage + about + preFoot + footer + footer + footer
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
@@ -387,7 +389,7 @@ _%s-%s._
 
 
 
-text = header + text + about
+text = header + text + footer
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 
 
