@@ -6,6 +6,8 @@ Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
 about= '\n## [ABOUT/](https://ewwgene.github.io/) \n'
+footer= ' [_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io) '
+preFoot= '\n '
 allImage=[]
 allImageText=''
 
@@ -347,6 +349,7 @@ _%s-%s._
                 ################################################################################################################
                 # print(textProject)
                 # print(text)
+                textProject = textProject + about + preFoot + footer + footer + footer
                 makeProjectFile(projectFolder, textProject)
 
                 for i in allImage:
@@ -370,7 +373,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome, project, urlProject, allImageText)
-                # print(textImage)
+                textImage=textImage + about + preFoot + footer + footer + footer
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
                 allImageText=''
@@ -378,8 +381,7 @@ _%s-%s._
 
                 text=text+textMain
 
-footer= ' [_`AUTOCAD`_](https://ewwgene.github.io) [_`LISP-AUTOLISP-VISUALLISP`_](https://ewwgene.github.io) [_`PYTHON`_](https://ewwgene.github.io) [_`PYCHARM`_](https://ewwgene.github.io) [_`ACROBAT-PDF`_](https://ewwgene.github.io)  [_**`FURNITURE`**_](https://ewwgene.github.io) [_**`INTERIOR`**_](https://ewwgene.github.io) [_**`ARCHITECTURE`**_](https://ewwgene.github.io) '
-preFoot= '\n '
+
 
 text=text + about + preFoot + footer + footer + footer
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
