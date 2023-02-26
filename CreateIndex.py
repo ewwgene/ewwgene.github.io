@@ -261,7 +261,7 @@ def mediumMain(medium):
 def mediumBubbles(mediums):
     bubbles = ''
     for medium in mediums:
-        mediumPath= os.path.join(urlHome, mediumMain(info['medium'][0]))
+        mediumPath= os.path.join(urlHome, mediumMain(medium))
         bubble = '[_`' + medium + '`_]' + '(' + mediumPath + ') '
         bubbles = bubbles + bubble
     # datan= datan+ '<br>'
