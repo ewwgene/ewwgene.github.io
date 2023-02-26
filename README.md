@@ -1,6 +1,6 @@
-### [Design/](https://ewwgene.github.io/)
-### [Art/](https://ewwgene.github.io/)
-### [Programming/](https://ewwgene.github.io/)
+### [DESIGN/](https://ewwgene.github.io/)
+### [ART/](https://ewwgene.github.io/)
+### [PROGRAMMING/](https://ewwgene.github.io/)
 
 <br>
 
