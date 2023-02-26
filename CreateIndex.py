@@ -141,7 +141,7 @@ def imgTextProject(path, urlProject, nu, project):
                     urlImg=os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
     for nImg, img in enumerate(imgNumInsertAll):
-        print( nImg, ' of ', len(imgNumInsertAll))
+        # print( nImg, ' of ', len(imgNumInsertAll))
         allImage.append(img)
         imgTextInsertAll = imgTextInsertAll + imgTextCreateProject(img, smallHeight, project)
     imgTextInsertAll=normPath(imgTextInsertAll)
@@ -319,7 +319,7 @@ _%s-%s._
 
 
                 textProject = '''
-# [%s /](%s) %s
+# [%s /](%s) [_%s_ /](%s) %s
 
 [![%s](/%s)](%s)%s<a id="text">&#160;</a>
 
@@ -338,8 +338,7 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome,
-                project,
+                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]) ,project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
                 infoMaterials(info['material']),
                 info['overview'],
@@ -353,6 +352,7 @@ _%s-%s._
                 # print(textProject)
                 # print(text)
                 textProject = textProject + about
+
                 makeProjectFile(projectFolder, textProject)
 
                 for i in allImage:
