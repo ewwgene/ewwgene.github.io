@@ -1,4 +1,4 @@
-## [DESIGN/](https://ewwgene.github.io/)<br>[ART/](https://ewwgene.github.io/)<br>[PROGRAMMING/](https://ewwgene.github.io/)
+## [DESIGN/](https://ewwgene.github.io/DESIGN)<br>[ART/](https://ewwgene.github.io/ART)<br>[PROGRAMMING/](https://ewwgene.github.io/PROGRAMMING)
 
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
 _2021.06-2022.12._
