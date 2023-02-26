@@ -6,6 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
 
 <a href="https://ewwgene.github.io/AutoCAD_Projects/#autocad_projects--design-series"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> 
+
 <br>
 
 ### [Project_Manager_2.0.](https://ewwgene.github.io/Project_Manager_2.0)
