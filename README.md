@@ -1,3 +1,8 @@
+### [Design/](https://ewwgene.github.io/)
+### [Art/](https://ewwgene.github.io/)
+### [Programming/](https://ewwgene.github.io/)
+
+<br>
 
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
 _2021.06-2022.12._
