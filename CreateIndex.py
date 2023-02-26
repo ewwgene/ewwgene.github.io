@@ -6,7 +6,7 @@ Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
 about= '### [ABOUT/](https://ewwgene.github.io/)<br>'
-mailTo= '[MAIL_TO:](mailto:r0cam@me.com)<br>'
+mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)<br>'
 preFoot= '\n '
 allImage=[]
 allImageText=''
@@ -294,15 +294,41 @@ def softwareBubbles(softwares):
 text=''
 textProject=''
 dateIndex=[]
+textDESIGN=''
+textART=''
+textPROGRAMMING=''
 mainFolder=os.path.dirname(os.path.dirname(__file__))
 for project in os.listdir(mainFolder):
     projectFolder=os.path.join(mainFolder, project)
     if os.path.exists(os.path.join(projectFolder, projectFile)):
         info= getProjectInfo(projectFolder)
         dateIndex.append(info['date'][1])
+        # if info['medium'][0].startswith('DESIGN'):
+        #     dateIndexDESIGN.append(info['date'][1])
 
 dateIndex.sort()
 dateIndex.reverse()
+# dateIndexDESIGN.sort()
+# dateIndexDESIGN.reverse()
+# for dID in dateIndexDESIGN:
+#     for project in os.listdir(mainFolder):
+#         projectFolder=os.path.join(mainFolder, project)
+#         if os.path.exists(os.path.join(projectFolder, projectFile)):
+#             info= getProjectInfo(projectFolder)
+#             if info['date'][1] == dI:
+#                 urlProject=normPath(os.path.join(urlHome, project))
+#                 ################################################################################################################
+#                 textMainDESIGN = '''
+# ### [%s.](%s)
+# _%s-%s._
+# %s... [[more...]](%s/#text) <br>
+# %s
+#
+# %s
+#
+# ''' % (
+#                 project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
+#                 ################################################################################################################
 for dI in dateIndex:
     for project in os.listdir(mainFolder):
         projectFolder=os.path.join(mainFolder, project)
@@ -375,7 +401,7 @@ _%s-%s._
 
 
 
-
+                
                 textImage = '''
 # [%s /](%s) [_%s_ /](%s) [%s /](%s)
 
@@ -390,10 +416,25 @@ _%s-%s._
 
 
                 text=text+textMain
+                if info['medium'][0].startswith('DESIGN'):
+                    textDESIGN=textDESIGN+textMain
+                if info['medium'][0].startswith('ART'):
+                    textART=textART+textMain
+                if info['medium'][0].startswith('PROGRAMMING'):
+                    textPROGRAMMING=textPROGRAMMING+textMain
+
 
 
 
 text = header + text + footer
+textDESIGN = textDESIGN + footer
+textART = textART + footer
+textPROGRAMMING = textPROGRAMMING + footer
+
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
+makeProjectFile(os.path.join(os.path.dirname(__file__), 'DESIGN'), textDESIGN)
+makeProjectFile(os.path.join(os.path.dirname(__file__), 'ART'), textART)
+makeProjectFile(os.path.join(os.path.dirname(__file__), 'PROGRAMMING'), textPROGRAMMING)
+
 
 
