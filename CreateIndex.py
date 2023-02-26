@@ -338,7 +338,7 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]) ,project,
+                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]), project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
                 infoMaterials(info['material']),
                 info['overview'],
@@ -371,11 +371,11 @@ _%s-%s._
 
 
                 textImage = '''
-# [%s /](%s) [%s /](%s)
+# [%s /](%s) [_%s_ /](%s) [%s /](%s)
 
 %s
 ''' % (
-                Name, urlHome, project, urlProject, allImageText)
+                Name, urlHome, info['medium'][0].split()[0], os.path.join(urlHome, info['medium'][0].split()[0]), project, urlProject, allImageText)
                 textImage = textImage
                 # textImage=textImage + about + preFoot + footer + footer + footer
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
