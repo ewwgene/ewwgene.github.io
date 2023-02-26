@@ -269,21 +269,21 @@ def mediumBubbles(mediums):
 def materialBubbles(materials):
     bubbles=''
     for material in materials:
-        bubble= '[_`' + material + '`_]'
+        bubble= '_`' + material + '`_'
         bubbles= bubbles + bubble
     return bubbles
 
 def hardwareBubbles(hardwares):
     bubbles=''
     for hardware in hardwares:
-        bubble = '[_**`' + hardware + '`**_]'
+        bubble = '_**`' + hardware + '`**_'
         bubbles = bubbles + bubble
     return bubbles
 
 def softwareBubbles(softwares):
     bubbles = ''
     for software in softwares:
-        bubble = '[_`' + software + '`_]'
+        bubble = '_`' + software + '`_'
         bubbles = bubbles + bubble
     return bubbles
 
