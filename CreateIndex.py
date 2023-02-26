@@ -376,7 +376,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome, project, urlProject, allImageText)
-                textImage = textImage + about
+                textImage = textImage
                 # textImage=textImage + about + preFoot + footer + footer + footer
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
