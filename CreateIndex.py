@@ -5,7 +5,7 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
-about= '\n## [/ABOUT](https://ewwgene.github.io/) \n'
+about= '\n## [ABOUT/](https://ewwgene.github.io/) \n'
 allImage=[]
 allImageText=''
 
@@ -314,8 +314,8 @@ _%s-%s._
 
 
                 textProject = '''
-# [%s](%s)
-### %s. — _%s._
+# [%s/](%s)
+### %s. — _%s_
 [![%s](/%s)](%s)%s<a id="text">&#160;</a>
 
 %s
@@ -365,8 +365,8 @@ _%s-%s._
 
 
                 textImage = '''
-# [%s](%s)
-### [%s. — _%s._](%s)
+# [%s/](%s)
+### [%s. — _%s_/](%s)
 %s
 ''' % (
                 Name, urlHome, project, info['medium'][0], urlProject, allImageText)
