@@ -5,14 +5,15 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
-about= '\n### [ABOUT/](https://ewwgene.github.io/) \n'
+about= '### [ABOUT/](https://ewwgene.github.io/) \n'
+mailTo= '### [MAIL_TO:](mailto:r0cam@me.com) \n'
 preFoot= '\n '
 allImage=[]
 allImageText=''
 
 header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
 
-footer= about
+footer= about + mailTo
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
