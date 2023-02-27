@@ -12,9 +12,9 @@ allImage=[]
 allImageText=''
 
 header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
-headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ / '
-headerART= '# [' + Name + ' /](' + urlHome + ') [_ART_ /](' + os.path.join(urlHome,'ART') + ')'
-headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') [_PROGRAMMING_ /](' + os.path.join(urlHome,'PROGRAMMING') + ')'
+headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ '
+headerART= '# [' + Name + ' /](' + urlHome + ') _ART_ '
+headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 
 footer= about + mailTo
 
