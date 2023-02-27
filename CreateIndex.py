@@ -12,6 +12,9 @@ allImage=[]
 allImageText=''
 
 header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
+headerDESIGN= '# [' + Name + ' /](' + urlHome + ') [_DESIGN_ /](' + os.path.join(urlHome,'DESIGN') + ')'
+headerART= '# [' + Name + ' /](' + urlHome + ') [_ART_ /](' + os.path.join(urlHome,'ART') + ')'
+headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') [_PROGRAMMING_ /](' + os.path.join(urlHome,'PROGRAMMING') + ')'
 
 footer= about + mailTo
 
@@ -424,12 +427,12 @@ _%s-%s._
                     textPROGRAMMING=textPROGRAMMING+textMain
 
 
-
-
+Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0]))
+'# [Name /](urlHome) [_%s_ /](%s) [%s /](%s)'
 text = header + text + footer
-textDESIGN = textDESIGN + footer
-textART = textART + footer
-textPROGRAMMING = textPROGRAMMING + footer
+textDESIGN = headerDESIGN + textDESIGN + footer
+textART = headerART + textART + footer
+textPROGRAMMING = headerPROGRAMMING + textPROGRAMMING + footer
 
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'DESIGN'), textDESIGN)
