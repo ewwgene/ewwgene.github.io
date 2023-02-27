@@ -5,18 +5,18 @@ README= 'README.md'
 Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
-about= '### [ABOUT/](https://ewwgene.github.io/)\n '
-mailTo= '### [MAIL_TO:](mailto:r0cam@me.com) '
+about= '### [ABOUT/](https://ewwgene.github.io/)\n'
+mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)'
 preFoot= '\n '
 allImage=[]
 allImageText=''
-
-header= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
+headerMain=  '# [' + Name + ' /](' + urlHome + ')'
+navigMain= '## [_DESIGN_/](https://ewwgene.github.io/DESIGN)<br>[_ART_/](https://ewwgene.github.io/ART)<br>[_PROGRAMMING_/](https://ewwgene.github.io/PROGRAMMING)\n'
 headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ '
 headerART= '# [' + Name + ' /](' + urlHome + ') / _ART_ '
 headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 
-footer= about + mailTo
+footer = about + mailTo
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -429,7 +429,7 @@ _%s-%s._
 
 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0]))
 '# [Name /](urlHome) [_%s_ /](%s) [%s /](%s)'
-text = header + text + footer
+text = headerMain + navigMain + text + footer
 textDESIGN = headerDESIGN + textDESIGN + footer
 textART = headerART + textART + footer
 textPROGRAMMING = headerPROGRAMMING + textPROGRAMMING + footer
