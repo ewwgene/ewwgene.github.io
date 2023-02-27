@@ -349,7 +349,7 @@ _%s-%s._
 %s
 
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
+                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:144], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
 
