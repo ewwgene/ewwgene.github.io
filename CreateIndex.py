@@ -139,7 +139,7 @@ def imgTextProject(path, urlProject, nu, project):
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext= os.path.splitext(file)
-            if ext=='.jpg':
+            if ext=='.jpg' or ext=='.gif':
                 if name.startswith(nu) or name.startswith('4'):
                     # print(file)
                     urlImg=os.path.join(urlProject, file)
