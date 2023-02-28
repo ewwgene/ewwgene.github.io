@@ -378,6 +378,7 @@ _%s-%s._
 %s
 
 %s
+
 ''' % (
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
