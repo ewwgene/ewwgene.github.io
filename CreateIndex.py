@@ -106,7 +106,7 @@ def imgMain2(projectFolder, urlProject, project):
     for file in os.listdir(projectFolder):
         if os.path.isfile(os.path.join(projectFolder, file)):
             name, ext= os.path.splitext(file)
-            if ext=='.jpg':
+            if ext=='.jpg' or ext=='.gif':
                 urlImg=os.path.join(urlProject, file)
                 imgHeight=''
                 # print(name)
@@ -237,7 +237,7 @@ def imgProjectIntro100(path, project):
     for file in os.listdir(path):
         if os.path.isfile(os.path.join(path, file)):
             name, ext = os.path.splitext(file)
-            if ext == '.jpg':
+            if ext == '.jpg' or ext == '.gif':
                 if name=='100':
                     imgPath = os.path.join(project, file)
                     imgPath = file
@@ -349,7 +349,11 @@ _%s-%s._
 %s
 
 ''' % (
-                project, urlProject, info['date'][0], info['date'][1], info['overview'][0:144], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
+                project, urlProject,
+                info['date'][0], info['date'][1],
+                info['overview'][0:144], urlProject,
+                mediumBubbles(info['medium']),
+                imgMain2(projectFolder, urlProject, project))
                 ################################################################################################################
 
 
@@ -411,8 +415,7 @@ _%s-%s._
 %s
 ''' % (
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
-                # textImage = textImage
-                # textImage=textImage + about + preFoot + footer + footer + footer
+
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 allImage.clear()
                 allImageText=''
