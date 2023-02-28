@@ -118,7 +118,7 @@ def imgMain2(projectFolder, urlProject, project):
                     if name!='100':
                         imgLittle.append(urlImg)
 
-    volRand= random.randint(0, 3)
+    volRand= random.randint(1, 3)
     # print(volRand)
     random.shuffle(imgLittle)
     # print(imgLittle)
