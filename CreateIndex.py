@@ -117,6 +117,13 @@ def imgMain2(projectFolder, urlProject, project):
                 else:
                     if name!='100':
                         imgLittle.append(urlImg)
+    for file in os.listdir(os.path.join(projectFolder, 'Making')):
+        if os.path.isfile(os.path.join(projectFolder, 'Making', file)):
+            name, ext = os.path.splitext(file)
+            if ext == '.jpg' or ext == '.gif':
+                urlImg = os.path.join(urlProject, 'Making', file)
+                imgLittle.append(urlImg)
+                
     volRand= random.randint(0, 3)
     # print(volRand)
     random.shuffle(imgLittle)
