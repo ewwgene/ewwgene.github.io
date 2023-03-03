@@ -26,7 +26,7 @@ def getProjectInfo(path):
 
 def makeProjectFile(path, data):
     pathREADME= os.path.join(path, README)
-    with open(pathREADME, 'w', encoding='utf-8') as f:
+    with open(pathREADME, 'w', encoding='utf-8-sig', errors='ignore') as f:
         f.write(data)
         # print('create ', pathREADME)
         f.close()
