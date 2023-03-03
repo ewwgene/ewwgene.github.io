@@ -4,7 +4,7 @@ _2017.07-2018.07._
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ven... [[more...]](https://ewwgene.github.io/Trash_S6-CONCEPT/#text) <br>
 _`ART`_ _`PATTERN`_ 
 
-<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#000"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#305"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/305.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#103"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#000"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#305"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/305.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#407"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/407.jpg" height="66"></a> 
 
 <br> 
 
