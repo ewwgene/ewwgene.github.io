@@ -333,6 +333,7 @@ dateIndexContinues.sort()
 dateIndex.reverse()
 dateIndexContinues.reverse()
 dateALL=dateIndexContinues+dateIndex
+# print(dateALL)
 # dateIndexDESIGN.sort()
 # dateIndexDESIGN.reverse()
 # for dID in dateIndexDESIGN:
@@ -360,6 +361,7 @@ for dI in dateALL:
         if os.path.exists(os.path.join(projectFolder, projectFile)):
             info= getProjectInfo(projectFolder)
             if info['date'][1] == dI:
+                print(info['date'][1])
                 urlProject=normPath(os.path.join(urlHome, project))
                 ################################################################################################################
                 textMain = '''
