@@ -262,7 +262,7 @@ def textImageInsert(projectFolder):
 
 
 def mediumMain(medium):
-    return medium.split()[0]
+    return medium.split('_')[0]
 
 def mediumBubbles(mediums):
     bubbles = ''
