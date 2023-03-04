@@ -295,6 +295,18 @@ def softwareBubbles(softwares):
         bubbles = bubbles + bubble
     return bubbles
 
+def embedVideo(projectFolder):
+    s=''
+    embed= os.path.join(projectFolder, '.embed')
+    if os.path.exists(embed):
+        f = open(embed, 'r')
+        s= f.read()
+        f.close()
+        print (s)
+    return s
+
+
+
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
 text=''
 textProject=''
@@ -378,7 +390,7 @@ _%s-%s._
 %s
 
 %s
-
+%s
 ''' % (
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project,
                 project, imgProjectIntro100(projectFolder, project), normPath(os.path.join(urlProject, 'Carousel')), imgProjectIntro(projectFolder, urlProject, project),
@@ -389,14 +401,15 @@ _%s-%s._
                 softwareBubbles(info['software']), hardwareBubbles(info['hardware']),
                 info['making'],
                 imgTextProject(projectFolder, urlProject, '3', project),
-                mediumBubbles(info['medium']))
+                mediumBubbles(info['medium']),
+                embedVideo(projectFolder))
                 ################################################################################################################
                 # print(textProject)
                 # print(text)
                 textProject = textProject + footer
 
                 makeProjectFile(projectFolder, textProject)
-                print('Mk', projectFolder)
+                # print('Mk', projectFolder)
 
                 for i in allImage:
                     i=normPath(i)
@@ -421,7 +434,7 @@ _%s-%s._
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
 
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
-                print('Mk', projectFolder)
+                # print('Mk', projectFolder)
                 allImage.clear()
                 allImageText=''
 
@@ -443,7 +456,7 @@ textART = headerART + textART + footer
 textPROGRAMMING = headerPROGRAMMING + textPROGRAMMING + footer
 
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
-print('Mk', os.path.join(os.path.dirname(__file__)))
+# print('Mk', os.path.join(os.path.dirname(__file__)))
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'DESIGN'), textDESIGN)
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'ART'), textART)
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'PROGRAMMING'), textPROGRAMMING)
