@@ -396,6 +396,7 @@ _%s-%s._
                 textProject = textProject + footer
 
                 makeProjectFile(projectFolder, textProject)
+                print('Mk', projectFolder)
 
                 for i in allImage:
                     i=normPath(i)
@@ -420,6 +421,7 @@ _%s-%s._
                 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
 
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
+                print('Mk', projectFolder)
                 allImage.clear()
                 allImageText=''
 
@@ -441,6 +443,7 @@ textART = headerART + textART + footer
 textPROGRAMMING = headerPROGRAMMING + textPROGRAMMING + footer
 
 makeProjectFile(os.path.join(os.path.dirname(__file__)), text)
+print('Mk', os.path.join(os.path.dirname(__file__)))
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'DESIGN'), textDESIGN)
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'ART'), textART)
 makeProjectFile(os.path.join(os.path.dirname(__file__), 'PROGRAMMING'), textPROGRAMMING)
