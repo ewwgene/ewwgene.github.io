@@ -321,7 +321,7 @@ for project in os.listdir(mainFolder):
     projectFolder=os.path.join(mainFolder, project)
     if os.path.exists(os.path.join(projectFolder, projectFile)):
         info= getProjectInfo(projectFolder)
-        if 'CONTINUES' in info['date'][1]:
+        if not 'CONTINUES' in info['date'][1]:
             dateIndex.append(info['date'][1])
         else:
             dateIndexContinues.append(info['date'][1])
@@ -331,7 +331,7 @@ for project in os.listdir(mainFolder):
 dateIndex.sort()
 dateIndexContinues.sort()
 dateIndex.reverse()
-# dateIndexContinues.reverse()
+dateIndexContinues.reverse()
 dateALL=dateIndexContinues+dateIndex
 # print(dateALL)
 # dateIndexDESIGN.sort()
