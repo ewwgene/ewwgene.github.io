@@ -319,7 +319,8 @@ for project in os.listdir(mainFolder):
     projectFolder=os.path.join(mainFolder, project)
     if os.path.exists(os.path.join(projectFolder, projectFile)):
         info= getProjectInfo(projectFolder)
-        dateIndex.append(info['date'][1])
+        if info['date'][1]!='CONTINUES':
+            dateIndex.append(info['date'][1])
         # if info['medium'][0].startswith('DESIGN'):
         #     dateIndexDESIGN.append(info['date'][1])
 
