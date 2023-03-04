@@ -321,7 +321,7 @@ for project in os.listdir(mainFolder):
     projectFolder=os.path.join(mainFolder, project)
     if os.path.exists(os.path.join(projectFolder, projectFile)):
         info= getProjectInfo(projectFolder)
-        if info['date'][1]!='CONTINUES':
+        if 'CONTINUES' in info['date'][1]:
             dateIndex.append(info['date'][1])
         else:
             dateIndexContinues.append(info['date'][1])
