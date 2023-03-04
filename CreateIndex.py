@@ -324,7 +324,7 @@ for project in os.listdir(mainFolder):
         if info['date'][1]!='CONTINUES':
             dateIndex.append(info['date'][1])
         else:
-            dateIndexContinues.append(info['date'][0])
+            dateIndexContinues.append(info['date'][1])
         # if info['medium'][0].startswith('DESIGN'):
         #     dateIndexDESIGN.append(info['date'][1])
 
