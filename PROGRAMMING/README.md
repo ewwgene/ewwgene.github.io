@@ -4,7 +4,7 @@ _2022.12-CONTINUES._
 Черчение _BIM_-моделей интерьеров в _`ARCHICAD`_, набор планов (обмерочные планы, планы демонтажа и монтажа, планы мебели, полов, потолков, элек... [[more...]](https://ewwgene.github.io/ArchiCAD_Projects/#text) <br>
 _`PROGRAMMING`_ _`DRAFTING`_ 
 
-<a href="https://ewwgene.github.io/ArchiCAD_Projects/#000"><img src="https://ewwgene.github.io/ArchiCAD_Projects/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/ArchiCAD_Projects/#117"><img src="https://ewwgene.github.io/ArchiCAD_Projects/117.jpg" height="66"></a> <a href="https://ewwgene.github.io/ArchiCAD_Projects/#122"><img src="https://ewwgene.github.io/ArchiCAD_Projects/122.jpg" height="66"></a> <a href="https://ewwgene.github.io/ArchiCAD_Projects/#319"><img src="https://ewwgene.github.io/ArchiCAD_Projects/319.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/ArchiCAD_Projects/#000"><img src="https://ewwgene.github.io/ArchiCAD_Projects/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/ArchiCAD_Projects/#122"><img src="https://ewwgene.github.io/ArchiCAD_Projects/122.jpg" height="66"></a> <a href="https://ewwgene.github.io/ArchiCAD_Projects/#319"><img src="https://ewwgene.github.io/ArchiCAD_Projects/319.jpg" height="66"></a> 
 
 
 ### [AutoCAD_Projects.](https://ewwgene.github.io/AutoCAD_Projects)
@@ -12,7 +12,7 @@ _2021.06-2022.12._
 Моделирование предметов интерьера, встроенной мебели, панелей для отделки стен, откосов и др. Набор планов (Аксонометрия, перспектива, виды спер... [[more...]](https://ewwgene.github.io/AutoCAD_Projects/#text) <br>
 _`PROGRAMMING`_ _`DRAFTING`_ 
 
-<a href="https://ewwgene.github.io/AutoCAD_Projects/#000"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#337"><img src="https://ewwgene.github.io/AutoCAD_Projects/337.jpg" height="66"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#333"><img src="https://ewwgene.github.io/AutoCAD_Projects/333.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/AutoCAD_Projects/#000"><img src="https://ewwgene.github.io/AutoCAD_Projects/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/AutoCAD_Projects/#115"><img src="https://ewwgene.github.io/AutoCAD_Projects/115.jpg" height="66"></a> 
 
 
 ### [Project_Manager_2_0.](https://ewwgene.github.io/Project_Manager_2_0)
@@ -21,7 +21,7 @@ _2022.06-2022.08._
   + Менеджер дизайн-проектов для ведения каталога с функциями контролем версий, сортировки, аннотаций и ... [[more...]](https://ewwgene.github.io/Project_Manager_2_0/#text) <br>
 _`PROGRAMMING`_ _`SOFTWARE`_ _`GUI`_ 
 
-<a href="https://ewwgene.github.io/Project_Manager_2_0/#000"><img src="https://ewwgene.github.io/Project_Manager_2_0/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Project_Manager_2_0/#133"><img src="https://ewwgene.github.io/Project_Manager_2_0/133.jpg" height="66"></a> <a href="https://ewwgene.github.io/Project_Manager_2_0/#123"><img src="https://ewwgene.github.io/Project_Manager_2_0/123.jpg" height="66"></a> <a href="https://ewwgene.github.io/Project_Manager_2_0/#111"><img src="https://ewwgene.github.io/Project_Manager_2_0/111.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Project_Manager_2_0/#000"><img src="https://ewwgene.github.io/Project_Manager_2_0/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Project_Manager_2_0/#121"><img src="https://ewwgene.github.io/Project_Manager_2_0/121.jpg" height="66"></a> 
 
 
 ### [Piano_Key_Illuminator.](https://ewwgene.github.io/Piano_Key_Illuminator)
@@ -37,7 +37,7 @@ _WINTER-2019.12._
 _Slit-scan photography_ — Техника щелевой фотографии - это фотографический и кинематографический процесс, при котором подвижный слайд с прорезан... [[more...]](https://ewwgene.github.io/Slit-Scan/#text) <br>
 _`PROGRAMMING`_ _`ALGORITHM`_ 
 
-<a href="https://ewwgene.github.io/Slit-Scan/#000"><img src="https://ewwgene.github.io/Slit-Scan/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan/#113"><img src="https://ewwgene.github.io/Slit-Scan/113.jpg" height="66"></a> <a href="https://ewwgene.github.io/Slit-Scan/#001"><img src="https://ewwgene.github.io/Slit-Scan/001.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Slit-Scan/#000"><img src="https://ewwgene.github.io/Slit-Scan/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Slit-Scan/#001"><img src="https://ewwgene.github.io/Slit-Scan/001.jpg" height="66"></a> 
 
 
 ### [Grasshopper_G-Code.](https://ewwgene.github.io/Grasshopper_G-Code)
@@ -45,7 +45,7 @@ _2018.04-2018.06._
 Алгоритм создания G-Code для станка с ЧПУ **_`CNC_MILLING`_** из среды _`RHINOCEROS_3D`_. Референсом послужило растровое изображение - фотографи... [[more...]](https://ewwgene.github.io/Grasshopper_G-Code/#text) <br>
 _`PROGRAMMING`_ _`ALGORITHM`_ 
 
-<a href="https://ewwgene.github.io/Grasshopper_G-Code/#000"><img src="https://ewwgene.github.io/Grasshopper_G-Code/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Grasshopper_G-Code/#117"><img src="https://ewwgene.github.io/Grasshopper_G-Code/117.jpg" height="66"></a> <a href="https://ewwgene.github.io/Grasshopper_G-Code/#119"><img src="https://ewwgene.github.io/Grasshopper_G-Code/119.jpg" height="66"></a> <a href="https://ewwgene.github.io/Grasshopper_G-Code/#115"><img src="https://ewwgene.github.io/Grasshopper_G-Code/115.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Grasshopper_G-Code/#000"><img src="https://ewwgene.github.io/Grasshopper_G-Code/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Grasshopper_G-Code/#313"><img src="https://ewwgene.github.io/Grasshopper_G-Code/313.jpg" height="66"></a> <a href="https://ewwgene.github.io/Grasshopper_G-Code/#117"><img src="https://ewwgene.github.io/Grasshopper_G-Code/117.jpg" height="66"></a> 
 
 <br> 
 
