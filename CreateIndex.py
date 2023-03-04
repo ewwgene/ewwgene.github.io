@@ -311,6 +311,8 @@ def embedVideo(projectFolder):
 text=''
 textProject=''
 dateIndex=[]
+dateIndexContinues=[]
+dateALL=[]
 textDESIGN=''
 textART=''
 textPROGRAMMING=''
@@ -321,11 +323,16 @@ for project in os.listdir(mainFolder):
         info= getProjectInfo(projectFolder)
         if info['date'][1]!='CONTINUES':
             dateIndex.append(info['date'][1])
+        else:
+            dateIndexContinues.append(info['date'][0])
         # if info['medium'][0].startswith('DESIGN'):
         #     dateIndexDESIGN.append(info['date'][1])
 
 dateIndex.sort()
+dateIndexContinues.sort()
 dateIndex.reverse()
+dateIndexContinues.reverse()
+dateALL=dateIndexContinues+dateIndex
 # dateIndexDESIGN.sort()
 # dateIndexDESIGN.reverse()
 # for dID in dateIndexDESIGN:
@@ -347,7 +354,7 @@ dateIndex.reverse()
 # ''' % (
 #                 project, urlProject, info['date'][0], info['date'][1], info['overview'][0:99], urlProject, mediumBubbles(info['medium']), imgMain2(projectFolder, urlProject, project))
 #                 ################################################################################################################
-for dI in dateIndex:
+for dI in dateALL:
     for project in os.listdir(mainFolder):
         projectFolder=os.path.join(mainFolder, project)
         if os.path.exists(os.path.join(projectFolder, projectFile)):
