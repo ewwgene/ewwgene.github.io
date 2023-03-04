@@ -331,7 +331,7 @@ for project in os.listdir(mainFolder):
 dateIndex.sort()
 dateIndexContinues.sort()
 dateIndex.reverse()
-dateIndexContinues.reverse()
+# dateIndexContinues.reverse()
 dateALL=dateIndexContinues+dateIndex
 # print(dateALL)
 # dateIndexDESIGN.sort()
