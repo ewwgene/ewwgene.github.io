@@ -345,8 +345,26 @@ def aboutPage():
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
         mailTo
         )
-    print (aboutText)
-    makeProjectFile(os.path.join(os.path.dirname(__file__), 'ABOUT'), aboutText)
+    # print (aboutText)
+    makeProjectFile(aboutFolder, aboutText)
+    allImageText = ''
+    for i in allImage:
+        i = normPath(i)
+        nnN, extN = os.path.splitext(os.path.basename(i))
+        nnM = nnN
+        iText = '<a id="' + nnM + '"></a> ![' + os.path.basename(i) + '](' + i + ')\n'
+        allImageText = allImageText + iText
+
+    textCarousel = '''
+# [%s /](%s) [%s /](%s)
+
+%s
+    ''' % (
+        Name, urlHome, 'ABOUT', aboutPath,
+        allImageText)
+
+    makeProjectFile(os.path.join(aboutFolder, 'Carousel'), textCarousel)
+    print(textCarousel)
     ################################################################################################################
 
 
@@ -408,7 +426,7 @@ for dI in dateALL:
         if os.path.exists(os.path.join(projectFolder, projectFile)):
             info= getProjectInfo(projectFolder)
             if info['date'][1] == dI:
-                print(info['date'][1])
+                # print(info['date'][1])
                 urlProject=normPath(os.path.join(urlHome, project))
                 ################################################################################################################
                 textMain = '''
@@ -488,7 +506,8 @@ _%s-%s._
 
 %s
 ''' % (
-                Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject, allImageText)
+                Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0])), project, urlProject,
+                allImageText)
 
                 makeProjectFile(os.path.join(projectFolder, 'Carousel'), textImage)
                 # print('Mk', projectFolder)
