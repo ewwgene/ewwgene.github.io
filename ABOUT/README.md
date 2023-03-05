@@ -22,7 +22,7 @@
  - _2020_ — ГРАНИ ИНТЕРЬЕРА, _gimag.ru_
  - _2020_ — _TRENDWEEK, Park Inn by Radisson_, Новосибирск.
 
-<a id="300" href="https://ewwgene.github.io/ABOUT/Carousel/#300"><img src="https://ewwgene.github.io/ABOUT/300.jpg" height="33"></a> <a id="301" href="https://ewwgene.github.io/ABOUT/Carousel/#301"><img src="https://ewwgene.github.io/ABOUT/301.jpg" height="33"></a> <a id="303" href="https://ewwgene.github.io/ABOUT/Carousel/#303"><img src="https://ewwgene.github.io/ABOUT/303.jpg" height="33"></a> 
+<a id="300" href="https://ewwgene.github.io/ABOUT/Carousel/#300"><img src="https://ewwgene.github.io/ABOUT/300.jpg" height="33"></a> <a id="301" href="https://ewwgene.github.io/ABOUT/Carousel/#301"><img src="https://ewwgene.github.io/ABOUT/301.jpg" height="33"></a> <a id="303" href="https://ewwgene.github.io/ABOUT/Carousel/#303"><img src="https://ewwgene.github.io/ABOUT/303.jpg" height="33"></a> <a id="306" href="https://ewwgene.github.io/ABOUT/Carousel/#306"><img src="https://ewwgene.github.io/ABOUT/306.jpg" height="33"></a> <a id="307" href="https://ewwgene.github.io/ABOUT/Carousel/#307"><img src="https://ewwgene.github.io/ABOUT/307.jpg" height="33"></a> <a id="308" href="https://ewwgene.github.io/ABOUT/Carousel/#308"><img src="https://ewwgene.github.io/ABOUT/308.jpg" height="33"></a> <a id="311" href="https://ewwgene.github.io/ABOUT/Carousel/#311"><img src="https://ewwgene.github.io/ABOUT/311.jpg" height="33"></a> <a id="313" href="https://ewwgene.github.io/ABOUT/Carousel/#313"><img src="https://ewwgene.github.io/ABOUT/313.jpg" height="33"></a> <a id="314" href="https://ewwgene.github.io/ABOUT/Carousel/#314"><img src="https://ewwgene.github.io/ABOUT/314.jpg" height="33"></a> 
 
 ### [MAIL_TO:](mailto:r0cam@me.com)
 
