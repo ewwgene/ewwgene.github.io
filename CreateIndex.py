@@ -324,7 +324,7 @@ def aboutPage():
     aboutText = '''
 # [%s /](%s) %s
     
-[![%s](/%s)](%s)
+[![%s](%s/%s)](%s)
     
 %s
 
@@ -338,7 +338,7 @@ def aboutPage():
 
     ''' % (
         Name, urlHome, 'ABOUT',
-        'ABOUT', imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
+        'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
         CV,
         imgProjectIntro(aboutFolder, aboutPath, 'ABOUT'),
         PE,

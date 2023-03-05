@@ -1,7 +1,7 @@
 ﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) ABOUT
     
-[![ABOUT](/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
+[![ABOUT](https://ewwgene.github.io/ABOUT/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
     
 ### CV — _2007-to now._
 
