@@ -244,7 +244,9 @@ def imgProjectIntro100(path, project):
                     imgPath = os.path.join(project, file)
                     imgPath = file
                     imgPath=normPath(imgPath)
+                    urlProject=os.path.join(urlHome, project)
                     urlImg = os.path.join(urlProject, file)
+                    # print(urlProject, project)
                     allImage.append(urlImg)
 
                     # print(imgPath)
@@ -310,6 +312,8 @@ def aboutPage():
     aboutPath=os.path.join(urlHome, 'ABOUT')
     CVFile= os.path.join(aboutFolder, '.CV')
     PEFile = os.path.join(aboutFolder, '.PE')
+    allImageText=''
+    allImage.clear()
     if os.path.exists(CVFile):
         f = open(CVFile, 'r')
         CV= f.read()
@@ -347,7 +351,6 @@ def aboutPage():
         )
     # print (aboutText)
     makeProjectFile(aboutFolder, aboutText)
-    allImageText = ''
     for i in allImage:
         i = normPath(i)
         nnN, extN = os.path.splitext(os.path.basename(i))
