@@ -333,25 +333,25 @@ def aboutPage():
     aboutText = '''
 # [%s /](%s) %s
     
+%s
+
+%s
+
+%s
+
+%s
+
 [![%s](%s/%s)](%s)
-    
-%s
-
-%s
-
-%s
-
-%s
 
 %s
 
     ''' % (
         Name, urlHome, 'ABOUT',
-        'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
         CV,
         imgProjectIntro(aboutFolder, aboutPath, 'ABOUT').replace('> <', '><'),
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
+        'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
         mailTo
         )
     # print (aboutText)

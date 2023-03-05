@@ -1,8 +1,6 @@
 ﻿
 # [ewwgene.github.io /](https://ewwgene.github.io/) ABOUT
     
-[![ABOUT](https://ewwgene.github.io/ABOUT/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
-    
 ### CV — _2007-toNow:_
 
  - _2007-2012 — образование_. Лесосибирский филиал СибГТУ, специальность "Лесоинженерное дело".
@@ -25,6 +23,8 @@
  - _2020_ — _TRENDWEEK, Park Inn by Radisson_, Новосибирск.
 
 <a id="300" href="https://ewwgene.github.io/ABOUT/Carousel/#300"><img src="https://ewwgene.github.io/ABOUT/300.jpg" height="33"></a> <a id="301" href="https://ewwgene.github.io/ABOUT/Carousel/#301"><img src="https://ewwgene.github.io/ABOUT/301.jpg" height="33"></a> <a id="303" href="https://ewwgene.github.io/ABOUT/Carousel/#303"><img src="https://ewwgene.github.io/ABOUT/303.jpg" height="33"></a> 
+
+[![ABOUT](https://ewwgene.github.io/ABOUT/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
 
 ### [MAIL_TO:](mailto:r0cam@me.com)
 
