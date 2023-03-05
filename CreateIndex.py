@@ -349,9 +349,9 @@ def aboutPage():
         Name, urlHome, 'ABOUT',
         'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
         CV,
-        imgProjectIntro(aboutFolder, aboutPath, 'ABOUT'),
-        PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
+        PE,
+        imgProjectIntro(aboutFolder, aboutPath, 'ABOUT'),
         mailTo
         )
     # print (aboutText)
