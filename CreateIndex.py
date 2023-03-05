@@ -351,7 +351,7 @@ def aboutPage():
         CV,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
         PE,
-        imgProjectIntro(aboutFolder, aboutPath, 'ABOUT'),
+        imgProjectIntro(aboutFolder, aboutPath, 'ABOUT').replace('> <', '><'),
         mailTo
         )
     # print (aboutText)
