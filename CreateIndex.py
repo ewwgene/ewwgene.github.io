@@ -8,6 +8,8 @@ smallHeight= '66'
 about= '### [ABOUT /](https://ewwgene.github.io/ABOUT)\n'
 mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)'
 preFoot= '\n '
+allSoft=[]
+allHard=[]
 allImage=[]
 allImageText=''
 # headerMain=  '# [' + Name + ' /](' + urlHome + ')\n'
@@ -341,6 +343,8 @@ def aboutPage():
 
 %s
 
+%s%s
+
 %s
 
 [![%s](%s/%s)](%s)
@@ -351,6 +355,7 @@ def aboutPage():
         imgProjectIntro(aboutFolder, aboutPath, 'ABOUT').replace('> <', '><'),
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
+        softwareBubbles(allSoft), hardwareBubbles(allHard),
         mailTo,
         'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel'))
         )
@@ -488,6 +493,12 @@ _%s-%s._
                 embedVideo(projectFolder))
                 ################################################################################################################
                 # print(textProject)
+                for s in info['software']:
+                    if not s in allSoft:
+                        allSoft.append(s)
+                for h in info['hardware']:
+                    if not h in allHard:
+                        allHard.append(h)
                 # print(text)
                 textProject = textProject + footer
 
