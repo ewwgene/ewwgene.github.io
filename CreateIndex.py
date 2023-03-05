@@ -302,8 +302,55 @@ def embedVideo(projectFolder):
         f = open(embed, 'r')
         s= f.read()
         f.close()
-        print (s)
+        # print (s)
     return s
+
+def aboutPage():
+    aboutFolder=os.path.join(os.path.dirname(os.path.dirname(__file__)), Name, 'ABOUT')
+    aboutPath=os.path.join(urlHome, 'ABOUT')
+    CVFile= os.path.join(aboutFolder, '.CV')
+    PEFile = os.path.join(aboutFolder, '.PE')
+    if os.path.exists(CVFile):
+        f = open(CVFile, 'r')
+        CV= f.read()
+        f.close()
+        # print (CV)
+    if os.path.exists(PEFile):
+        f = open(PEFile, 'r')
+        PE= f.read()
+        f.close()
+        # print (PE)
+
+    aboutText = '''
+# [%s /](%s) %s
+    
+[![%s](/%s)](%s)
+    
+%s
+
+%s
+
+%s
+
+%s
+
+%s
+
+    ''' % (
+        Name, urlHome, 'ABOUT',
+        'ABOUT', imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
+        CV,
+        imgProjectIntro(aboutFolder, aboutPath, 'ABOUT'),
+        PE,
+        imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
+        mailTo
+        )
+    print (aboutText)
+    makeProjectFile(os.path.join(os.path.dirname(__file__), 'ABOUT'), aboutText)
+    ################################################################################################################
+
+
+
 
 
 
@@ -457,7 +504,7 @@ _%s-%s._
                 if info['medium'][0].startswith('PROGRAMMING'):
                     textPROGRAMMING=textPROGRAMMING+textMain
 
-
+aboutPage()
 Name, urlHome, mediumMain(info['medium'][0]), os.path.join(urlHome, mediumMain(info['medium'][0]))
 '# [Name /](urlHome) [_%s_ /](%s) [%s /](%s)'
 text = headerMain + navigMain + text + footer
