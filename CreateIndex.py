@@ -218,7 +218,7 @@ def imgProjectIntro(projectFolder, urlProject, project):
         if os.path.isfile(os.path.join(projectFolder, file)):
             name, ext = os.path.splitext(file)
             if ext == '.jpg':
-                if name.startswith('1') and name!='100':
+                if name.startswith('1') and name.startswith('1') and name!='100':
                     # print(name)
                     urlImg = os.path.join(urlProject, file)
                     imgNumInsertAll.append(urlImg)
