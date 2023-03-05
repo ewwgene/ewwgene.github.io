@@ -341,9 +341,9 @@ def aboutPage():
 
 %s
 
-[![%s](%s/%s)](%s)
-
 %s
+
+[![%s](%s/%s)](%s)
 
     ''' % (
         Name, urlHome, 'ABOUT',
@@ -351,8 +351,8 @@ def aboutPage():
         imgProjectIntro(aboutFolder, aboutPath, 'ABOUT').replace('> <', '><'),
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
-        'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel')),
-        mailTo
+        mailTo,
+        'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel'))
         )
     # print (aboutText)
     makeProjectFile(aboutFolder, aboutText)
