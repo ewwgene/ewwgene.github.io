@@ -54,6 +54,9 @@ def imgTextCreateProject(imgPath, imgHeight, project, over=None):
         hM = hH
     if len(hH)>=6:
         imgHeight = hH[-3:]
+    if project == 'ABOUT':
+        imgHeight = '33'
+
 
     # if hhH == hhhH:
     #     print(os.path.basename(imgPath)[4])
@@ -214,6 +217,7 @@ def imgTextProjectMaking2(path, urlProject, over, project):
 def imgProjectIntro(projectFolder, urlProject, project):
     imgTextInsertAll = ''
     imgNumInsertAll = []
+
     for file in os.listdir(projectFolder):
         if os.path.isfile(os.path.join(projectFolder, file)):
             name, ext = os.path.splitext(file)
