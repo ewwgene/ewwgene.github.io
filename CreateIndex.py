@@ -20,7 +20,7 @@ headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ '
 headerART= '# [' + Name + ' /](' + urlHome + ') _ART_ '
 headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 
-footer = '<br> \n\n' + about + inst + mailTo
+footer = '<br> \n\n' + about + mailTo + inst
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
@@ -359,8 +359,8 @@ def aboutPage():
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
         softwareBubbles(allSoft), hardwareBubbles(allHard),
-        inst,
         mailTo,
+        inst,
         'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel'))
         )
     # print (aboutText)
