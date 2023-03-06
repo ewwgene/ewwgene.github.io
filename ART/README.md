@@ -4,9 +4,10 @@ _2017.07-2018.07._
 Паттерн для _Society6_. Для печати на ткани, мебельных панелях, столешницах и фасадах. ... [[more...]](https://ewwgene.github.io/Trash_S6-CONCEPT/#text) <br>
 _`ART`_ _`PATTERN`_ 
 
-<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#000"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#403"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/403.jpg" height="66"></a> 
+<a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#000"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/000.jpg" height="200"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#301"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/301.jpg" height="66"></a> <a href="https://ewwgene.github.io/Trash_S6-CONCEPT/#103"><img src="https://ewwgene.github.io/Trash_S6-CONCEPT/103.jpg" height="66"></a> 
 
 <br> 
 
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
+### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
 ### [MAIL_TO:](mailto:r0cam@me.com)

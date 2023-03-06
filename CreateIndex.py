@@ -20,7 +20,7 @@ headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ '
 headerART= '# [' + Name + ' /](' + urlHome + ') _ART_ '
 headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 
-footer = '<br> \n\n' + about + mailTo
+footer = '<br> \n\n' + about + inst + mailTo
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)
