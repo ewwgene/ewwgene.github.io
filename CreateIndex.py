@@ -6,7 +6,7 @@ Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
 about= '### [ABOUT /](https://ewwgene.github.io/ABOUT)\n'
-inst= '### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)\n'
+inst= '### [@EWWGENE__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)\n'
 mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)\n'
 preFoot= '\n '
 allSoft=[]
@@ -20,7 +20,7 @@ headerDESIGN= '# [' + Name + ' /](' + urlHome + ') _DESIGN_ '
 headerART= '# [' + Name + ' /](' + urlHome + ') _ART_ '
 headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 
-footer = '<br> \n\n' + about + mailTo + inst
+footer = '<br> \n\n' + about + inst + mailTo
 
 def getProjectInfo(path):
     filePath = os.path.join(path, projectFile)

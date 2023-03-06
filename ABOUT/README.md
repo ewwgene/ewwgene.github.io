@@ -29,7 +29,7 @@ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_ _`HOUDINI`_ _`ARCHICAD`_ _`AUTOCAD`_ _`LISP`_ 
 ### [MAIL_TO:](mailto:r0cam@me.com)
 
 
-### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
+### [@EWWGENE__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
 
 
 [![ABOUT](https://ewwgene.github.io/ABOUT/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
