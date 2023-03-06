@@ -6,6 +6,7 @@ Name= 'ewwgene.github.io'
 urlHome= 'https://ewwgene.github.io/'
 smallHeight= '66'
 about= '### [ABOUT /](https://ewwgene.github.io/ABOUT)\n'
+inst= '### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)\n'
 mailTo= '### [MAIL_TO:](mailto:r0cam@me.com)'
 preFoot= '\n '
 allSoft=[]
@@ -347,6 +348,8 @@ def aboutPage():
 
 %s
 
+%s
+
 [![%s](%s/%s)](%s)
 
     ''' % (
@@ -356,6 +359,7 @@ def aboutPage():
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
         softwareBubbles(allSoft), hardwareBubbles(allHard),
+        inst,
         mailTo,
         'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel'))
         )
