@@ -359,8 +359,8 @@ def aboutPage():
         PE,
         imgTextProject(aboutFolder, aboutPath, '3', 'ABOUT'),
         softwareBubbles(allSoft), hardwareBubbles(allHard),
-        mailTo,
         inst,
+        mailTo,
         'ABOUT', aboutPath, imgProjectIntro100(aboutFolder, 'ABOUT'), normPath(os.path.join(aboutPath, 'Carousel'))
         )
     # print (aboutText)
