@@ -1,6 +1,3 @@
-﻿
-# [ewwgene.github.io /](https://ewwgene.github.io/) ABOUT
-    
 ### CV — _2007-toNow:_
 
  - _2007-2012 — образование_. Лесосибирский филиал СибГТУ, специальность "Лесоинженерное дело".
@@ -26,10 +23,9 @@
 
 _`RHINOCEROS_3D`_ _`GRASSHOPPER`_ _`HOUDINI`_ _`ARCHICAD`_ _`AUTOCAD`_ _`LISP`_ _`PYTHON`_ _`PYSIDE`_ _`QT_DESIGNER`_ _`JSON`_ _`MESHLAB`_ _`ARTCAM`_ _`CIMCO_EDIT`_ _`PROCESSING`_ _`MAYA`_ _`STUDIO_ARTIST`_ _`INKSCAPE`_ _`IDRAW`_ _`SILO_3D`_ _**`RASPBERRY_PI-4`**_ _**`CNC_MILLING`**_ _**`3D_SCANNING`**_ _**`2D_SCANNING`**_ _**`KUTZALL_WHEELS`**_ 
 
-### [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
-
-
-### [MAIL_TO:](mailto:r0cam@me.com)
+### [instagram.com/ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=)
+### [+7(913)516-80-95](+7(913)516-80-95)
+### [MAIL_TO: r0cam@me.com](mailto:r0cam@me.com)
 
 
 [![ABOUT](https://ewwgene.github.io/ABOUT/100.jpg)](https://ewwgene.github.io/ABOUT/Carousel)
