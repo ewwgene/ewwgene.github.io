@@ -27,6 +27,7 @@ headerPROGRAMMING= '# [' + Name + ' /](' + urlHome + ') _PROGRAMMING_ '
 footer = '<br> \n\n' + about + inst + mailTo
 
 def htmlData(path):
+    print(path)
     imgFolders.clear()
     return '''
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
@@ -50,17 +51,19 @@ body {}
 %s
 </body>
 </html>
-''' % (htmlName(path), htmlTable(path))
+''' % (os.path.basename(path), htmlTable(path))
         #
         # for folder in os.listdir(path):
         # pathFolder=os.path.join(path, folder)
         # if os.path.isdir(pathFolder):
         #     print('check2', pathFolder)
 def htmlName(path):
-    htmlTr(path)
-    if not os.path.basename(path)==os.path.relpath(imgs[0], f).split('\\')[0].split('_')[1]:
+    # htmlTr(path)
+    if not os.path.basename(path)==splitName(imgs[0]):
+        # print('name 1')
         return os.path.basename(path)
     else:
+        # print('name 2')
         return ''
 def htmlTable(path):
     return '''
@@ -120,7 +123,16 @@ def htmlTd(paths):
 		        </table>
 	        </td>
     %s	        
-    ''' % (os.path.relpath(paths[0], f).split('\\')[0].split('_')[1], makeInfoText(paths[0], f), htmlImg(paths))
+    ''' % (splitName(paths[0]), makeInfoText(paths[0], f), htmlImg(paths))
+
+def splitName(path):
+    try:
+        # print('try ', os.path.relpath(path, f).split('\\')[0].split('_')[1])
+        return os.path.relpath(path, f).split('\\')[0].split('_')[1]
+    except:
+        # print('except ', os.path.relpath(path, f))
+        return os.path.relpath(path, f)
+
 
 
 def htmlImg(paths):
@@ -175,7 +187,7 @@ def comment(path):
 def makeInfoText(path, f):
     infoText=''
     if "info.txt" in os.listdir(os.path.join(f, os.path.relpath(path, f).split('\\')[0])):
-        print("info.txt")
+        # print("info.txt")
         pathInfo=os.path.join(os.path.join(f, os.path.relpath(path, f).split('\\')[0]),"info.txt")
         with open(pathInfo, 'r', encoding='utf-8-sig', errors='ignore') as f:
             infoText=f.read()
@@ -186,6 +198,7 @@ def makeIndexFile(path, data):
     pathIndexFile= os.path.join(path, indexFile)
     with open(pathIndexFile, 'w', encoding='utf-8-sig', errors='ignore') as f:
         f.write(data)
+        print('Make Index', path)
         # print('create ', pathREADME)
         f.close()
         # json.dump(data, f, indent=4)
@@ -548,7 +561,7 @@ def aboutPage():
         allImageText)
 
     makeProjectFile(os.path.join(aboutFolder, 'Carousel'), textCarousel)
-    print(textCarousel)
+    # print(textCarousel)
     ################################################################################################################
 
 
@@ -557,8 +570,8 @@ def aboutPage():
 
 
 # print(os.path.join(os.path.dirname(__file__), 'projects'))
-mediumCAD=[]
-mediumDESIGN=[]
+statusSUPROJECT=[]
+statusPROJECT=[]
 text=''
 textProject=''
 dateIndex=[]
@@ -580,21 +593,20 @@ for project in os.listdir(mainFolder):
         # else:
         #     dateIndexContinues.append(info['date'][1])
         if ProjectInfo['medium'][0].startswith('DESIGN'):
-            mediumDESIGN.append(projectFolder)
+            statusPROJECT.append(projectFolder)
         if ProjectInfo['medium'][0].startswith('ART'):
-            mediumDESIGN.append(projectFolder)
+            statusPROJECT.append(projectFolder)
         if ProjectInfo['medium'][0].startswith('PROGRAMMING'):
-            mediumCAD.append(projectFolder)
+            statusSUPROJECT.append(projectFolder)
         if ProjectInfo['medium'][0].startswith('CAD'):
-            mediumCAD.append(projectFolder)
+            statusSUPROJECT.append(projectFolder)
         projectFolders.append(projectFolder)
 
 
 
 for f in projectFolders:
     makeIndexFile(f, htmlData(f))
-    print('Make Index File in ', f)
-    print(os.path.basename(f))
+
 # dateIndex.sort()
 # dateIndexContinues.sort()
 # dateIndex.reverse()
