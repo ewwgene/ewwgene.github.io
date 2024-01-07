@@ -25,7 +25,10 @@ def htmlData(path):
     print('---->', path)
     projectName = os.path.basename(path)
     checkForTitle, htmlTable = makeHtmlTable(path, projectName)
-
+    if os.path.basename(path) in fatherFolders:
+        introWWW = '../'
+    else:
+        introWWW = ''
     if checkForTitle:
         htmlTitle = makeHtmlTitle(projectName)
     else:
@@ -126,13 +129,18 @@ def makeHtmlTd(imgs, subProjectNames, imgFolder):
 
 def htmlImg(paths):
     htmlImgText = ''
+    for father in fatherFolders:
+        if father in folder:
+            introWWW = '../'
+        else:
+            introWWW = ''
     for path in paths:
         # print(path)
         htmlImgText = htmlImgText + '''
                     <td valign="top"><img src="%s" height="606" border="1">
             <p>%s
                     </td>
-            ''' % (os.path.normpath(os.path.join('../', os.path.relpath(path, folder))), comment(path))
+            ''' % (os.path.normpath(os.path.join(introWWW, os.path.relpath(path, folder))), comment(path))
     return htmlImgText
 
 
