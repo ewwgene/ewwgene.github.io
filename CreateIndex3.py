@@ -135,7 +135,7 @@ def htmlImg(paths):
         else:
             introWWW = ''
     for path in paths:
-        # print(path)
+        print(os.path.normpath(os.path.join(introWWW, os.path.relpath(path, folder))))
         htmlImgText = htmlImgText + '''
                     <td valign="top"><img src="%s" height="606" border="1">
             <p>%s
