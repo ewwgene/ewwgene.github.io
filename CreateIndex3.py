@@ -132,7 +132,7 @@ def htmlImg(paths):
                     <td valign="top"><img src="%s" height="606" border="1">
             <p>%s
                     </td>
-            ''' % (os.path.normpath(os.path.join(introWWW, os.path.relpath(path, folder))), comment(path))
+            ''' % (os.path.normpath(os.path.join('../', os.path.relpath(path, folder))), comment(path))
     return htmlImgText
 
 
