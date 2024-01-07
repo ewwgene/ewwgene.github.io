@@ -3,6 +3,7 @@ from PIL import Image, ExifTags
 
 mainFolder=os.path.dirname(os.path.dirname(__file__))
 fatherFolders= ['CAD', 'Programming']
+introWWW= 'https://ewwgene.github.io/'
 projectFile= '.project2'
 indexFile= 'index.html'
 projectFolders=[]
@@ -131,7 +132,7 @@ def htmlImg(paths):
                     <td valign="top"><img src="%s" height="606" border="1">
             <p>%s
                     </td>
-            ''' % (os.path.relpath(path, folder), comment(path))
+            ''' % (os.path.normpath(os.path.join(introWWW, os.path.relpath(path, folder))), comment(path))
     return htmlImgText
 
 
