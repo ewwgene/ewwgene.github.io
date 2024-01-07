@@ -2,6 +2,7 @@ import os, json, random
 from PIL import Image, ExifTags
 
 mainFolder=os.path.dirname(os.path.dirname(__file__))
+fatherFolders= ['CAD', 'Programming']
 projectFile= '.project2'
 indexFile= 'index.html'
 projectFolders=[]
@@ -10,6 +11,10 @@ imgs = []
 
 
 def makeIndexFile(path, data):
+    if os.path.basename(path) in fatherFolders:
+        path = os.path.join(os.path.dirname(__file__), os.path.basename(path))
+        if not os.path.exists(path):
+            os.mkdir(path)
     pathIndexFile = os.path.join(path, indexFile)
     with open(pathIndexFile, 'w', encoding='utf-8-sig', errors='ignore') as file:
         file.write(data)
