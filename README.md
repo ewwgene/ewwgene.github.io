@@ -17,5 +17,5 @@ EWWGENE:
 <font size="3"> This is my text number 3</font>
 <font size="4"> This is my text number 4</font>
 <font size="5"> This is my text number 5</font>
-<font size="10"> This is my text number 5</font>
-<font size="15"> This is my text number 5</font>
+<font size="10"> This is my text number 10</font>
+<font size="15"> This is my text number 15</font>
