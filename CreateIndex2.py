@@ -15,7 +15,8 @@ allHard=[]
 allImage=[]
 imgFolders=[]
 imgs = []
-
+projectName=''
+subProjectName=''
 allImageText=''
 # headerMain=  '# [' + Name + ' /](' + urlHome + ')\n'
 headerMain=  '# ' + Name + ' /\n'
@@ -28,7 +29,11 @@ footer = '<br> \n\n' + about + inst + mailTo
 
 def htmlData(path):
     print(path)
+    projectName = ''
+    projectName= os.path.basename(path)
     imgFolders.clear()
+    htmlprojectNameText = projectNameText()
+    htmlTableText, subProjectName = htmlTable(path, projectName)
     return '''
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
@@ -51,7 +56,7 @@ body {}
 %s
 </body>
 </html>
-''' % (os.path.basename(path), htmlTable(path))
+''' % (projectName, htmlTableText)
         #
         # for folder in os.listdir(path):
         # pathFolder=os.path.join(path, folder)
@@ -65,25 +70,32 @@ def htmlName(path):
     else:
         # print('name 2')
         return ''
-def htmlTable(path):
+def htmlTable(path, projectName):
     return '''
 <table>
     <tr >
 %s
     </tr>
 </table>
-''' % (htmlTr(path))
+''' % (htmlTr(path, projectName))
 
-def htmlTr(path):
+def htmlTr(path, projectName):
     htmlTrecursive(path)
     htmlTrText = ''
     # print(imgFolders)
     for imgFolder in imgFolders:
         imgs.clear()
         htmlTrecursive2IMG(imgFolder)
+        subProjectName =os.path.basename(imgFolder.removesuffix('\\IMG'))
+
+        # print('projectName ', projectName)
+        # print('subProjectName ', subProjectName)
+        # print('imgFolder ', imgFolder)
+        # print('subProjectName ', subProjectName)
         # print(imgFolder)
         if not len(imgs) == 0:
-            htmlTrText=htmlTrText+htmlTd(imgs)
+            # print(imgs)
+            htmlTrText=htmlTrText+htmlTd(imgs, projectName, subProjectName)
             # print(os.path.relpath(img, f).split('\\')[0])
             # print(imgs)
             # print(mainFolder)
@@ -111,8 +123,13 @@ def htmlTrecursive2IMG(path):
         else:
             htmlTrecursive2IMG(fpath)
 
-def htmlTd(paths):
-
+def htmlTd(paths, projectName, subProjectName):
+    # print('projectName ', projectName)
+    # print('subProjectName ', subProjectName)
+    # print('sub ', subProjectName)
+    # print(imgFolder)
+    # print(splitName(paths[0]))
+    # print(makeInfoText(paths[0], f))
     return '''
             <td valign="top">
 		        <table width="292" height="400" cellpadding="20">
@@ -126,6 +143,9 @@ def htmlTd(paths):
     ''' % (splitName(paths[0]), makeInfoText(paths[0], f), htmlImg(paths))
 
 def splitName(path):
+    # print('main ', mainFolder)
+    # print('f ', f)
+    # print('path ', path)
     try:
         # print('try ', os.path.relpath(path, f).split('\\')[0].split('_')[1])
         return os.path.relpath(path, f).split('\\')[0].split('_')[1]
