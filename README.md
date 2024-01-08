@@ -14,6 +14,7 @@ Inhalt:
   <a href="https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=">@ewwgene__</a>
 <a href="mailto:r0cam@me.com">mailto:r0cam@me.com</a>
 </font> 
-  
-  </font>
+</font> 
+| [@ewwgene__](https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=) | [r0cam@me.com](mailto:r0cam@me.com) |  
+
 
