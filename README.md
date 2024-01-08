@@ -9,8 +9,8 @@ Inhalt:
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Wooden/"><u>Wooden things</u></a> (S.17)<br>
 <font size="4">&#9675;</font> <a href="https://ewwgene.github.io/CAD/"><u>CAD</u></a> (S.4)<br>
 <font size="4">&#9675;</font> <a href="https://ewwgene.github.io/Programming/"><u>Programming</u></a> (S.3)<br>
-    <a href="https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=">ewwgene__</a>
-
+<font size="4">&#9675;</font> <a href="https://instagram.com/ewwgene__?igshid=YmMyMTA2M2Y=">ewwgene__</a>
+<font size="4">&#9675;</font> <a href="mailto:r0cam@me.com">mailto:r0cam@me.com</a>
   
   </font>
 
