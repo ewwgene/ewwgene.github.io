@@ -1,5 +1,5 @@
   <font size="6">
-Ewwgene:
+Inhalt:
     <br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kite/"><u>Kite fly</u></a> (S.23)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio/"><u>Folias-Follio mirrors</u></a> (S.21)<br>
