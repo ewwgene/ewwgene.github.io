@@ -6,8 +6,8 @@ Ewwgene:<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio/"><u>Folias-Follio mirrors</u></a> (S.19)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Wooden/"><u>Wooden things</u></a> (S.17)<br>
   <br>
-<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/CAD/"><u>CAD</u></a> (S.3)<br>
-<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Programming/"><u>Programming</u></a> (S.4)<br>
+<font size="4">&#9689;</font> <a href="https://ewwgene.github.io/CAD/"><u>CAD</u></a> (S.3)<br>
+<font size="4">&#9689;</font> <a href="https://ewwgene.github.io/Programming/"><u>Programming</u></a> (S.4)<br>
 
   
   </font>
