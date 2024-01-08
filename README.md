@@ -2,8 +2,8 @@
 <font size="10">
 EWWGENE:
 <br><br>
-- <li><a href="https://ewwgene.github.io/Threesome/">Threesome</a> (2023)</li>
-- <li><a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)</li>
+&bull; <li><a href="https://ewwgene.github.io/Threesome/">Threesome</a> (2023)</li>
+&#9899;- <li><a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)</li>
 - <li><a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)</li>  
 </font>
 
