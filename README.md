@@ -9,14 +9,14 @@ EWWGENE:
 
 
 
-- [Threesome](https://ewwgene.github.io/Threesome/) (2023)
-- [Kamea_ATW](https://ewwgene.github.io/Kamea_ATW/) (2021)
-- [Art-Is-Hard](https://ewwgene.github.io/Art-Is-Hard/) (2020)
-- [Folias-Follio](https://ewwgene.github.io/Folias-Follio/) (2018)
-- [Wooden](https://ewwgene.github.io/Wooden/) (2015)
+&#9679; [Threesome](https://ewwgene.github.io/Threesome/) (2023)<br>
+&#9679; [Kamea_ATW](https://ewwgene.github.io/Kamea_ATW/) (2021)<br>
+&#9679; [Art-Is-Hard](https://ewwgene.github.io/Art-Is-Hard/) (2020)<br>
+&#9679; [Folias-Follio](https://ewwgene.github.io/Folias-Follio/) (2018)<br>
+&#9679; [Wooden](https://ewwgene.github.io/Wooden/) (2015)<br>
 <br><br>
-* [CAD](https://ewwgene.github.io/CAD/) (S.3)
-* [Programming](https://ewwgene.github.io/Programming/) (S.4)
+&#9679; [CAD](https://ewwgene.github.io/CAD/) (S.3)<br>
+&#9679; [Programming](https://ewwgene.github.io/Programming/) (S.4)<br>
 <br><br>
 
 <font size="1"> [Threesome](https://ewwgene.github.io/Threesome/) (2023)</font> ​
