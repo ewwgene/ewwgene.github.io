@@ -2,10 +2,10 @@
 <font size="10">
 EWWGENE:
 <br><br>
-&#9679;<a href="https://ewwgene.github.io/Threesome/">Threesome</a> (2023)<br>
-&#9679;<a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)<br>
-&#9679;<a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)<br>
-</font>
+&#9679; <a href="https://ewwgene.github.io/Threesome/">Threesome</a> (2023)<br>
+&#9679; <a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)<br>
+&#9679; <a href="https://ewwgene.github.io/Kamea_ATW/">Kamea_ATW</a> (2023)<br>
+
 
 
 
@@ -14,15 +14,9 @@ EWWGENE:
 &#9679; [Art-Is-Hard](https://ewwgene.github.io/Art-Is-Hard/) (2020)<br>
 &#9679; [Folias-Follio](https://ewwgene.github.io/Folias-Follio/) (2018)<br>
 &#9679; [Wooden](https://ewwgene.github.io/Wooden/) (2015)<br>
-<br><br>
+<br>
 &#9679; [CAD](https://ewwgene.github.io/CAD/) (S.3)<br>
 &#9679; [Programming](https://ewwgene.github.io/Programming/) (S.4)<br>
 <br><br>
+</font>
 
-<font size="1"> [Threesome](https://ewwgene.github.io/Threesome/) (2023)</font> ​
-<font size="2"> This is my text number 2 </font>
-<font size="3"> This is my text number 3</font>
-<font size="4"> This is my text number 4</font>
-<font size="5"> This is my text number 5</font>
-<font size="10"> This is my text number 10</font>
-<li><font size="20"><a href="https://ewwgene.github.io/Threesome/">Threesome</a> (2023)</font></li>
