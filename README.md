@@ -1,6 +1,3 @@
-<Table>
-  <Tr>
-    <Td>
 <font size="6">
 Ewwgene:<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Threesome/"><u>Threesome</u></a> (2023)<br>
@@ -13,9 +10,4 @@ Ewwgene:<br>
 
   
 </font>
-</Td>
-<Td>
-  <img src="https://ewwgene.github.io/1_AutoCAD/IMG/002.jpg">
-  </Td>
-</Tr>
-</Table>
+
