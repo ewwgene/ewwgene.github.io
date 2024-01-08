@@ -3,7 +3,7 @@ Inhalt:
     <br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kite/"><u>Kite fly</u></a> (S.23)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio/"><u>Folias-Follio mirrors</u></a> (S.21)<br>
-<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea_ATW/"><u>Kamea frames</u></a> (S.20)<br>
+<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea/"><u>Kamea frames</u></a> (S.20)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Threesome/"><u>Threesome</u></a> (S.19)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Art-Is-Hard/"><u>Art-is-Hard-over-Hard</u></a> (S.18)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Wooden/"><u>Wooden things</u></a> (S.17)<br>
