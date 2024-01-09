@@ -10,6 +10,7 @@ projectFolders=[]
 imgFolders=[]
 imgs = []
 imgCash = []
+nameCash = []
 height=606
 heightA4=644
 width=910
@@ -30,6 +31,7 @@ def makeIndexFile(path, data):
 
 def htmlData(projectPath):
     print('---->', projectPath)
+
 
     return '''
     
@@ -70,6 +72,8 @@ def htmlTable(projectPath):
 def htmlBlocks(projectPath):
     htmlBlocks = ''
     imgFolders.clear()
+    imgCash.clear()
+    nameCash.clear()
     findImgFolders(projectPath)
     projectName = os.path.basename(projectPath)
 
@@ -89,7 +93,6 @@ def htmlBlock(imgFolder, subProjectName, projectName):
     return htmlBlock
 
 def htmlA4(imgFolder, subProjectName, projectName, n, img):
-
     if projectName == subProjectName:
         projectName = ''
     if n==0:
@@ -137,7 +140,11 @@ def chekVert(img):
 
 
 def htmlA5_intro_L(imgFolder, subProjectName, projectName, n, img):
-    return '''
+    if not len(nameCash)==0:
+        projectName=''
+    nameCash.append(projectName)
+    print('projectName', projectName, nameCash)
+    return ''' 
                 <td align="center" valign="top" height="100%%" width="100%%">
                     <table cellpadding="0" cellspacing="0" height="100%%" width="392">
                         <tr height="25%%">
@@ -215,11 +222,11 @@ def check3x4(img):
     im = Image.open(img)
     iMwidth, iMheight = im.size
     if iMwidth/iMheight>0.75:
-        print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'width="' )
+        # print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'width="' )
         AtrTd = 'width="' + str(width/2) + '"'
         AtrImg = 'width="100%"'
     else:
-        print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'height="' )
+        # print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'height="' )
         AtrTd = 'height="' + str(height) + '"'
         AtrImg = 'height="100%"'
     return AtrTd, AtrImg
