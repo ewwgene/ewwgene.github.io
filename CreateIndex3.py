@@ -21,6 +21,7 @@ def makeIndexFile(path, data):
         file.write(data)
         print('Make ', pathIndexFile)
         file.close()
+
 def htmlData(path):
     print('---->', path)
     projectName = os.path.basename(path)
