@@ -14,7 +14,7 @@ nameCash = []
 height=606
 heightA4=644
 width=910
-cellpadding=0
+cellpadding=3
 
 
 def makeIndexFile(path, data):
