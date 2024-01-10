@@ -14,7 +14,7 @@ nameCash = []
 height=606
 heightA4=644
 width=910
-cellpadding=3
+cellpadding=0
 
 
 def makeIndexFile(path, data):
@@ -121,7 +121,7 @@ def htmlA4(imgFolder, subProjectName, projectName, n, img):
 
     return '''
                     <td valign="top">
-                        <table cellpadding="0" cellspacing="0" height="%s" width="%s">
+                        <table cellpadding="3" cellspacing="0" height="%s" width="%s">
     	                    <tr>
                                 %s
                                 %s
