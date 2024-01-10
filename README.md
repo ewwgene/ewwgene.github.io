@@ -2,8 +2,8 @@
 Inhalt:
     <br>
 <font size="4">&#9679;</font> Kite fly (S.23)<br>
-<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio/"><u>Folias-Follio mirrors</u></a> (S.21)<br>
-<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea/"><u>Kamea frames</u></a> (S.20)<br>
+<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio-mirrors/"><u>Folias-Follio mirrors</u></a> (S.21)<br>
+<font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea-frames/"><u>Kamea frames</u></a> (S.20)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Threesome/"><u>Threesome</u></a> (S.19)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Art-Is-Hard-over-Hard/"><u>Art-Is-Hard-over-Hard</u></a> (S.18)<br>
 <font size="4">&#9679;</font> Wooden things (S.17)<br>
