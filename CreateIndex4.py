@@ -174,7 +174,7 @@ def htmlA5_intro_R(imgFolder, subProjectName, projectName, n, img):
     <td align="right" valign="top" height="%s">
     %s
     </td>
-    ''' % (height, htmlImg(img, 'height="100%"'))
+    ''' % (height, htmlImg(img, 'height="100%" border="1"'))
 
 
 def htmlA5(imgFolder, subProjectName, projectName, n, img, orient, size, Vert):
@@ -224,11 +224,11 @@ def check3x4(img):
     if iMwidth/iMheight>0.75:
         # print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'width="' )
         AtrTd = 'width="' + str(width/2) + '"'
-        AtrImg = 'width="100%"'
+        AtrImg = 'width="100%" border="1"'
     else:
         # print(os.path.basename(img), iMwidth, iMheight, iMwidth/iMheight,'height="' )
         AtrTd = 'height="' + str(height) + '"'
-        AtrImg = 'height="100%"'
+        AtrImg = 'height="100%" border="1"'
     return AtrTd, AtrImg
 
 def check3x2(img):
@@ -236,10 +236,10 @@ def check3x2(img):
     iMwidth, iMheight = im.size
     if iMwidth/iMheight>1.5:
         AtrTd = 'width="' + str(width) + '"'
-        AtrImg = 'width="100%"'
+        AtrImg = 'width="100%" border="1"'
     else:
         AtrTd = 'height="' + str(height) + '"'
-        AtrImg = 'height="100%"'
+        AtrImg = 'height="100%" border="1"'
     return AtrTd, AtrImg
 
 
