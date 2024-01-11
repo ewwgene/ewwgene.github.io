@@ -101,23 +101,29 @@ def htmlA4(imgFolder, subProjectName, projectName, n, img):
         heightHtmlA4 = height
         widthHtmlA4 = width
     else:
-        if chekVert(img):
-            if len(imgCash) == 0:
-                imgCash.append(img)
-                return ''
+        fff, ext = os.path.splitext(os.path.basename(img))
+        if not ext== '.embed':
+            if chekVert(img):
+                if len(imgCash) == 0:
+                    imgCash.append(img)
+                    return ''
+                else:
+                    imgCash.append(img)
+                    A5_L = htmlA5(imgFolder, subProjectName, projectName, n, imgCash[0], 'right', '50%', True)
+                    A5_R = htmlA5(imgFolder, subProjectName, projectName, n, img, 'left', '50%', True)
+                    heightHtmlA4 = '100%'
+                    widthHtmlA4 = width
+                    imgCash.clear()
             else:
-                imgCash.append(img)
-                A5_L = htmlA5(imgFolder, subProjectName, projectName, n, imgCash[0], 'right', '50%', True)
-                A5_R = htmlA5(imgFolder, subProjectName, projectName, n, img, 'left', '50%', True)
+                A5_L = htmlA5(imgFolder, subProjectName, projectName, n, img, 'center', '100%', False)
+                A5_R = ''
                 heightHtmlA4 = '100%'
                 widthHtmlA4 = width
-                imgCash.clear()
         else:
-            A5_L = htmlA5(imgFolder, subProjectName, projectName, n, img, 'center', '100%', False)
+            A5_L = htmlA5video(imgFolder, subProjectName, projectName, n, img, 'center', '100%', False)
             A5_R = ''
             heightHtmlA4 = '100%'
             widthHtmlA4 = width
-
 
     return '''
                     <td valign="top">
@@ -160,12 +166,12 @@ def htmlA5_intro_L(imgFolder, subProjectName, projectName, n, img):
                         </tr>
                         <tr>
                             <td align="center" valign="top">
-                                <p>
+                                <p><big>%s</big>
                             </td>
                         </tr>
                     </table>
                 </td> 
-                ''' % (projectName, subProjectName, makeInfoText(imgFolder.removesuffix('\\IMG')))
+                ''' % (projectName, subProjectName, makeInfoText(imgFolder.removesuffix('\\IMG')), makeInfoText2(imgFolder.removesuffix('\\IMG')))
 
 
 
@@ -199,6 +205,28 @@ def htmlA5(imgFolder, subProjectName, projectName, n, img, orient, size, Vert):
 				             </td>
 				                   
     ''' % (size, orient, AtrTd, htmlImg(img, AtrImg), comment(img))
+
+
+def htmlA5video(imgFolder, subProjectName, projectName, n, img, orient, size, Vert):
+    embedText=makeEmbedText(img)
+    AtrTd = 'height="' + str(height) + '"'
+    return '''
+    		                 <td align="center" height="100%%" width="%s">
+			                    <table cellpadding="0" cellspacing="0" height="100%%" width="100%%">
+				                    <tr>
+    		         	            	<td align="%s" valign="top" %s>
+						                    %s
+					                    </td>
+				                    </tr>
+				                    <tr>
+					                    <td align="left" valign="top" height="100%%">
+						                    
+					                    </td>
+				                    </tr>
+				                </table>
+				             </td>
+
+    ''' % (size, orient, AtrTd, embedText)
 
 
 def comment(path):
@@ -256,8 +284,26 @@ def makeInfoText(path):
         pathInfo=os.path.join(path,"info.txt")
         with open(pathInfo, 'r', encoding='utf-8-sig', errors='ignore') as f:
             infoText=f.read()
+            print('infoText', infoText)
             f.close()
     return infoText
+def makeInfoText2(path):
+    infoText=''
+    if "info2.txt" in os.listdir(path):
+        # print("info.txt")
+        pathInfo=os.path.join(path,"info2.txt")
+        with open(pathInfo, 'r', encoding='utf-8-sig', errors='ignore') as f:
+            infoText=f.read()
+            print('infoText', infoText)
+            f.close()
+    return infoText
+
+def makeEmbedText(path):
+    embedText=''
+    with open(path, 'r', encoding='utf-8-sig', errors='ignore') as f:
+        embedText=f.read()
+        f.close()
+    return embedText
 
 
 def findImgFolders(path):
@@ -274,7 +320,7 @@ def findImgs(imgFolder):
         fpath= os.path.join(imgFolder, f)
         if os.path.isfile(fpath):
             ff, ext= os.path.splitext(os.path.basename(fpath))
-            if ext== '.jpg' or ext== '.gif':
+            if ext== '.jpg' or ext== '.gif' or ext== '.embed':
                 if ff.isdigit():
                     # print(f)
                     imgs.append(fpath)
