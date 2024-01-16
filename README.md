@@ -1,7 +1,7 @@
   <font size="6">
 Inhalt:
     <br>
-<font size="4">&#9679;</font> Kite fly WIP (S.23)<br>
+<font size="4">&#9679;</font> Kite fly (S.23)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Folias-Follio-mirrors/"><u>Folias-Follio mirrors</u></a> (S.21)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea-frames/"><u>Kamea frames</u></a> (S.20)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Threesome/"><u>Threesome</u></a> (S.19)<br>
