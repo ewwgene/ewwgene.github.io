@@ -6,7 +6,7 @@ Inhalt:
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Kamea-frames/"><u>Kamea frames</u></a> (S.20)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Threesome/"><u>Threesome</u></a> (S.19)<br>
 <font size="4">&#9679;</font> <a href="https://ewwgene.github.io/Art-Is-Hard-over-Hard/"><u>Art-Is-Hard-over-Hard</u></a> (S.18)<br>
-<font size="4">&#9679;</font> Wooden things (S.17)<br>
+<font size="4">&#9679;</font><a href="https://ewwgene.github.io/Woodworking/"><u>Woodworking</u></a> (S.17)<br>
 <font size="4">&#9675;</font> <a href="https://ewwgene.github.io/CAD/"><u>CAD</u></a> (S.4)<br>
 <font size="4">&#9675;</font> <a href="https://ewwgene.github.io/Programming/"><u>Programming</u></a> (S.3)<br>
 <br>
